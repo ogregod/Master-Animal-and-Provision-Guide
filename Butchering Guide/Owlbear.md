@@ -383,28 +383,28 @@ Guild price: About 3 sp (imported goods, harder to get discounts)
 Note: These are dried berries. Crush them with mortar and pestle just before use - releases the piney, slightly sweet oils. Don't crush ahead of time or they go stale.
 
 Black pepper: 1 tsp per batch, coarse ground
-Source: Peppercorns (Common, 1 gp per package)
+Source: Black Peppercorns (Whole) (Common, 1 sp per package)
 
-Each package: 0.06 lbs (1 oz) of hard black spheres, 24 uses when ground (1 use ≈ 1 tsp)
+Each package: 0.25 lbs (4 oz) of dried whole black peppercorns, 48 uses when ground (1 use ≈ 1 tsp)
 
 For 70 lbs meat (7 batches): Need 7 tsp total
 
-Purchase: 1 package at 1 gp = 1 gp (retail)
+Purchase: 1 package at 1 sp = 1 sp (retail)
 
-Guild price: About 6 sp (still expensive - it's imported from southern trade routes)
+Guild price: About 6 cp (bulk discount on imported spices)
 
 Note: Buy whole peppercorns, grind coarse yourself. Pre-ground loses flavor in a week. Toast them lightly in a dry pan before grinding for deeper flavor.
 
 Garlic: 4 cloves, minced
 Source: Trielta Hills Garlic (Common, 2 cp per bulb)
 
-Each bulb: 0.1 lbs (small papery bulb) containing 9 cloves typically
+Each bulb: 0.1 lbs (medium papery bulb, about 2 inches diameter) containing 14-18 individual cloves (typically 16)
 
-For 70 lbs meat: Need 28 cloves total (about 4 bulbs)
+For 70 lbs meat: Need 28 cloves total (about 2 bulbs)
 
-Purchase: 4 bulbs at 2 cp each = 8 cp
+Purchase: 2 bulbs at 2 cp each = 4 cp
 
-Note: Pungent raw, mellow when cooked into sausage. Mince fine - big chunks burn during cooking. Each clove is about the size of your thumb (smaller cloves in the center, bigger on the outside).
+Note: Pungent raw, mellow when cooked into sausage. Mince fine - big chunks burn during cooking. Each clove varies in size from small (center) to larger (outer ring).
 
 Salt: 2 tsp
 Source: Sea Salt (Common, 1 cp per pound)
@@ -434,21 +434,21 @@ At retail prices (what you'd pay at market if you walk up and buy one batch wort
 Ingredient	Quantity Needed	Unit Price	Total Cost
 Daggerford Sage	2 bunches	3 sp each	6 sp
 Juniper Berries	1 package	5 sp each	5 sp
-Peppercorns	1 package	1 gp each	1 gp
-Trielta Hills Garlic	4 bulbs	2 cp each	8 cp
+Peppercorns (Whole)	1 package	1 sp each	1 sp
+Trielta Hills Garlic	2 bulbs	2 cp each	4 cp
 Sea Salt	1 lb	1 cp	1 cp
 Fennel Seed	1 package	4 sp	4 sp
-TOTAL			2 gp, 5 sp, 9 cp
+TOTAL			1 gp, 6 sp, 5 cp
 
 Export to Sheets
 
 At guild bulk prices (what I actually pay with connections):
 
 Category	Guild Price
-Fresh herbs (sage, garlic, fennel)	9 sp (cheaper buying bulk fresh)
-Imported spices (pepper, juniper)	9 sp (guild import connections)
+Fresh herbs (sage, garlic, fennel)	7 sp (cheaper buying bulk fresh)
+Imported spices (pepper, juniper)	4 sp (guild import connections)
 Salt	1 cp (same - it's already cheap)
-TOTAL	1 gp, 9 cp
+TOTAL	1 gp, 1 sp, 1 cp
 
 Export to Sheets
 
@@ -459,15 +459,15 @@ Sage	Free (perennial plant, harvest for years)
 Garlic	2 cp (you still need to buy seed garlic or save bulbs)
 Fennel	Free (reseeds itself, grows like a weed in most climates)
 Juniper	5 sp (still need to buy - doesn't grow reliably here)
-Pepper	1 gp (can't grow in this climate - tropical plant)
+Pepper	1 sp (can't grow in this climate - tropical plant)
 Salt	1 cp
-TOTAL	1 gp, 8 cp
+TOTAL	8 sp, 3 cp
 
 Export to Sheets
 
 My recommendation: Join the guild or make friends with someone who has. The bulk discount on spices alone pays for guild membership (60 gp per year) after processing just 4-5 owlbears.
 
-If you're an independent butcher or adventurer doing this once, budget 3 gp for spices at retail prices and don't be surprised when it costs that much. Quality ingredients aren't cheap, and cheap ingredients ruin expensive meat.
+If you're an independent butcher or adventurer doing this once, budget 2 gp for spices at retail prices and don't be surprised when it costs that much. Quality ingredients aren't cheap, and cheap ingredients ruin expensive meat.
 
 Additional Sausage Supplies
 Beyond spices, you need:
@@ -1184,13 +1184,13 @@ Independent/Retail Costs (No Guild Membership)
 Expense	Cost	Notes
 Hired master butcher	50 gp	35 gp wage + 15 gp premium for non-guild work
 3 Laborers (substitute for apprentices)	28 gp	2 sp/hour more than apprentices
-Sausage spices (retail prices)	2 gp, 5 sp, 9 cp	No bulk discount
+Sausage spices (retail prices)	1 gp, 6 sp, 5 cp	No bulk discount
 Stock aromatics	9 cp	Same (vegetables are cheap)
 Smoking wood	3 gp	Retail pricing
 Sausage casings	4 gp	Retail pricing
 Ice/cooling	8 gp	Higher rate, no guild wizard
 Miscellaneous	7 gp	Retail packaging costs
-TOTAL COSTS	102 gp, 5 sp, 9 cp	
+TOTAL COSTS	101 gp, 6 sp, 5 cp	
 
 Export to Sheets
 
@@ -1200,8 +1200,8 @@ Net Profit
 Scenario	Gross Revenue	Operating Cost	Net Profit	Margin
 Guild member (keep tenderloin)	813 gp	72 gp, 9 sp, 6 cp	740 gp, 4 cp	91%
 Guild member (sell tenderloin)	861 gp	72 gp, 9 sp, 6 cp	788 gp, 4 cp	91%
-Independent (keep tenderloin)	813 gp	102 gp, 5 sp, 9 cp	710 gp, 4 sp, 1 cp	87%
-Independent (sell tenderloin)	861 gp	102 gp, 5 sp, 9 cp	758 gp, 4 sp, 1 cp	88%
+Independent (keep tenderloin)	813 gp	101 gp, 6 sp, 5 cp	711 gp, 3 sp, 5 cp	87%
+Independent (sell tenderloin)	861 gp	101 gp, 6 sp, 5 cp	759 gp, 3 sp, 5 cp	88%
 
 Export to Sheets
 

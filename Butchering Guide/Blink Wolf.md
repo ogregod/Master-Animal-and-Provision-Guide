@@ -23,16 +23,16 @@ When adventurers drag an 800-pound Blink Wolf to your shop (and they better have
 
 - **External materials** (pelt, organs, trophies): 100 lbs → 420 gold
 - **Retail cuts** (steaks, roasts, chops): 220 lbs → 176-198 gold
-- **Sausage from trim**: 95 lbs → 76-95 gold
-- **Bone stock**: 110 lbs bones → 44 gold
-- **Rendered tallow**: 45 lbs → 9 gold
-- **Total value**: 725-766 gold depending on how you sell the cuts
+- **Sausage from trim**: 84 lbs → 65-72 gold
+- **Bone stock**: 97 lbs bones → 36 gold
+- **Rendered tallow**: 39 lbs → 7 gold
+- **Total value**: 704-733 gold depending on how you sell the cuts
 
 **Processing time:** About 10 hours with a crew of 3 skilled workers.
 
-**Operating costs:** 55-78 gold for labor, salt, spices, ice, supplies (guild vs. independent).
+**Operating costs:** 54-65 gold for labor, salt, spices, ice, supplies (guild vs. independent).
 
-**Your profit:** 647-711 gold for a day and a half of work.
+**Your profit:** 639-679 gold for a day and a half of work.
 
 That's damn good money for an animal whose meat tastes like you're chewing on a boot that spent a week in a freezer. The profit is ALL about doing this right—one mistake with those organs and you've just turned 200 gold of meat into frozen garbage or interdimensional scrap.
 
@@ -222,10 +222,10 @@ If you're used to processing deer, pigs, or cattle, wolf anatomy is going to fee
 You've got about **645 pounds of carcass** to work with after removing the external materials (100 lbs). Of that, you'll get:
 
 - 220 lbs of retail cuts (steaks, roasts, chops)
-- 95 lbs of trim for sausage
+- 84 lbs of trim for sausage
 - 25 lbs of stew meat/scraps
-- 110 lbs of bones (for stock)
-- 45 lbs of fat (for tallow)
+- 97 lbs of bones (for stock)
+- 39 lbs of fat (for tallow)
 - The rest is waste (connective tissue, organs you can't use, blood)
 
 ### The Primal Cuts of a Blink Wolf
@@ -336,24 +336,17 @@ Wolves have the same general layout as dogs, just scaled WAY up. Here's what you
 
 ### Retail Cuts Summary
 
-Here's what you're selling and what it's worth:
+Here's the breakdown of PRIMAL sections and their retail value:
 
-| Primal | Retail Weight | Average Price | Total Value |
-|--------|---------------|---------------|-------------|
-| Shoulder (both) | 110 lbs | ~8 sp/lb | 62 gp |
-| Loin/Saddle | 85 lbs | ~1 gp/lb | 86.5 gp |
-| Hindquarters (both) | 100 lbs | ~7.5 sp/lb | 73 gp |
-| Ribs/Belly | 25 lbs | ~5 sp/lb | 12 gp |
-| **TOTAL RETAIL** | **320 lbs** | **~7.4 sp/lb avg** | **233.5 gp** |
+| Primal Section | Usable Meat | Sold as Retail Cuts | Trim/Stew | Average Price | Retail Value |
+|----------------|-------------|---------------------|-----------|---------------|--------------|
+| Shoulder (both) | 110 lbs | 70 lbs roasts | 40 lbs stew | ~8 sp/lb | 62 gp |
+| Loin/Saddle | 85 lbs | 85 lbs steaks/chops | 0 lbs | ~1 gp/lb | 86.5 gp |
+| Hindquarters (both) | 100 lbs | 65 lbs roasts/steaks | 35 lbs trim | ~7.5 sp/lb | 73 gp |
+| Ribs/Belly | 25 lbs | 0 lbs | 25 lbs trim | ~5 sp/lb | 12 gp |
+| **TOTALS** | **320 lbs** | **220 lbs retail** | **100 lbs trim/stew** | **~7.4 sp/lb avg** | **233.5 gp** |
 
-**Wait, what happened to 100 lbs?**
-
-Good question. Remember, I said there were 220 lbs of retail cuts earlier. That's because the remaining 100 lbs are:
-
-- **95 lbs of trim** (goes into sausage)
-- **5 lbs of neck meat** (also sausage)
-
-These don't get sold as "cuts." They get processed into byproducts (covered in Chapter 4).
+**Understanding the breakdown:** Each primal section yields some prime retail cuts (sold as roasts/steaks) and some tougher sections (goes to trim for sausage or stew meat). The 220 lbs of retail cuts is what actually gets sold as packaged meat. The remaining 100 lbs (95 lbs trim + 5 lbs neck) gets processed into sausage.
 
 ### What Wolf Meat Actually Tastes Like
 
@@ -515,10 +508,10 @@ Not much here, but waste nothing.
 
 Everything left over goes into one of three buckets:
 
-1. **Sausage trim** (95 lbs) - any usable meat too small or tough for retail cuts
+1. **Sausage trim** (84 lbs) - any usable meat too small or tough for retail cuts
 2. **Stew meat/scraps** (25 lbs) - odds and ends, neck meat, shank scraps
-3. **Bone pile** (110 lbs) - for making stock
-4. **Fat pile** (45 lbs) - for rendering into tallow
+3. **Bone pile** (97 lbs) - for making stock
+4. **Fat pile** (39 lbs) - for rendering into tallow
 
 Nothing gets thrown away. NOTHING.
 
@@ -538,17 +531,21 @@ With a crew of 3 experienced butchers:
 
 Let's make sure we didn't lose anything:
 
-| Category | Weight |
-|----------|--------|
-| Retail cuts (shoulder, loin, legs, ribs) | 320 lbs |
-| Sausage trim | 95 lbs |
-| Stew meat/scraps | 25 lbs |
-| Bones | 110 lbs |
-| Fat | 45 lbs |
-| Waste (blood, connective tissue, unusable bits) | 50 lbs |
-| **TOTAL** | **645 lbs** |
+| Category | Weight | % of Carcass |
+|----------|--------|--------------|
+| Retail cuts (shoulder, loin, legs, ribs) | 220 lbs | 34.1% |
+| Sausage trim | 84 lbs | 13.0% |
+| Stew meat/scraps | 25 lbs | 3.9% |
+| Bones | 97 lbs | 15.0% |
+| Fat | 39 lbs | 6.0% |
+| Waste (blood, connective tissue, unusable bits) | 180 lbs | 27.9% |
+| **TOTAL** | **645 lbs** | **100%** |
 
 That matches our starting carcass weight (745 lbs minus 100 lbs of external materials). Good.
+
+**Note on yield percentages:** These match the General Butcher Guide standards for Canine processing (35% retail, 13% trim, 15% bones, 6% fat). The remaining weight includes stew meat and waste.
+
+**Note on the 220 lbs retail cuts:** This comes from the prime portions of each primal - the best roasts and steaks. The remaining usable meat from each primal (tougher sections, odd-shaped pieces, connective tissue-heavy areas) goes into the trim and stew meat categories.
 
 ---
 
@@ -559,19 +556,19 @@ You've got your retail cuts packaged and ready. Now it's time to turn the leftov
 
 ### Part 1: Wolf Sausage
 
-You've got **95 pounds of trim** sitting in buckets. It's not pretty—shoulder scraps, shank meat, neck pieces, belly odds and ends—but it's perfectly good meat.
+You've got **84 pounds of trim** sitting in buckets. It's not pretty—shoulder scraps, shank meat, neck pieces, belly odds and ends—but it's perfectly good meat.
 
 The problem: wolf meat is LEAN. Too lean for good sausage. You need to add fat.
 
 **The ratio:** 70% wolf, 30% pork fat (by weight)
 
 **The math:**
-- 95 lbs wolf trim
-- 41 lbs pork fat (purchased)
-- Total: 136 lbs of sausage mixture
+- 84 lbs wolf trim
+- 36 lbs pork fat (purchased)
+- Total: 120 lbs of sausage mixture
 
 **Cost of pork fat:** 2 silver per pound (you're buying in bulk from a pig butcher)
-- 41 lbs × 2 sp = **8.2 gold** for fat
+- 36 lbs × 2 sp = **7.2 gold** for fat
 
 #### Making the Sausage
 
@@ -590,20 +587,20 @@ Wolf meat is GAMEY. You need strong flavors to mask that metallic, wild taste.
 **Mira's Wolf Sausage Spice Blend** (per 100 lbs of meat):
 - Sage: 4 oz (6 sp)
 - Juniper berries: 3 oz (5 sp)
-- Black pepper: 2 oz (1 gp)
+- Black pepper: 2 oz (5 cp)
 - Garlic (dried/powdered): 4 oz (8 cp)
 - Salt: 3 lbs (3 cp)
 - Fennel seed: 2 oz (4 sp)
 
-**Total spice cost:** 2 gold, 5 silver, 11 copper (for 100 lbs)
+**Total spice cost:** 1 gold, 6 silver, 6 copper (for 100 lbs)
 
-For 136 lbs of sausage, scale up: **3.4 gold in spices**
+For 120 lbs of sausage, scale up: **2 gold in spices** (1 gp, 9 sp, 9 cp rounded)
 
 Mix the spices thoroughly into the ground meat. Let it rest for 30 minutes so the flavors marry.
 
 **Step 3: Stuff the casings**
 
-You'll need **natural hog casings** (purchased from a pig butcher or specialty supplier). For 136 lbs of sausage, you need about 80 feet of casing.
+You'll need **natural hog casings** (purchased from a pig butcher or specialty supplier). For 120 lbs of sausage, you need about 70 feet of casing.
 
 **Casings cost:** 2 gold
 
@@ -617,7 +614,7 @@ Hang the sausages in a cool, dry place for 24 hours. This firms them up and lets
 
 #### Sausage Yield and Pricing
 
-**Yield:** 136 lbs of finished sausage (you lose ~2 lbs to moisture and trimming)
+**Yield:** 120 lbs of finished sausage (you lose ~2 lbs to moisture and trimming)
 
 **Pricing:**
 - **Fresh sausage:** 6 silver per pound
@@ -625,29 +622,29 @@ Hang the sausages in a cool, dry place for 24 hours. This firms them up and lets
 
 Most customers want fresh, so we'll assume **6 sp/lb**.
 
-**Gross revenue:** 136 lbs × 6 sp = **81.6 gold**
+**Gross revenue:** 120 lbs × 6 sp = **72 gold**
 
 **Costs:**
-- Pork fat: 8.2 gp
-- Spices: 3.4 gp
+- Pork fat: 7.2 gp
+- Spices: 2 gp
 - Casings: 2 gp
 - Labor (2 people, 4 hours each): 4 gp
 
-**Total cost:** 17.6 gold
+**Total cost:** 15.2 gold
 
-**Net profit from sausage:** 81.6 - 17.6 = **64 gold**
+**Net profit from sausage:** 72 - 15.2 = **56.8 gold**
 
 Not bad for meat that was headed for the scrap bin.
 
 ### Part 2: Bone Stock
 
-You've got **110 pounds of bones** from the spine, ribs, legs, and skull. Wolf bones make GOOD stock—rich, gelatinous, full of flavor (in a gamey, wolfy way).
+You've got **97 pounds of bones** from the spine, ribs, legs, and skull. Wolf bones make GOOD stock—rich, gelatinous, full of flavor (in a gamey, wolfy way).
 
 #### Making the Stock
 
 **What you need:**
-- 110 lbs of bones (roasted first to develop flavor)
-- 20 gallons of water
+- 97 lbs of bones (roasted first to develop flavor)
+- 18 gallons of water
 - Aromatics: onions, carrots, celery, bay leaves, peppercorns
 - Large stockpot(s) or cauldron
 - 8-10 hours of simmering time
@@ -665,9 +662,9 @@ You've got **110 pounds of bones** from the spine, ribs, legs, and skull. Wolf b
 
 #### Stock Yield and Pricing
 
-**Yield:** About 15 gallons of stock (you lose volume to evaporation)
+**Yield:** About 13 gallons of stock (you lose volume to evaporation)
 
-That's **120 pints** (a pint is the standard selling unit).
+That's **104 pints** (a pint is the standard selling unit).
 
 **Pricing:**
 - Plain stock: 3 silver per pint
@@ -675,28 +672,28 @@ That's **120 pints** (a pint is the standard selling unit).
 
 We'll assume **3.5 sp/pint average**.
 
-**Gross revenue:** 120 pints × 3.5 sp = **42 gold**
+**Gross revenue:** 104 pints × 3.5 sp = **36.4 gold**
 
 **Costs:**
 - Aromatics: 5 sp
 - Firewood (10 hours of fire): 2 gp
 - Labor (1 person monitoring, mostly passive): 1 gp
-- Containers (jars, bottles): 3 gp
+- Containers (jars, bottles): 2.6 gp
 
-**Total cost:** 6.5 gold
+**Total cost:** 6.1 gold
 
-**Net profit from stock:** 42 - 6.5 = **35.5 gold**
+**Net profit from stock:** 36.4 - 6.1 = **30.3 gold**
 
 ### Part 3: Rendered Tallow
 
-You've got **45 pounds of fat** from the carcass. It's not much (wolves are LEAN), but it's enough to render into tallow.
+You've got **39 pounds of fat** from the carcass. It's not much (wolves are LEAN), but it's enough to render into tallow.
 
 Tallow is used for candles, soap, leather treatment, and waterproofing. It's not glamorous, but it sells.
 
 #### Rendering Process
 
 **What you need:**
-- 45 lbs of fat (chopped into small pieces)
+- 39 lbs of fat (chopped into small pieces)
 - Large pot
 - Low heat (DON'T let it smoke)
 - Cheesecloth or fine strainer
@@ -710,33 +707,33 @@ Tallow is used for candles, soap, leather treatment, and waterproofing. It's not
 5. Pour liquid tallow into containers
 6. Let it cool and solidify
 
-**Yield:** About 40 lbs of rendered tallow (you lose ~5 lbs to moisture and cracklings)
+**Yield:** About 35 lbs of rendered tallow (you lose ~4 lbs to moisture and cracklings)
 
 #### Tallow Pricing
 
 **Market rate:** 2 silver per pound (bulk rate to soap makers and chandlers)
 
-**Gross revenue:** 40 lbs × 2 sp = **8 gold**
+**Gross revenue:** 35 lbs × 2 sp = **7 gold**
 
 **Costs:**
 - Firewood: 5 sp
 - Labor (1 person, 3 hours): 5 sp
-- Containers: 5 sp
+- Containers: 4 sp
 
-**Total cost:** 1.5 gold
+**Total cost:** 1.4 gold
 
-**Net profit from tallow:** 8 - 1.5 = **6.5 gold**
+**Net profit from tallow:** 7 - 1.4 = **5.6 gold**
 
 ### Byproducts Summary
 
 | Product | Gross Revenue | Costs | Net Profit |
 |---------|---------------|-------|------------|
-| Sausage (136 lbs) | 81.6 gp | 17.6 gp | 64 gp |
-| Bone Stock (120 pints) | 42 gp | 6.5 gp | 35.5 gp |
-| Rendered Tallow (40 lbs) | 8 gp | 1.5 gp | 6.5 gp |
-| **TOTAL BYPRODUCTS** | **131.6 gp** | **25.6 gp** | **106 gp** |
+| Sausage (120 lbs) | 72 gp | 15.2 gp | 56.8 gp |
+| Bone Stock (104 pints) | 36.4 gp | 6.1 gp | 30.3 gp |
+| Rendered Tallow (35 lbs) | 7 gp | 1.4 gp | 5.6 gp |
+| **TOTAL BYPRODUCTS** | **115.4 gp** | **22.7 gp** | **92.7 gp** |
 
-That's an extra 106 gold of PROFIT from stuff that would otherwise be waste. THIS is why you process the whole animal.
+That's an extra 92.7 gold of PROFIT from stuff that would otherwise be waste. THIS is why you process the whole animal.
 
 ---
 
@@ -765,11 +762,11 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 | Ribs/Belly | 25 lbs | 12 gp |
 | *Subtotal (Retail)* | *320 lbs* | *233.5 gp* |
 | **BYPRODUCTS** | | |
-| Sausage | 136 lbs | 81.6 gp |
-| Bone Stock | 120 pints | 42 gp |
-| Rendered Tallow | 40 lbs | 8 gp |
-| *Subtotal (Byproducts)* | *varies* | *131.6 gp* |
-| **GRAND TOTAL REVENUE** | | **820.1 gp** |
+| Sausage | 120 lbs | 72 gp |
+| Bone Stock | 104 pints | 36.4 gp |
+| Rendered Tallow | 35 lbs | 7 gp |
+| *Subtotal (Byproducts)* | *varies* | *115.4 gp* |
+| **GRAND TOTAL REVENUE** | | **804.4 gp** |
 
 ### Operating Costs Breakdown
 
@@ -792,15 +789,15 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 
 - **Preservation supplies** (jars, alcohol for organs, ice): 5 gp
 - **Salt** (massive quantities): 25 gp
-- **Pork fat** (for sausage): 8.2 gp
-- **Spices** (sausage blend): 3.4 gp
+- **Pork fat** (for sausage): 7.2 gp
+- **Spices** (sausage blend): 2 gp
 - **Casings** (sausage): 2 gp
 - **Aromatics** (stock): 5 sp
-- **Firewood** (sausage, stock, tallow): 4.5 gp
-- **Containers** (stock jars, tallow containers): 6 gp
+- **Firewood** (sausage, stock, tallow): 4.3 gp
+- **Containers** (stock jars, tallow containers): 5.6 gp
 - **Miscellaneous** (twine, wrapping, cleaning supplies): 3 gp
 
-**Total materials:** 57.6 gold
+**Total materials:** 54.6 gold
 
 #### Overhead
 
@@ -815,26 +812,26 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 | Category | Independent | Guild |
 |----------|-------------|-------|
 | Labor | 40.4 gp | 60.6 gp |
-| Materials | 57.6 gp | 57.6 gp |
+| Materials | 54.6 gp | 54.6 gp |
 | Overhead | 13 gp | 13 gp |
-| **TOTAL COSTS** | **111 gp** | **131.2 gp** |
+| **TOTAL COSTS** | **108 gp** | **128.2 gp** |
 
 ### Net Profit Calculation
 
 **Independent butcher:**
-- Gross revenue: 820.1 gp
-- Operating costs: 111 gp
-- **Net profit: 709.1 gold**
+- Gross revenue: 804.4 gp
+- Operating costs: 108 gp
+- **Net profit: 696.4 gold**
 
 **Guild butcher:**
-- Gross revenue: 820.1 gp
-- Operating costs: 131.2 gp
-- **Net profit: 688.9 gold**
+- Gross revenue: 804.4 gp
+- Operating costs: 128.2 gp
+- **Net profit: 676.2 gold**
 
 ### Profit Margins
 
-**Independent:** 709 ÷ 820 = **86.5% profit margin**  
-**Guild:** 689 ÷ 820 = **84% profit margin**
+**Independent:** 696.4 ÷ 804.4 = **86.6% profit margin**
+**Guild:** 676.2 ÷ 804.4 = **84.1% profit margin**
 
 Those are EXCELLENT margins. The reason? Most of your revenue comes from high-value, low-cost items:
 - The pelt costs almost nothing to harvest
@@ -852,13 +849,13 @@ Those are EXCELLENT margins. The reason? Most of your revenue comes from high-va
 - Tallow rendering: 3 hours
 - Cleanup: 1 hour
 
-**Active time: 17.5 hours**  
+**Active time: 17.5 hours**
 **Passive time: 8 hours (stock simmering)**
 
-**Hourly rate (independent):** 709 gp ÷ 17.5 hours = **40.5 gold per hour**  
-**Hourly rate (guild):** 689 gp ÷ 17.5 hours = **39.4 gold per hour**
+**Hourly rate (independent):** 696.4 gp ÷ 17.5 hours = **39.8 gold per hour**
+**Hourly rate (guild):** 676.2 gp ÷ 17.5 hours = **38.6 gold per hour**
 
-That's INSANE money for a butcher. A skilled craftsman makes 2-3 gold per DAY. You're making 40 gold per HOUR.
+That's INSANE money for a butcher. A skilled craftsman makes 2-3 gold per DAY. You're making nearly 40 gold per HOUR.
 
 ### What You're Really Selling
 
@@ -866,12 +863,12 @@ Let's look at where the money comes from:
 
 | Category | Revenue | % of Total |
 |----------|---------|------------|
-| External materials | 455 gp | 55.5% |
-| Retail cuts | 233.5 gp | 28.5% |
-| Byproducts | 131.6 gp | 16% |
-| **TOTAL** | **820.1 gp** | **100%** |
+| External materials | 455 gp | 56.6% |
+| Retail cuts | 233.5 gp | 29.0% |
+| Byproducts | 115.4 gp | 14.4% |
+| **TOTAL** | **804.4 gp** | **100%** |
 
-**The takeaway:** More than HALF your revenue comes from things that aren't the meat. The pelt, organs, and trophies are worth 455 gold. The meat? 233 gold. The scraps? 132 gold.
+**The takeaway:** More than HALF your revenue comes from things that aren't the meat. The pelt, organs, and trophies are worth 455 gold. The meat? 233 gold. The scraps? 115 gold.
 
 THIS is why you harvest the organs first. THIS is why you don't damage the pelt.
 
@@ -880,16 +877,16 @@ THIS is why you harvest the organs first. THIS is why you don't damage the pelt.
 You have some wiggle room depending on market conditions:
 
 **Conservative pricing** (low-end estimates):
-- Gross revenue: ~750 gp
-- Net profit: ~640 gp
+- Gross revenue: ~730 gp
+- Net profit: ~620 gp
 
 **Aggressive pricing** (high-end, winter markets, desperate alchemists):
-- Gross revenue: ~900 gp
-- Net profit: ~790 gp
+- Gross revenue: ~880 gp
+- Net profit: ~770 gp
 
 **Realistic middle ground:**
-- Gross revenue: 820 gp
-- Net profit: 700 gp
+- Gross revenue: 804 gp
+- Net profit: 696 gp
 
 ---
 
