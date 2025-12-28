@@ -736,4 +736,6 @@
 - Rare: Specialty berries and dried luxury items
 - Very Rare: Exotic imports requiring special trade connections
 
-This expansion adds the fruit variety real markets have while maintaining consistency with your established systems. Ready to continue with the remaining categories?
+---
+
+*Fresh berries spoil in days and cost a fortune out of season. Dried fruits store for years and travel well. Exotic imports like pineapples are pure status symbols - you're paying 95% for transport and bragging rights. A good provisioner knows when fresh is worth the premium, when dried is smarter, and when you're just showing off. Usually it's the dried fruit that makes sense. - Helena*

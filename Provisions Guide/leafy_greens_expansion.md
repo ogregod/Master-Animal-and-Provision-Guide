@@ -619,6 +619,6 @@
 - Wild varieties available throughout region
 - Import/cultivation economics maintained
 
-This expansion provides the variety real markets offer while maintaining Helena's voice and your mathematical consistency. 
+---
 
-**Current total: ~320 new items** (bringing you from ~264 to about 585). We need about 15-20 more items to hit 600+. Should I tackle **Mushrooms** next to finish the existing categories, or would you prefer I add a new category like **Oils & Fats** or **Nuts & Seeds**?
+*Iceberg lettuce is cheap, reliable, and stores well - perfect for taverns feeding hundreds. Butterhead lettuce is delicate, expensive, and spoils in days - perfect for noble house dinners where presentation matters. Baby greens are wildly overpriced unless you're trying to impress someone. Collard greens are peasant food that happens to be nutritious and filling. Know the difference, buy accordingly. - Helena*

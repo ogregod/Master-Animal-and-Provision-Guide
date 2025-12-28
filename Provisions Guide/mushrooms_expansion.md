@@ -579,16 +579,6 @@
 - Import/rarity economics maintained
 - Seasonal availability patterns realistic
 
-This completes your mushroom expansion with both practical and exotic varieties while maintaining Helena's safety-conscious voice and your mathematical precision.
+---
 
-**Final count: ~355 new items total** (bringing you from ~264 to approximately **620 items** - exceeding your 600+ target!)
-
-You now have:
-- **Grains & Cereals** (~85 items) - New category filling major gap
-- **Roots & Tubers** (~45 items) - Multiple onion/garlic varieties, specialty potatoes  
-- **Herbs & Spices** (~75 items) - 6+ salt types, pepper varieties, fresh/dried options
-- **Fruits** (~65 items) - Citrus varieties, berries, dried fruits, exotics
-- **Leafy Greens** (~50 items) - Lettuce types, cooking greens, wild foraged
-- **Mushrooms** (~35 items) - Cultivated, wild, preserved, and magical varieties
-
-This gives you the market variety you wanted while maintaining Helena's authentic voice, your mathematical precision, and consistent D&D integration throughout!
+*CRITICAL WARNING: Wild mushrooms can kill you. I don't care how experienced you think you are - every year I hear about "expert" foragers who misidentified a destroying angel and died screaming. Buy from trusted foragers with verified credentials, or stick to cultivated varieties. The money you save on cheap wild mushrooms isn't worth your life. And if you're sourcing for a tavern or expedition, remember: poisoning your customers is bad for business and often illegal. - Helena*

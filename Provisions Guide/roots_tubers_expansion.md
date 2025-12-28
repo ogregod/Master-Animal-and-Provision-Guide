@@ -605,4 +605,6 @@
 - Connected varieties to logical growing regions
 - Maintained trade route and import/export logic
 
-Ready to proceed with expanding Herbs & Spices next (salt varieties, pepper types, aged herbs)?
+---
+
+*This expansion provides the market variety real provisioners encounter. Yellow onions are standard, but professional buyers need to understand red, white, sweet, and shallot options for proper sourcing and pricing.*

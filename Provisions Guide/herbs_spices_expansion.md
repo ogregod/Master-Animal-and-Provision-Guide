@@ -892,4 +892,6 @@
 - Regional verification (authenticity)
 - Proper processing evidence
 
-This expansion gives you the variety you wanted - 6+ salt types, multiple pepper varieties, fresh/dried options, regional variants, and practical spice blends. Ready to tackle the next category?
+---
+
+*Professional cooks don't just say "get salt" - they specify fine sea salt for general cooking, smoked salt for finishing, or black volcanic salt for exotic dishes. Same with pepper: whole black peppercorns are standard, but white pepper won't show specks in white sauces, and green peppercorns bring completely different flavors to steaks. This isn't luxury - it's basic professional knowledge. A provisioner who only stocks one type of each is marking themselves as amateur. - Helena*

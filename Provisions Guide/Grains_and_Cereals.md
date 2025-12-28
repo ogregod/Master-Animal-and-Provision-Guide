@@ -1,11 +1,4 @@
-# GRAINS & CEREALS EXPANSION
-## For The Master Provisioner's Guide
-
-*Note: This section will be inserted between Roots & Tubers and Leafy Greens*
-
----
-
-# PART II: GRAINS & CEREALS
+# GRAINS & CEREALS
 ## The Foundation of Every Kitchen
 
 *I can't believe I published five editions without a proper grains section. A young quartermaster from Neverwinter pointed it out last year - very politely, but he was right. How do you write a provisioner's guide without covering the single most important category? Embarrassing. Well, here's thirty-two years of grain knowledge, finally in one place. From the mills of Goldenfields to the specialty importers of Waterdeep, this is what I should have written first. - Helena*
@@ -18,10 +11,12 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 - Know your miller (good grinding makes good flour)
 - Understand moisture content (wet grain spoils, dry grain stores)
 
-## COMMON GRAINS
+---
+
+## COMMON GRAINS & CEREALS
 
 ### Goldenfields Hard Wheat
-**Price:** 1 sp | **Weight:** 10 lbs | **Uses:** 40 | **Type:** Food
+**Rarity:** Common | **Price:** 1 sp | **Weight:** 10 lbs | **Uses:** 40 | **Type:** Food
 
 **What you're buying:** A burlap sack of hard, amber-colored wheat berries with high protein content.
 
@@ -56,8 +51,8 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-### Daggerford Soft Wheat  
-**Price:** 8 cp | **Weight:** 10 lbs | **Uses:** 40 | **Type:** Food
+### Daggerford Soft Wheat
+**Rarity:** Common | **Price:** 8 cp | **Weight:** 10 lbs | **Uses:** 40 | **Type:** Food
 
 **What you're buying:** A sack of pale, soft wheat berries with lower protein content, perfect for pastries.
 
@@ -91,7 +86,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Elturgard Barley
-**Price:** 6 cp | **Weight:** 10 lbs | **Uses:** 35 | **Type:** Food
+**Rarity:** Common | **Price:** 6 cp | **Weight:** 10 lbs | **Uses:** 35 | **Type:** Food
 
 **What you're buying:** A sack of plump, pale brown barley grains with intact hulls.
 
@@ -131,84 +126,8 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-### Waterdeep White Rice  
-**Price:** 3 sp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
-
-**What you're buying:** A fine cloth bag of polished white rice grains imported from southern regions.
-
-**Unidentified appearance:** Bag of small, white, polished oval grains.
-
-**Storage:**
-- Excellent storage grain when kept dry
-- More prone to insects than wheat or barley
-- Bay leaves in storage help deter pests
-- Shelf life: 2-3 years in proper conditions
-
-**Usage notes:**
-- One use = about 1/4 cup dry rice (makes 3/4 cup cooked)
-- Cooks in 20 minutes with 2:1 water ratio
-- Mild flavor, absorbs seasonings well
-- Excellent base for both sweet and savory dishes
-
-**Preparation methods:**
-- Steaming (best texture)
-- Boiling (easier but mushier)
-- Frying (after cooking, for texture)
-- Porridge (overcooked, creamy)
-
-**What to look for when buying:**
-- Bright white color
-- Uniform grain size
-- No broken pieces (indicates rough handling)
-- No insects or weevils
-
-**Regional notes:** Imported through Waterdeep from Calimshan and lands further south. Expensive due to transport costs, but popular in noble houses and with adventurers (lightweight, nutritious, quick-cooking).
-
----
-
-### Moonshae Wild Rice
-**Price:** 8 sp | **Weight:** 2 lbs | **Uses:** 12 | **Type:** Food
-
-**What you're buying:** A small bag of dark brown, elongated grains harvested from lake grasses.
-
-**Unidentified appearance:** Small bag of dark, thin, irregular grains.
-
-**Storage:**
-- Stores very well due to natural oils
-- Keep cool and dry
-- Less attractive to pests than other grains
-- Shelf life: 3-4 years
-
-**Usage notes:**
-- One use = about 1/6 cup dry (very filling)
-- Takes 45-60 minutes to cook
-- Nutty, earthy flavor
-- Very nutritious, high protein
-
-**Cooking characteristics:**
-- Requires more water than regular rice
-- Some grains split open when done (normal)
-- Chewy texture even when fully cooked
-- Excellent mixed with regular rice
-
-**Cultural notes:**
-- Sacred to some Moonshae Islander tribes
-- Traditionally hand-harvested from canoes
-- Often mixed with berries and nuts
-- Considered a delicacy
-
-**What to look for when buying:**
-- Dark brown to black color
-- Long, slender grains
-- No musty odor
-- Verify Moonshae origin (many fakes)
-
-**Regional notes:** Harvested only in the Moonshae Isles from wild lake grasses. Limited supply makes it expensive. Druids sometimes control the harvest. Very nutritious but acquired taste.
-
----
-
 ### Goldenfields Oats
-**Price:** 7 cp | **Weight:** 10 lbs | **Uses:** 45 | **Type:** Food
+**Rarity:** Common | **Price:** 7 cp | **Weight:** 10 lbs | **Uses:** 45 | **Type:** Food
 
 **What you're buying:** A sack of hulled oats with a slightly sweet, nutty aroma.
 
@@ -248,51 +167,43 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-### Candlekeep Brown Rice
-**Price:** 4 sp | **Weight:** 5 lbs | **Uses:** 20 | **Type:** Food
+### Waterdeep White Rice
+**Rarity:** Common | **Price:** 3 sp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
 
-**What you're buying:** A bag of unpolished rice with the bran layer intact, giving it a tan color.
+**What you're buying:** A fine cloth bag of polished white rice grains imported from southern regions.
 
-**Unidentified appearance:** Bag of light brown, oval grains with slightly rough texture.
+**Unidentified appearance:** Bag of small, white, polished oval grains.
 
 **Storage:**
-- Shorter shelf life than white rice due to oils in bran
-- Keep very cool and dry
-- More susceptible to rancidity
-- Shelf life: 6-8 months
+- Excellent storage grain when kept dry
+- More prone to insects than wheat or barley
+- Bay leaves in storage help deter pests
+- Shelf life: 2-3 years in proper conditions
 
 **Usage notes:**
-- One use = 1/4 cup dry rice (less expansion than white rice)
-- Requires longer cooking time (45 minutes)
-- Nuttier flavor than white rice
-- More nutritious but less popular
+- One use = about 1/4 cup dry rice (makes 3/4 cup cooked)
+- Cooks in 20 minutes with 2:1 water ratio
+- Mild flavor, absorbs seasonings well
+- Excellent base for both sweet and savory dishes
 
-**Preparation:**
-- Soak for 30 minutes before cooking (optional but helpful)
-- Use 2.5:1 water ratio
-- Don't stir while cooking (becomes gummy)
-- Rest 10 minutes after cooking
-
-**Nutritional benefits:**
-- Higher fiber content
-- More vitamins and minerals
-- More protein than white rice
-- Keeps you full longer
+**Preparation methods:**
+- Steaming (best texture)
+- Boiling (easier but mushier)
+- Frying (after cooking, for texture)
+- Porridge (overcooked, creamy)
 
 **What to look for when buying:**
-- Light brown, uniform color
-- No rancid smell
-- Intact bran layer
-- No broken or damaged grains
+- Bright white color
+- Uniform grain size
+- No broken pieces (indicates rough handling)
+- No insects or weevils
 
-**Regional notes:** Popular among the scholars of Candlekeep who value its nutritional benefits for long study sessions. More expensive than white rice due to limited demand and shorter storage life.
+**Regional notes:** Imported through Waterdeep from Calimshan and lands further south. Expensive due to transport costs, but popular in noble houses and with adventurers (lightweight, nutritious, quick-cooking).
 
 ---
 
-## COMMON GROUND GRAINS (FLOURS)
-
 ### Goldenfields Bread Flour
-**Price:** 2 sp | **Weight:** 5 lbs | **Uses:** 30 | **Type:** Food
+**Rarity:** Common | **Price:** 2 sp | **Weight:** 5 lbs | **Uses:** 30 | **Type:** Food
 
 **What you're buying:** A cloth sack of finely ground hard wheat flour with high protein content.
 
@@ -337,49 +248,8 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-### Daggerford Pastry Flour
-**Price:** 3 sp | **Weight:** 5 lbs | **Uses:** 35 | **Type:** Food
-
-**What you're buying:** A fine cloth sack of very finely ground soft wheat flour, almost powder-fine.
-
-**Unidentified appearance:** Sack of very fine, pale powder that feels silky.
-
-**Storage:**
-- Even shorter shelf life than bread flour
-- Goes rancid more quickly
-- Keep very cool and absolutely dry
-- Shelf life: 2-3 months maximum
-
-**Usage notes:**
-- One use = about 1/2 cup flour
-- Low protein creates tender, delicate baked goods
-- Perfect for cakes, pastries, and fine breads
-- Not suitable for hearty bread (won't rise properly)
-
-**Baking properties:**
-- Creates tender crumb
-- Minimal gluten development
-- Excellent for layered pastries
-- Ideal for noble house desserts
-
-**Professional applications:**
-- Wedding cakes
-- Delicate pastries
-- Light, fluffy quick breads
-- Thickening agent for sauces
-
-**What to look for when buying:**
-- Extremely fine texture
-- Pure white or very pale color
-- No lumps or clumps
-- Sweet, clean smell
-
-**Regional notes:** Specialty product from Daggerford's finest mills. Expensive but essential for high-end baking. Popular with pastry chefs in Waterdeep and Baldur's Gate.
-
----
-
 ### Mixed Grain Flour
-**Price:** 1 sp 5 cp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
+**Rarity:** Common | **Price:** 1 sp 5 cp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
 
 **What you're buying:** A coarse sack containing a blend of wheat, barley, and oat flours ground together.
 
@@ -392,7 +262,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 - Shelf life: 4-5 months
 
 **Usage notes:**
-- One use = about 3/4 cup flour  
+- One use = about 3/4 cup flour
 - Creates dense, nutritious bread
 - Hearty flavor, slightly sweet from oats
 - Traditional peasant and farmer bread flour
@@ -419,10 +289,92 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-## UNCOMMON GRAINS
+## UNCOMMON GRAINS & CEREALS
+
+### Moonshae Wild Rice
+**Rarity:** Uncommon | **Price:** 8 sp | **Weight:** 2 lbs | **Uses:** 12 | **Type:** Food
+
+**What you're buying:** A small bag of dark brown, elongated grains harvested from lake grasses.
+
+**Unidentified appearance:** Small bag of dark, thin, irregular grains.
+
+**Storage:**
+- Stores very well due to natural oils
+- Keep cool and dry
+- Less attractive to pests than other grains
+- Shelf life: 3-4 years
+
+**Usage notes:**
+- One use = about 1/6 cup dry (very filling)
+- Takes 45-60 minutes to cook
+- Nutty, earthy flavor
+- Very nutritious, high protein
+
+**Cooking characteristics:**
+- Requires more water than regular rice
+- Some grains split open when done (normal)
+- Chewy texture even when fully cooked
+- Excellent mixed with regular rice
+
+**Cultural notes:**
+- Sacred to some Moonshae Islander tribes
+- Traditionally hand-harvested from canoes
+- Often mixed with berries and nuts
+- Considered a delicacy
+
+**What to look for when buying:**
+- Dark brown to black color
+- Long, slender grains
+- No musty odor
+- Verify Moonshae origin (many fakes)
+
+**Regional notes:** Harvested only in the Moonshae Isles from wild lake grasses. Limited supply makes it expensive. Druids sometimes control the harvest. Very nutritious but acquired taste.
+
+---
+
+### Candlekeep Brown Rice
+**Rarity:** Uncommon | **Price:** 4 sp | **Weight:** 5 lbs | **Uses:** 20 | **Type:** Food
+
+**What you're buying:** A bag of unpolished rice with the bran layer intact, giving it a tan color.
+
+**Unidentified appearance:** Bag of light brown, oval grains with slightly rough texture.
+
+**Storage:**
+- Shorter shelf life than white rice due to oils in bran
+- Keep very cool and dry
+- More susceptible to rancidity
+- Shelf life: 6-8 months
+
+**Usage notes:**
+- One use = 1/4 cup dry rice (less expansion than white rice)
+- Requires longer cooking time (45 minutes)
+- Nuttier flavor than white rice
+- More nutritious but less popular
+
+**Preparation:**
+- Soak for 30 minutes before cooking (optional but helpful)
+- Use 2.5:1 water ratio
+- Don't stir while cooking (becomes gummy)
+- Rest 10 minutes after cooking
+
+**Nutritional benefits:**
+- Higher fiber content
+- More vitamins and minerals
+- More protein than white rice
+- Keeps you full longer
+
+**What to look for when buying:**
+- Light brown, uniform color
+- No rancid smell
+- Intact bran layer
+- No broken or damaged grains
+
+**Regional notes:** Popular among the scholars of Candlekeep who value its nutritional benefits for long study sessions. More expensive than white rice due to limited demand and shorter storage life.
+
+---
 
 ### Sembian Durum Wheat
-**Price:** 2 sp | **Weight:** 8 lbs | **Uses:** 30 | **Type:** Food
+**Rarity:** Uncommon | **Price:** 2 sp | **Weight:** 8 lbs | **Uses:** 30 | **Type:** Food
 
 **What you're buying:** A premium sack of hard, amber durum wheat with very high protein content.
 
@@ -463,7 +415,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Silverymoon Rye
-**Price:** 1 sp 2 cp | **Weight:** 10 lbs | **Uses:** 35 | **Type:** Food
+**Rarity:** Uncommon | **Price:** 1 sp 2 cp | **Weight:** 10 lbs | **Uses:** 35 | **Type:** Food
 
 **What you're buying:** A sack of elongated, grayish-brown rye grains with distinctive earthy aroma.
 
@@ -504,7 +456,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Cormyrian Purple Corn
-**Price:** 3 sp | **Weight:** 6 lbs | **Uses:** 25 | **Type:** Food
+**Rarity:** Uncommon | **Price:** 3 sp | **Weight:** 6 lbs | **Uses:** 25 | **Type:** Food
 
 **What you're buying:** Dried ears of corn with deep purple kernels still on the cob.
 
@@ -544,51 +496,49 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-### Ancient Emmer Wheat
-**Price:** 4 sp | **Weight:** 5 lbs | **Uses:** 20 | **Type:** Food
+### Daggerford Pastry Flour
+**Rarity:** Uncommon | **Price:** 3 sp | **Weight:** 5 lbs | **Uses:** 35 | **Type:** Food
 
-**What you're buying:** A small sack of unhulled emmer wheat, an ancient variety with attached hulls.
+**What you're buying:** A fine cloth sack of very finely ground soft wheat flour, almost powder-fine.
 
-**Unidentified appearance:** Small sack of reddish-brown grains with visible hull attachments.
+**Unidentified appearance:** Sack of very fine, pale powder that feels silky.
 
 **Storage:**
-- Exceptional storage due to hull protection
-- Resists pests and moisture
-- Keep cool and dry
-- Shelf life: 3-5 years unhulled
+- Even shorter shelf life than bread flour
+- Goes rancid more quickly
+- Keep very cool and absolutely dry
+- Shelf life: 2-3 months maximum
 
 **Usage notes:**
-- One use = 1/4 cup berries (yields less flour due to hulling loss)
-- Must be hulled before grinding
-- Complex, nutty flavor
-- More nutritious than modern wheat
+- One use = about 1/2 cup flour
+- Low protein creates tender, delicate baked goods
+- Perfect for cakes, pastries, and fine breads
+- Not suitable for hearty bread (won't rise properly)
 
-**Processing challenges:**
-- Difficult to hull by hand
-- Requires specialized equipment
-- Time-consuming to process
-- About 60% yield after hulling
+**Baking properties:**
+- Creates tender crumb
+- Minimal gluten development
+- Excellent for layered pastries
+- Ideal for noble house desserts
 
-**Flavor and nutrition:**
-- Rich, complex nutty flavor  
-- Higher protein than modern wheat
-- More vitamins and minerals
-- Distinctive taste in breads
+**Professional applications:**
+- Wedding cakes
+- Delicate pastries
+- Light, fluffy quick breads
+- Thickening agent for sauces
 
 **What to look for when buying:**
-- Reddish-brown color
-- Hulls firmly attached
-- Heavy for size
-- No insect damage
+- Extremely fine texture
+- Pure white or very pale color
+- No lumps or clumps
+- Sweet, clean smell
 
-**Regional notes:** Ancient variety still grown in small quantities by traditional farmers. Popular with scholars, druids, and those seeking historical authenticity. Expensive due to difficult processing.
+**Regional notes:** Specialty product from Daggerford's finest mills. Expensive but essential for high-end baking. Popular with pastry chefs in Waterdeep and Baldur's Gate.
 
 ---
 
-## UNCOMMON PROCESSED GRAINS
-
 ### Stone-Ground Whole Wheat Flour
-**Price:** 4 sp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
+**Rarity:** Uncommon | **Price:** 4 sp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
 
 **What you're buying:** Coarsely ground whole wheat flour that retains all parts of the grain.
 
@@ -629,7 +579,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Buckwheat Flour
-**Price:** 5 sp | **Weight:** 3 lbs | **Uses:** 18 | **Type:** Food
+**Rarity:** Uncommon | **Price:** 5 sp | **Weight:** 3 lbs | **Uses:** 18 | **Type:** Food
 
 **What you're buying:** Dark gray flour ground from buckwheat seeds (not actually wheat).
 
@@ -669,10 +619,51 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-## RARE GRAINS
+## RARE GRAINS & CEREALS
+
+### Ancient Emmer Wheat
+**Rarity:** Rare | **Price:** 4 sp | **Weight:** 5 lbs | **Uses:** 20 | **Type:** Food
+
+**What you're buying:** A small sack of unhulled emmer wheat, an ancient variety with attached hulls.
+
+**Unidentified appearance:** Small sack of reddish-brown grains with visible hull attachments.
+
+**Storage:**
+- Exceptional storage due to hull protection
+- Resists pests and moisture
+- Keep cool and dry
+- Shelf life: 3-5 years unhulled
+
+**Usage notes:**
+- One use = 1/4 cup berries (yields less flour due to hulling loss)
+- Must be hulled before grinding
+- Complex, nutty flavor
+- More nutritious than modern wheat
+
+**Processing challenges:**
+- Difficult to hull by hand
+- Requires specialized equipment
+- Time-consuming to process
+- About 60% yield after hulling
+
+**Flavor and nutrition:**
+- Rich, complex nutty flavor
+- Higher protein than modern wheat
+- More vitamins and minerals
+- Distinctive taste in breads
+
+**What to look for when buying:**
+- Reddish-brown color
+- Hulls firmly attached
+- Heavy for size
+- No insect damage
+
+**Regional notes:** Ancient variety still grown in small quantities by traditional farmers. Popular with scholars, druids, and those seeking historical authenticity. Expensive due to difficult processing.
+
+---
 
 ### Feywild Moonwheat
-**Price:** 10 gp | **Weight:** 1 lb | **Uses:** 8 | **Type:** Food
+**Rarity:** Rare | **Price:** 10 gp | **Weight:** 1 lb | **Uses:** 8 | **Type:** Food
 
 **What you're buying:** Silvery-white wheat berries that seem to glow faintly in moonlight.
 
@@ -712,8 +703,10 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
+## VERY RARE GRAINS & CEREALS
+
 ### Dragon's Grain (Red Wheat)
-**Price:** 25 gp | **Weight:** 0.5 lbs | **Uses:** 4 | **Type:** Food
+**Rarity:** Very Rare | **Price:** 25 gp | **Weight:** 0.5 lbs | **Uses:** 4 | **Type:** Food
 
 **What you're buying:** Wheat berries with a deep red color that grows only in areas touched by dragon magic.
 
@@ -759,8 +752,10 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
+## LEGENDARY GRAINS & CEREALS
+
 ### Celestial Barley
-**Price:** 50 gp | **Weight:** 0.3 lbs | **Uses:** 3 | **Type:** Food
+**Rarity:** Legendary | **Price:** 50 gp | **Weight:** 0.3 lbs | **Uses:** 3 | **Type:** Food
 
 **What you're buying:** Golden barley grains that emit a soft, divine light.
 
@@ -806,32 +801,4 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 
 ---
 
-*[This completes Part II: Grains & Cereals - approximately 85 new items]*
-
-## CONSISTENCY NOTES FOR INTEGRATION
-
-**Pricing Structure:**
-- Common grains: 5-20 cp per useful unit
-- Uncommon grains: 1-5 sp per useful unit  
-- Rare grains: 5-50 gp per useful unit
-- Magical properties justify high rare pricing
-
-**Weight/Uses Mathematics:**
-- Whole grains yield more uses per pound (40-45 uses/10 lbs = ~2.5 oz per use)
-- Ground flours yield fewer uses due to processing (25-35 uses/5 lbs = ~2-3 oz per use) 
-- Specialty/magical grains are more potent (4-8 uses per pound)
-
-**Helena's Voice Maintained:**
-- Practical storage and buying advice
-- Personal experience references
-- Regional knowledge and trade insights
-- Warnings about quality and safety
-- Mathematical precision in measurements
-
-**Storage Patterns:**
-- Whole grains: 1-3 years
-- Ground flours: 2-4 months
-- Magical grains: indefinite
-- Pest and moisture warnings consistent throughout
-
-This expansion adds the missing foundation category while maintaining all existing consistency standards. Ready to proceed with expanding the existing categories?
+*This completes the Grains & Cereals category with 28 comprehensive items organized by rarity.*
