@@ -16,22 +16,47 @@ Each category file is comprehensive and standalone - everything you need to know
 
 ## Complete Guide Structure
 
-### 📖 Legacy Reference
-**[The Master Provisioner's Guide](./The_Master_Provisioner_s_Guide.md)**
-- Original combined reference (still available for historical reference)
-- Contains all 325+ original items in one file
-- Organized by category within rarity tiers
-
-### ✨ Current Comprehensive Category Guides
-Each category is now a complete, integrated reference with full details for all items:
+Each category is now a complete, integrated reference with full details for all items, presented in a logical order:
 
 ---
 
 ## Comprehensive Category Guides
 
+### 🌾 GRAINS & CEREALS
+
+**📋 [1. Grains & Cereals - Complete Guide](./01_Grains_and_Cereals.md)** - 28 items
+*Complete category covering the foundation of every kitchen*
+
+**Coverage includes:**
+
+**Whole Grains:**
+- Hard wheat, soft wheat, barley, oats
+- White rice, brown rice, wild rice
+- Rye, corn (various types)
+- Ancient and heritage grains
+
+**Ground Grains (Flours):**
+- Bread flour, pastry flour, all-purpose flour
+- Whole wheat flour, specialty flours
+- Cornmeal, rice flour
+- Buckwheat and alternative flours
+
+**Processed Grain Products:**
+- Rolled oats, steel-cut oats
+- Various grain preparations
+
+**Rare Magical Grains:**
+- Feywild Moonwheat (glows in moonlight)
+- Dragon's Grain (provides cold resistance)
+- Celestial Barley (divine healing properties)
+
+**Why this matters:** Grains are the backbone of provisioning - they store well (1-3 years), travel well, and turn into bread, porridge, beer, and countless necessities.
+
+---
+
 ### 🧅 ROOTS & TUBERS
 
-**📋 [Roots & Tubers - Complete Guide](./Roots_and_Tubers.md)** - 60+ items
+**📋 [2. Roots & Tubers - Complete Guide](./02_Roots_and_Tubers.md)** - 60+ items
 *Comprehensive integrated guide covering all root vegetables and tubers*
 
 **Coverage includes:**
@@ -62,41 +87,9 @@ Each category is now a complete, integrated reference with full details for all 
 
 ---
 
-### 🌾 GRAINS & CEREALS
-
-**📋 [Grains & Cereals - Complete Guide](./Grains_and_Cereals.md)** - 28 items
-*Complete category covering the foundation of every kitchen - NEW CONTENT*
-
-**Coverage includes:**
-
-**Whole Grains:**
-- Hard wheat, soft wheat, barley, oats
-- White rice, brown rice, wild rice
-- Rye, corn (various types)
-- Ancient and heritage grains
-
-**Ground Grains (Flours):**
-- Bread flour, pastry flour, all-purpose flour
-- Whole wheat flour, specialty flours
-- Cornmeal, rice flour
-- Buckwheat and alternative flours
-
-**Processed Grain Products:**
-- Rolled oats, steel-cut oats
-- Various grain preparations
-
-**Rare Magical Grains:**
-- Feywild Moonwheat (glows in moonlight)
-- Dragon's Grain (provides cold resistance)
-- Celestial Barley (divine healing properties)
-
-**Why this matters:** Grains are the backbone of provisioning - they store well (1-3 years), travel well, and turn into bread, porridge, beer, and countless necessities. This was a glaring omission from earlier editions.
-
----
-
 ### 🥬 LEAFY GREENS
 
-**📋 [Leafy Greens - Complete Guide](./Leafy_Greens.md)** - 57 items
+**📋 [3. Leafy Greens - Complete Guide](./03_Leafy_Greens.md)** - 57 items
 *Comprehensive integrated guide - markets offer more than just "cabbage and lettuce"*
 
 **Coverage includes:**
@@ -131,7 +124,7 @@ Each category is now a complete, integrated reference with full details for all 
 
 ### 🍄 MUSHROOMS
 
-**📋 [Mushrooms - Complete Guide](./Mushrooms.md)** - 55+ items
+**📋 [5. Mushrooms - Complete Guide](./05_Mushrooms.md)** - 55+ items
 *Comprehensive integrated guide with CRITICAL SAFETY WARNINGS*
 
 **Coverage includes:**
@@ -169,7 +162,7 @@ Never forage wild mushrooms without expert identification - many deadly species 
 
 ### 🍎 FRUITS
 
-**📋 [Fruits - Complete Guide](./Fruits.md)** - 68 items
+**📋 [4. Fruits - Complete Guide](./04_Fruits.md)** - 68 items
 *Comprehensive integrated guide covering fresh, preserved, and exotic varieties*
 
 **Coverage includes:**
@@ -217,7 +210,7 @@ Never forage wild mushrooms without expert identification - many deadly species 
 
 ### 🌿 HERBS & SPICES
 
-**📋 [Herbs & Spices - Complete Guide](./Herbs_and_Spices.md)** - 90+ items
+**📋 [6. Herbs & Spices - Complete Guide](./06_Herbs_and_Spices.md)** - 90+ items
 *Comprehensive integrated guide - professional knowledge of seasonings*
 
 **Coverage includes:**
@@ -270,7 +263,7 @@ Never forage wild mushrooms without expert identification - many deadly species 
 
 ### 🍺 BEVERAGES
 
-**📋 [Beverages - Complete Guide](./Beverages.md)** - 45+ items
+**📋 [7. Beverages - Complete Guide](./07_Beverages.md)** - 45+ items
 *Comprehensive integrated guide covering everything from water to divine ambrosia*
 
 **Coverage includes:**
