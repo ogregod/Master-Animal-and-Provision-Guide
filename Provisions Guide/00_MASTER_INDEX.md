@@ -8,264 +8,311 @@
 
 ## How to Use This Index
 
-This index connects all the provisioner's guides into one comprehensive reference system. Each category has a **Core Guide** covering essentials and a **Variety Expansion** covering specialty items, regional variations, and rare ingredients.
+This index connects all the provisioner's guides into one comprehensive reference system. Each category has been compiled into a **complete, integrated guide** covering all items from common staples to legendary rarities.
 
-**Start with the Core Guide** for everyday provisioning needs.
-**Consult the Expansion** when you need specialty items or want to understand market variety.
+Each category file is comprehensive and standalone - everything you need to know about that category is in one place.
 
 ---
 
 ## Complete Guide Structure
 
-### 📖 Core Reference
+### 📖 Legacy Reference
 **[The Master Provisioner's Guide](./The_Master_Provisioner_s_Guide.md)**
-- Primary reference with 325+ essential ingredients
-- Organized by rarity: Common → Uncommon → Rare → Very Rare → Legendary
-- Covers all six traditional categories
-- Essential reading for all provisioners
+- Original combined reference (still available for historical reference)
+- Contains all 325+ original items in one file
+- Organized by category within rarity tiers
+
+### ✨ Current Comprehensive Category Guides
+Each category is now a complete, integrated reference with full details for all items:
 
 ---
 
-## Category Guides & Expansions
+## Comprehensive Category Guides
 
 ### 🧅 ROOTS & TUBERS
 
-**Core Coverage:** (in main guide)
-- Common: Yellow onions, garlic, potatoes, carrots, turnips, radishes, beets, parsnips, leeks
-- Uncommon: Red onions, sweet onions, specialty potatoes, shallots, wild leeks
-- Rare: Magical varieties and exotic imports
+**📋 [Roots & Tubers - Complete Guide](./Roots_and_Tubers.md)** - 60+ items
+*Comprehensive integrated guide covering all root vegetables and tubers*
 
-**📋 [Roots & Tubers Expansion](./roots_tubers_expansion.md)** - ~45 items
-*Adds market variety you'll actually see in real provisioning*
+**Coverage includes:**
 
-**Additional Onion Varieties:**
-- Baldur's Gate Red Onions (3 cp)
-- Waterdeep Sweet Onions (4 cp)
-- Daggerford White Onions (2 cp)
-- Trielta Hills Shallots (1 sp)
-- Cocktail Onions - Mixed Varieties (6 cp)
+**Onion Varieties (10+ types):**
+- Yellow onions, red onions, white onions, sweet onions
+- Trielta Hills shallots, cocktail onions, pearl onions
+- Spring onions, green onions/scallions
 
-**Garlic Varieties & Aged Products:**
-- Black Garlic - Aged Trielta Hills (1 sp)
-- Elephant Garlic (5 cp)
-- Wild Garlic Scapes (3 cp)
+**Garlic Varieties:**
+- Standard garlic bulbs, elephant garlic, wild garlic
+- Black garlic (aged), garlic scapes
+- Various processing states and preparations
 
-**Additional Potato Varieties:**
-- Waterdeep Red Potatoes (6 cp)
-- Candlekeep Purple Potatoes (8 cp)
-- Fingerling Potatoes - Mixed (1 sp)
+**Potato Varieties (8+ types):**
+- Brown/russet potatoes, red potatoes, purple potatoes
+- Fingerling potatoes, new potatoes, sweet potatoes
+- Regional specialties and uses
 
-**Additional Root Vegetables:**
-- Candlekeep Sweet Potatoes (8 cp)
-- Silverymoon Parsnips (4 cp)
-- Daggerford Turnips (3 cp)
+**Other Root Vegetables:**
+- Carrots, turnips, radishes, beets, parsnips
+- Celery root, horseradish, Jerusalem artichokes
+- Wild and foraged varieties
 
-**Why this expansion matters:** Real markets carry 6-8 onion varieties, not just one. Professional provisioners need to understand these differences for pricing negotiations and recipe requirements.
+**Plus rare and magical varieties**
+
+**Why this matters:** Real markets carry 6-8 onion varieties and multiple potato types. Professional provisioners need to understand these differences for pricing negotiations and recipe requirements.
 
 ---
 
 ### 🌾 GRAINS & CEREALS
 
-**Core Coverage:** NOT in original guide - this is NEW content
+**📋 [Grains & Cereals - Complete Guide](./Grains_and_Cereals.md)** - 28 items
+*Complete category covering the foundation of every kitchen - NEW CONTENT*
 
-**📋 [Grains & Cereals Expansion](./grains_cereals_expansion.md)** - ~85 items
-*Complete category covering the foundation of every kitchen*
+**Coverage includes:**
 
-**Common Grains:**
-- Goldenfields Hard Wheat (1 sp / 10 lbs)
-- Daggerford Soft Wheat (8 cp / 10 lbs)
-- Elturgard Barley (6 cp / 10 lbs)
-- Waterdeep White Rice (3 sp / 5 lbs)
-- Moonshae Wild Rice (8 sp / 2 lbs)
-- Goldenfields Oats (7 cp / 10 lbs)
-- Candlekeep Brown Rice (4 sp / 5 lbs)
+**Whole Grains:**
+- Hard wheat, soft wheat, barley, oats
+- White rice, brown rice, wild rice
+- Rye, corn (various types)
+- Ancient and heritage grains
 
-**Common Ground Grains (Flours):**
-- Goldenfields Bread Flour (2 sp / 5 lbs)
-- Daggerford Pastry Flour (3 sp / 5 lbs)
-- Mixed Grain Flour (1 sp 5 cp / 5 lbs)
+**Ground Grains (Flours):**
+- Bread flour, pastry flour, all-purpose flour
+- Whole wheat flour, specialty flours
+- Cornmeal, rice flour
+- Buckwheat and alternative flours
 
-**Uncommon Grains:**
-- Sembian Durum Wheat (2 sp / 8 lbs) - for pasta
-- Silverymoon Rye (1 sp 2 cp / 10 lbs)
-- Cormyrian Purple Corn (3 sp / 6 lbs)
-- Ancient Emmer Wheat (4 sp / 5 lbs)
+**Processed Grain Products:**
+- Rolled oats, steel-cut oats
+- Various grain preparations
 
-**Uncommon Processed Grains:**
-- Stone-Ground Whole Wheat Flour (4 sp / 5 lbs)
-- Buckwheat Flour (5 sp / 3 lbs)
+**Rare Magical Grains:**
+- Feywild Moonwheat (glows in moonlight)
+- Dragon's Grain (provides cold resistance)
+- Celestial Barley (divine healing properties)
 
-**Rare Grains:**
-- Feywild Moonwheat (10 gp / 1 lb) - magical, glows in moonlight
-- Dragon's Grain - Red Wheat (25 gp / 0.5 lbs) - provides cold resistance
-- Celestial Barley (50 gp / 0.3 lbs) - divine healing properties
-
-**Why this expansion matters:** I can't believe I published five editions without a proper grains section. Grains are the backbone of provisioning - they store well, travel well, and turn into bread, porridge, beer, and a hundred other necessities. This was a glaring omission.
+**Why this matters:** Grains are the backbone of provisioning - they store well (1-3 years), travel well, and turn into bread, porridge, beer, and countless necessities. This was a glaring omission from earlier editions.
 
 ---
 
 ### 🥬 LEAFY GREENS
 
-**Core Coverage:** (in main guide)
-- Common: Lettuce, cabbage, spinach, kale, various cooking greens
-- Uncommon: Specialty varieties and regional types
-- Rare: Magical and exotic greens
+**📋 [Leafy Greens - Complete Guide](./Leafy_Greens.md)** - 57 items
+*Comprehensive integrated guide - markets offer more than just "cabbage and lettuce"*
 
-**📋 [Leafy Greens Expansion](./leafy_greens_expansion.md)** - ~50 items
-*Markets should offer more than just "cabbage and lettuce"*
+**Coverage includes:**
 
-**Lettuce Varieties:**
-- Waterdeep Butterhead Lettuce (2 cp)
-- Daggerford Iceberg Lettuce (1 cp)
-- Red Leaf Lettuce (3 cp)
-- Winter Endive (4 cp)
+**Lettuce Varieties (15+ types):**
+- Butterhead, iceberg, romaine, red leaf, green leaf
+- Winter endive, radicchio, arugula
+- Baby lettuce, mixed greens
+- Regional specialties
 
-**Specialty Cooking Greens:**
-- Trielta Hills Spinach (3 cp)
-- Silverymoon Swiss Chard (2 cp)
-- Dalelands Collard Greens (1 cp)
-- Baby Greens Mix (6 cp)
-
-**Wild and Foraged Greens:**
-- Wild Watercress (4 cp)
-- Dandelion Greens (1 cp)
-- Wild Garlic Greens (3 cp)
-- Lamb's Quarters (1 cp)
+**Cooking Greens:**
+- Spinach, Swiss chard, collard greens
+- Kale (multiple varieties), mustard greens
+- Turnip greens, beet greens
+- Asian greens
 
 **Cabbage Varieties:**
-- Pointed Cabbage (3 cp)
-- Red Cabbage (4 cp)
+- Green cabbage, red cabbage, pointed cabbage
+- Napa cabbage, savoy cabbage
+- Brussels sprouts
 
-**Why this expansion matters:** Professional cooks need to know the difference between butterhead and iceberg, between spinach and chard. Each green has specific uses, storage requirements, and price points.
+**Wild and Foraged Greens:**
+- Watercress, dandelion greens, wild garlic greens
+- Lamb's quarters, purslane, sorrel
+- Seasonal wild varieties
+
+**Plus rare and magical varieties**
+
+**Why this matters:** Professional cooks need to know the difference between butterhead and iceberg, between spinach and chard. Each green has specific uses, storage requirements, and price points.
 
 ---
 
 ### 🍄 MUSHROOMS
 
-**Core Coverage:** (in main guide)
-- Common: Button mushrooms, brown mushrooms
-- Uncommon: Cultivated specialty varieties
-- Rare: Wild foraged and preserved
-- Very Rare: Dangerous and magical species
+**📋 [Mushrooms - Complete Guide](./Mushrooms.md)** - 55+ items
+*Comprehensive integrated guide with CRITICAL SAFETY WARNINGS*
 
-**📋 [Mushrooms Expansion](./mushrooms_expansion.md)** - ~35 items
-*Mushrooms are where foraging knowledge really pays off*
+**Coverage includes:**
 
-**Additional Cultivated Varieties:**
-- Oyster Mushrooms (4 cp)
-- Shiitake Mushrooms (8 cp)
-- Wine Cap Mushrooms (6 cp)
+**⚠️ CRITICAL SAFETY WARNING INCLUDED**
+Never forage wild mushrooms without expert identification - many deadly species exist
 
-**Additional Wild Foraged Varieties:**
-- Honey Mushrooms (1 sp) - ⚠️ MUST be cooked, toxic when raw
-- Chicken of the Woods (1 sp 5 cp)
-- Lion's Mane Mushroom (2 sp)
-- King Oyster Mushrooms (1 sp 2 cp)
+**Cultivated Common Varieties:**
+- Button mushrooms, cremini, portobello
+- Oyster mushrooms, shiitake, enoki
+- Wine cap, king oyster
+- Easy cultivation varieties
 
-**Preserved and Dried Varieties:**
-- Dried Porcini Mushrooms (3 sp)
-- Dried Shiitake Mushrooms (2 sp)
-- Mushroom Powder (4 sp)
+**Wild Foraged Varieties:**
+- Porcini, chanterelles, morels
+- Chicken of the woods, hen of the woods
+- Lion's mane, honey mushrooms (must cook!)
+- Matsutake, hedgehog mushrooms
+- **With detailed identification and safety notes**
 
-**Specialty and Rare Varieties:**
-- Truffle Mushrooms (25 gp) - ultimate luxury item
-- Ghost Mushrooms - Bioluminescent (15 gp)
-- Singing Mushrooms (50 gp) - magical, musical tones
+**Preserved Forms:**
+- Dried porcini, dried shiitake, dried morels
+- Mushroom powder, pickled mushrooms
+- Preserved truffles
 
-**Why this expansion matters:** Wild mushrooms require expert identification. The warnings in this expansion could save lives. Also, understanding the difference between fresh, dried, and specialty varieties is essential for proper pricing and usage.
+**Rare and Magical Varieties:**
+- Truffles (25 gp) - ultimate luxury
+- Ghost mushrooms (bioluminescent)
+- Singing mushrooms, dancing mushrooms
+- Underdark varieties
+
+**Why this matters:** Wild mushrooms require expert identification - one mistake can be fatal. Understanding fresh vs. dried, common vs. rare, and proper preparation is essential for safety and proper pricing.
 
 ---
 
 ### 🍎 FRUITS
 
-**Core Coverage:** (in main guide)
-- Common: Apples, pears, berries, common fruits
-- Uncommon: Regional specialties and preserved fruits
-- Rare: Tropical imports and exotic varieties
+**📋 [Fruits - Complete Guide](./Fruits.md)** - 68 items
+*Comprehensive integrated guide covering fresh, preserved, and exotic varieties*
 
-**📋 [Fruits Expansion](./fruits_expansion.md)** - ~65 items
-*Real markets carry dozens of fruit varieties, seasonal specialties, and preserved forms*
+**Coverage includes:**
+
+**Common Fresh Fruits:**
+- Apples (multiple varieties), pears, plums
+- Peaches, apricots, cherries
+- Grapes (table and wine varieties)
 
 **Citrus Varieties:**
-- Waterdeep Lemons (3 cp)
-- Sweet Limes (4 cp)
-- Bitter Oranges (2 cp)
-- Candlekeep Grapefruit (6 cp)
+- Lemons, limes, oranges (sweet and bitter)
+- Grapefruit, tangerines, kumquats
+- Regional and imported types
 
-**Berry Varieties:**
-- Wild Strawberries (1 sp) - seasonal, 2-3 week availability
-- Cultivated Strawberries (4 cp)
-- Moonshae Cloudberries (2 sp) - extremely rare
-- Silverymoon Blueberries (3 cp)
-- Tethyr Black Currants (5 cp)
-- Red Currants (4 cp)
+**Berries (Seasonal):**
+- Strawberries (wild and cultivated)
+- Blueberries, blackberries, raspberries
+- Cranberries, currants (red, black, white)
+- Gooseberries, elderberries
+- Rare varieties (cloudberries, lingonberries)
 
-**Dried Fruits:**
-- Sun-Dried Apples (1 sp)
-- Amn Dried Figs (3 sp)
-- Calimshan Dates (4 sp)
-- Dried Cranberries (2 sp)
+**Melons:**
+- Watermelon, cantaloupe, honeydew
+- Specialty and regional melons
 
-**Exotic and Imported Fruits:**
-- Chultan Pineapple (10 gp) - ultimate luxury fruit
-- Kara-Tur Dragon Fruit (15 gp)
-- Maztica Avocados (8 gp)
+**Stone Fruits:**
+- Peaches, plums, apricots, nectarines
+- Cherries (sweet and sour)
 
-**Why this expansion matters:** Seasonal availability, preservation methods, and import economics are crucial for provisioners. Dried fruits have completely different storage and pricing than fresh. Exotic imports require special trade connections.
+**Dried and Preserved Fruits:**
+- Sun-dried apples, raisins, dried figs
+- Dates, prunes, dried cranberries
+- Candied and crystallized fruits
+
+**Exotic Imports:**
+- Chultan pineapple (10 gp) - ultimate luxury
+- Kara-Tur dragon fruit, lychees
+- Maztica avocados, papayas
+
+**Plus rare and magical varieties**
+
+**Why this matters:** Seasonal availability, preservation methods, and import economics are crucial. Dried fruits store for months; fresh berries spoil in days. Price and plan accordingly.
 
 ---
 
 ### 🌿 HERBS & SPICES
 
-**Core Coverage:** (in main guide)
-- Common Fresh Herbs: Basil, parsley, cilantro, mint
-- Uncommon Fresh Herbs: Specialty and regional varieties
-- Common Spices: Basic dried herbs, black pepper, basic salt
-- Rare Spices: Expensive imports and specialty blends
+**📋 [Herbs & Spices - Complete Guide](./Herbs_and_Spices.md)** - 90+ items
+*Comprehensive integrated guide - professional knowledge of seasonings*
 
-**📋 [Herbs & Spices Expansion](./herbs_spices_expansion.md)** - ~75 items
-*Real spice markets have dozens of varieties of each basic spice*
+**Coverage includes:**
 
-**Salt Varieties:**
-- Fine Sea Salt (3 cp)
-- Coarse Sea Salt (4 cp)
-- Rock Salt - Gray (1 cp)
-- Pink Mountain Salt (1 sp)
-- Black Volcanic Salt (2 sp)
-- Smoked Salt (8 cp)
-- Herb-Infused Salt (6 cp)
+**Salt Varieties (7+ types):**
+- Rock salt, fine sea salt, coarse sea salt
+- Pink mountain salt, black volcanic salt
+- Smoked salt, herb-infused salt
+- Specialty and finishing salts
 
-**Pepper Varieties:**
-- Black Peppercorns - Whole (1 sp)
-- White Peppercorns - Whole (2 sp)
-- Green Peppercorns - Dried (3 sp)
-- Pink Peppercorns (4 sp)
-- Long Pepper (6 sp)
+**Pepper Varieties (5+ types):**
+- Black peppercorns, white peppercorns
+- Green peppercorns, pink peppercorns
+- Long pepper, specialty varieties
 
-**Herb Varieties and Processing States:**
-- Fresh Rosemary (2 cp) vs. Dried Rosemary (1 sp)
-- Fresh Thyme (2 cp) vs. Dried Thyme (8 cp)
-- Fresh Sage (3 cp) vs. Dried Sage Ground (1 sp 2 cp)
+**Fresh Herbs (20+ varieties):**
+- Common: Parsley, mint, dill, basil, cilantro
+- Uncommon: Rosemary, thyme, sage, oregano
+- Specialty: Tarragon, chervil, savory, lovage
+- Seasonal and regional varieties
 
-**Spice Blends and Mixed Seasonings:**
-- Tavern Blend - All-Purpose (1 sp)
-- Fish Seasoning Blend (1 sp 5 cp)
-- Meat Rub - Barbecue Style (2 sp)
+**Dried Herbs:**
+- Same varieties in dried form
+- Processing states (whole, crumbled, ground)
+- Storage and potency differences
 
-**Why this expansion matters:** Professional cooks need to understand that whole peppercorns store differently than ground pepper, that pink mountain salt costs 10x more than rock salt, and that fresh herbs have completely different applications than dried. This isn't just variety - it's essential knowledge.
+**Spice Blends:**
+- Tavern blend (all-purpose)
+- Fish seasoning blend
+- Meat rub blends
+- Regional specialty mixes
+
+**Common Spices:**
+- Cumin, coriander, fennel, mustard seed
+- Paprika, caraway, celery seed
+- Everyday cooking spices
+
+**Rare Spices:**
+- Cinnamon, nutmeg, cloves, cardamom
+- Allspice, star anise, vanilla
+- Premium imports
+
+**Very Rare Magical Spices:**
+- Saffron (50 gp), ethereal salt, phoenix paprika
+- Magical and divine seasonings
+
+**Why this matters:** Professional cooks know that whole peppercorns store for years while ground pepper loses flavor in months, that pink salt costs 10x more than rock salt, and that fresh vs. dried herbs have completely different applications.
 
 ---
 
 ### 🍺 BEVERAGES
 
-**Core Coverage:** (in main guide)
-- Water & Non-Alcoholic Basics
-- Common Alcoholic Beverages: Ales, meads, wines
-- Uncommon Beverages: Specialty and regional drinks
-- Rare Magical Beverages
-- Very Rare Legendary Beverages
+**📋 [Beverages - Complete Guide](./Beverages.md)** - 45+ items
+*Comprehensive integrated guide covering everything from water to divine ambrosia*
 
-**Note:** Currently no expansion planned for beverages - the core guide is comprehensive.
+**Coverage includes:**
+
+**Water & Non-Alcoholic Basics:**
+- Fresh water (quality grades and purification)
+- Milk (cow's, goat's, buttermilk)
+- Coffee, tea, hot chocolate
+- Fruit juices
+
+**Common Alcoholic Beverages:**
+- Ale (common, small, strong)
+- Beer (lager style)
+- Wine (table, fine, vintage, ancient)
+- Mead (honey wine and varieties)
+- Cider (hard cider varieties)
+- Brandy, whiskey, rum, gin
+
+**Uncommon Beverages:**
+- Evermead (elven specialty)
+- Dragonfire cordial (extremely spicy)
+- Mushroom beer (Underdark)
+- Firewine (fortified wines)
+- Ice wine (frozen grape specialty)
+
+**Rare Magical Beverages:**
+- Elverquisst (50 gp - removes exhaustion)
+- Liquid Courage (25 gp - immunity to fear)
+- Dragon's Breath Ale (40 gp - grants breath weapon)
+- Ethereal Wine (100 gp - see ethereal plane)
+- Feywine, Healing Honey Mead, Starlight Nectar
+- Shadowport, Phoenix Tears, Astral Wine
+
+**Legendary Beverages:**
+- Ambrosia (500 gp - divine healing)
+- Ichor (1000 gp - DANGEROUS divine blood)
+- Waters of Life (mythological)
+- The Last Drop (mythological/cursed)
+
+**CRITICAL NOTES:** Water safety, alcohol as medicine, storage times, quality verification, and magical beverage authentication
+
+**Why this matters:** Bad water kills more people than bad food. Ale is often safer than water. Magical beverages require verification with *Detect Magic* to avoid fakes.
 
 ---
 
@@ -281,6 +328,7 @@ This index connects all the provisioner's guides into one comprehensive referenc
 | Mushrooms | 2-8 cp | 4 cp-2 sp | 1-3 sp | 5-25 gp | 25+ gp |
 | Fruits | 2-6 cp | 1-5 sp | 1-4 sp | 8-15 gp | 15+ gp |
 | Herbs & Spices | 1-4 cp | 5 cp-2 sp | 2-6 sp | 5-20 gp | 20+ gp |
+| Beverages | 0-5 cp | 1-10 gp | 25-100 gp | 60-200 gp | 500-1000+ gp |
 
 ### Storage Life Quick Reference
 
@@ -298,6 +346,10 @@ This index connects all the provisioner's guides into one comprehensive referenc
 | Fresh mushrooms | 1-7 days |
 | Dried mushrooms | 2-3 years |
 | Fresh leafy greens | 1-7 days |
+| Fresh milk | 1-2 days (5-7 refrigerated) |
+| Ale/beer (opened) | 1-3 weeks |
+| Wine (opened) | 3-5 days |
+| Spirits | Indefinite |
 
 ### Regional Specialties at a Glance
 
@@ -404,7 +456,7 @@ The prices in these guides are Waterdeep standard, 1492 DR. They'll change with 
 
 Most importantly: **feed people well**. Whether it's an army, a tavern, or an adventuring party, the quality of your provisions affects everything. Good food keeps morale high, health good, and work efficient. Cheap provisioning is expensive provisioning when your people are sick, weak, or dead.
 
-These guides represent thirty-two years of work. Use them well.
+These comprehensive guides represent thirty-two years of work, now fully integrated into complete category references. Over 680+ ingredients across seven categories, each with full details on pricing, storage, preparation, and regional availability.
 
 **Helena Fairstock**
 Master Provisioner
@@ -412,5 +464,21 @@ Waterdeep, 1492 DR
 
 ---
 
-*Last Updated: 1492 DR*
+## Guide Statistics
+
+**Total Items Across All Categories:** 680+
+
+- Roots & Tubers: 60+ items
+- Grains & Cereals: 28 items
+- Leafy Greens: 57 items
+- Mushrooms: 55+ items
+- Fruits: 68 items
+- Herbs & Spices: 90+ items
+- Beverages: 45+ items
+
+**File Structure:** Each category is now a comprehensive, standalone guide with complete integration of all varieties, from common staples to legendary rarities.
+
+---
+
+*Last Updated: 1492 DR - Sixth Edition (Fully Integrated)*
 *For corrections or additions, contact the Waterdeep Merchant's Guild*
