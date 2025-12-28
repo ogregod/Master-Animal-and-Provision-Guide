@@ -688,7 +688,7 @@ Leafy greens are your perishable stock. They range from hardy cabbages that stor
 - Striking red edges on green leaves
 - Adds color contrast to dishes
 - Professional presentation quality
-- Instagram-worthy appearance
+- Noble-house-worthy appearance
 
 **What to look for when buying:**
 - Good red coloration on leaf edges
@@ -701,7 +701,7 @@ Leafy greens are your perishable stock. They range from hardy cabbages that stor
 ---
 
 ### Wild Garlic Greens
-**Rarity:** Common | **Price:** 3 cp | **Weight:** 0.2 lbs | **Uses:** 4 | **Type:** Food
+**Rarity:** Common | **Price:** 3 cp | **Weight:** 0.25 lbs | **Uses:** 4 | **Type:** Food
 
 **What you're buying:** Long, thin leaves from wild garlic plants with mild garlic flavor.
 
@@ -904,7 +904,7 @@ Leafy greens are your perishable stock. They range from hardy cabbages that stor
 ---
 
 ### Wild Watercress
-**Rarity:** Common | **Price:** 4 cp | **Weight:** 0.3 lbs | **Uses:** 6 | **Type:** Food
+**Rarity:** Common | **Price:** 4 cp | **Weight:** 0.3 lbs | **Uses:** 5 | **Type:** Food
 
 **What you're buying:** Small bunches of peppery greens harvested from clean streams.
 
@@ -1107,7 +1107,7 @@ Leafy greens are your perishable stock. They range from hardy cabbages that stor
 ---
 
 ### Baby Greens Mix
-**Rarity:** Common | **Price:** 6 cp | **Weight:** 0.2 lbs | **Uses:** 4 | **Type:** Food
+**Rarity:** Common | **Price:** 6 cp | **Weight:** 0.25 lbs | **Uses:** 4 | **Type:** Food
 
 **What you're buying:** Mixed young, tender leaves from various plants harvested early.
 

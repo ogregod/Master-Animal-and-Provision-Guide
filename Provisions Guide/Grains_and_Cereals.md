@@ -16,7 +16,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ## COMMON GRAINS & CEREALS
 
 ### Goldenfields Hard Wheat
-**Rarity:** Common | **Price:** 1 sp | **Weight:** 10 lbs | **Uses:** 40 | **Type:** Food
+**Rarity:** Common | **Price:** 1 sp | **Weight:** 10 lbs | **Uses:** 100 | **Type:** Food
 
 **What you're buying:** A burlap sack of hard, amber-colored wheat berries with high protein content.
 
@@ -52,7 +52,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Daggerford Soft Wheat
-**Rarity:** Common | **Price:** 8 cp | **Weight:** 10 lbs | **Uses:** 40 | **Type:** Food
+**Rarity:** Common | **Price:** 8 cp | **Weight:** 10 lbs | **Uses:** 100 | **Type:** Food
 
 **What you're buying:** A sack of pale, soft wheat berries with lower protein content, perfect for pastries.
 
@@ -86,7 +86,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Elturgard Barley
-**Rarity:** Common | **Price:** 6 cp | **Weight:** 10 lbs | **Uses:** 35 | **Type:** Food
+**Rarity:** Common | **Price:** 6 cp | **Weight:** 10 lbs | **Uses:** 70 | **Type:** Food
 
 **What you're buying:** A sack of plump, pale brown barley grains with intact hulls.
 
@@ -127,7 +127,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Goldenfields Oats
-**Rarity:** Common | **Price:** 7 cp | **Weight:** 10 lbs | **Uses:** 45 | **Type:** Food
+**Rarity:** Common | **Price:** 7 cp | **Weight:** 10 lbs | **Uses:** 120 | **Type:** Food
 
 **What you're buying:** A sack of hulled oats with a slightly sweet, nutty aroma.
 
@@ -168,7 +168,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Waterdeep White Rice
-**Rarity:** Common | **Price:** 3 sp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
+**Rarity:** Common | **Price:** 3 sp | **Weight:** 5 lbs | **Uses:** 47 | **Type:** Food
 
 **What you're buying:** A fine cloth bag of polished white rice grains imported from southern regions.
 
@@ -203,7 +203,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Goldenfields Bread Flour
-**Rarity:** Common | **Price:** 2 sp | **Weight:** 5 lbs | **Uses:** 30 | **Type:** Food
+**Rarity:** Common | **Price:** 2 sp | **Weight:** 5 lbs | **Uses:** 24 | **Type:** Food
 
 **What you're buying:** A cloth sack of finely ground hard wheat flour with high protein content.
 
@@ -249,7 +249,7 @@ Grains are the backbone of civilization. They store well, travel well, and turn 
 ---
 
 ### Mixed Grain Flour
-**Rarity:** Common | **Price:** 1 sp 5 cp | **Weight:** 5 lbs | **Uses:** 25 | **Type:** Food
+**Rarity:** Common | **Price:** 1 sp 5 cp | **Weight:** 5 lbs | **Uses:** 21 | **Type:** Food
 
 **What you're buying:** A coarse sack containing a blend of wheat, barley, and oat flours ground together.
 

@@ -79,9 +79,9 @@ Roots and tubers are your foundation ingredients. They store well, travel well, 
 ---
 
 ### Trielta Hills Garlic
-**Rarity:** Common | **Price:** 2 cp | **Weight:** 0.1 lbs | **Uses:** 9 | **Type:** Food
+**Rarity:** Common | **Price:** 2 cp | **Weight:** 0.1 lbs | **Uses:** 16 | **Type:** Food
 
-**What you're buying:** One small bulb (about 2 inches diameter) with papery white or purple skin, containing 9-10 individual cloves.
+**What you're buying:** One medium bulb (about 2 inches diameter) with papery white or purple skin, containing 14-18 individual cloves.
 
 **Unidentified appearance:** Small papery bulb with segmented interior.
 
@@ -356,7 +356,7 @@ Roots and tubers are your foundation ingredients. They store well, travel well, 
 ---
 
 ### Leeks
-**Rarity:** Common | **Price:** 3 cp | **Weight:** 0.5 lbs | **Uses:** 4 | **Type:** Food
+**Rarity:** Common | **Price:** 3 cp | **Weight:** 0.5 lbs | **Uses:** 6 | **Type:** Food
 
 **What you're buying:** One large leek (about 1 inch diameter, 10-12 inches long) with white base and dark green flat leaves.
 
