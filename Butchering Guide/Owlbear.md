@@ -13,25 +13,33 @@ So sit down, shut up, and pay attention. I'm only writing this once.
 What You're Looking At
 When you kill an owlbear (or more likely, when some adventurers drag one to your shop and demand you "do something with it"), you've got about 1,420 pounds of dead weight on your hands. That's assuming they already bled it out in the field, which, if they're smart, they did. If they didn't, add another 115 pounds of blood and a huge mess.
 
+Understanding "Dressed Weight"
+The 1,420 pounds is the dressed weight - meaning the carcass after field dressing. This removes:
+• Blood: 115 lbs (about 8% of live weight, drained in field)
+• Digestive tract contents: ~65 lbs (stomach contents, intestinal matter)
+• Live weight before field dressing: ~1,600 lbs total
+
+So when you see "1,420 lbs dressed weight," that's what actually arrives at your shop, ready to butcher.
+
 The breakdown you need to know:
 
 External materials (hide, feathers, trophies): 183 lbs → 200 gold
 
 Retail cuts (steaks, roasts): 575 lbs → 483-531 gold
 
-Sausage from trim: 70 lbs → 70 gold
+Sausage from trim: 100 lbs → 94 gold (net, after pork fat cost)
 
 Bone stock: 70 lbs bones → 40 gold
 
-Rendered tallow: 99 lbs → 20 gold
+Rendered tallow: 89 lbs → 18 gold
 
-Total value: 813-861 gold depending on whether you sell the tenderloin or keep it (and you should keep it, but we'll get to that).
+Total value: 835-883 gold depending on whether you sell the tenderloin or keep it (and you should keep it, but we'll get to that).
 
 Processing time: About 14 hours with a crew of 4 people who know what they're doing.
 
-Operating costs: 72-103 gold for labor, salt, spices, ice, supplies (guild vs. independent).
+Operating costs: 79-108 gold for labor, pork fat, salt, spices, ice, supplies (guild vs. independent).
 
-Your profit: 741-789 gold for two days of work.
+Your profit: 727-803 gold for two days of work.
 
 That's better than a month's worth of cows, and about 40 times more profitable than deer. The only catch is that owlbears try to kill you before you kill them. But that's the adventurers' problem, not yours.
 
@@ -274,6 +282,13 @@ Layers of fat and meat, just like pork belly, plus the lower abdominal muscles.
 1. Green Bacon (the whole belly, cut into slabs)
 This is what everyone asks for. Cure it in salt for a week, smoke it for 8 hours. Best bacon you'll ever have. 5 slabs, 10 pounds each, 50 pounds.
 
+Curing requirements:
+• Salt needed: 60 lbs (at 2.5% salt cure for 50 lbs bacon, plus extra for rubbing and packing)
+• Curing time: 7 days minimum in cold storage
+• Salt cost: 60 lbs × 1 cp = 60 copper (6 silver)
+
+Without proper salt curing, the bacon will spoil. This is the single largest salt expense in the entire process.
+
 Yield: 5 slabs × 10 lbs = 50 lbs
 
 Price: 10 gold per slab
@@ -338,7 +353,7 @@ You've got all these nice steaks cut. Great. Now you've got about 70 pounds of t
 
 This is sausage.
 
-Hunter's Sausage (70 lbs → ~187 links)
+Hunter's Sausage (70 lbs trim + 30 lbs fat → ~267 links)
 What goes in it:
 
 Wing trim: 13 lbs
@@ -347,9 +362,13 @@ Leg trim: 40 lbs
 
 Neck and rib scraps: 17 lbs
 
-Total: 70 lbs
+Owlbear trim subtotal: 70 lbs
 
-The mix: 60% lean meat, 40% fat. You add belly fat trimmings to balance it out. This ratio is self-basting - you don't need oil when you cook it.
+Pork belly fat (purchased): 30 lbs
+
+Total sausage mixture: 100 lbs
+
+The mix: 70% lean meat, 30% fat. Owlbear meat is very lean, so you need to purchase pork belly fat to reach proper sausage consistency. This ratio is self-basting - you don't need oil when you cook it.
 
 The Spice Recipe
 For every 10 pounds of meat, you need:
@@ -413,9 +432,9 @@ Each pound: 96 teaspoons (coarse white crystals)
 
 For 70 lbs meat: Need 14 tsp for seasoning the sausage
 
-Purchase: 1 lb at 1 cp = 1 cp (for sausage seasoning only)
+Purchase: 7 lbs total at 1 cp per lb = 7 cp (for sausage seasoning, stock aromatics, and general use)
 
-Note: This is JUST for sausage seasoning. Curing bacon and general preservation require much more (see separate sections below).
+Note: This is for sausage seasoning and miscellaneous use ONLY. Bacon curing requires an additional 60 lbs of salt (see bacon section for details).
 
 Fennel seed: 1 tsp (if you like a little sweetness - I do)
 Source: Fennel Seed (Common, 4 sp per package)
@@ -504,14 +523,21 @@ Twist into 6-ounce links
 
 Hang to dry for 1 hour before cooking or smoking
 
+Additional Sausage Costs
+Pork belly fat: 30 lbs × 2 sp per lb = 6 gold
+
+This is the single biggest material cost for sausage, but it's necessary. Owlbear is too lean to make good sausage without it.
+
 The Numbers
-Yield: About 187 links at 6 oz each
+Yield: About 267 links at 6 oz each (100 lbs total)
 
 What it's worth:
 
-Bulk sale (just the ground meat, no casing): 1 gold per pound = 70 gold
+Bulk sale (just the ground meat, no casing): 1 gold per pound = 100 gold
 
-Individual links (more work): 5 silver per link = 93 gold, 5 sp
+Individual links (more work): 5 silver per link = 133 gold, 5 sp
+
+Net profit (bulk, after fat cost): 100 gp - 6 gp = 94 gold
 
 Most days I sell it bulk. Time is money, and I've got other work to do.
 
@@ -649,7 +675,7 @@ Frozen in jars: 6 months
 
 Dried into bouillon cubes: 1 year (reduces to powder, reconstitute with water)
 
-Rendered Tallow (99 lbs of pure cooking fat)
+Rendered Tallow (99 lbs raw fat → 89 lbs finished tallow)
 All that fat you trimmed off the belly and the legs? Don't throw it away. Render it.
 
 How to Render
@@ -663,7 +689,7 @@ Strain it through cloth into jars while it's hot. Don't let it cool in the pot -
 
 Let it cool and solidify. It'll turn from golden liquid to creamy white solid.
 
-Yield: 99 pounds of tallow. Clear golden when liquid, creamy white when solid. Shelf-stable, good for a year at room temperature.
+Yield: 89 pounds of finished tallow from 99 pounds of raw fat. You lose about 10 pounds (10%) to moisture evaporation and crispy solids (cracklings). Clear golden when liquid, creamy white when solid. Shelf-stable, good for a year at room temperature.
 
 Uses for Tallow
 Cooking - It's better than butter for high heat (smoke point of 420°F). Perfect for searing steaks, frying potatoes, making pastry crusts.
@@ -679,22 +705,22 @@ Emergency lamp fuel - Works in a pinch if you run out of oil.
 The crispy bits left over (we call them cracklins) are a nice salty snack. Sprinkle with salt while hot, eat with beer.
 
 What It's Worth
-Bulk sale: 2 silver per pound = about 20 gold
+Bulk sale: 2 silver per pound = 89 lbs × 2 sp = 18 gold (rounded from 17.8 gp)
 
-Jarred and clarified: 5 silver per pound = about 50 gold (but that's more work - cleaning jars, ladling carefully, labeling)
+Jarred and clarified: 5 silver per pound = 89 lbs × 5 sp = 44 gold, 5 sp
 
 I usually sell it bulk unless I've got slow apprentices who need something to do.
 
 Value-Added Products Summary
-Product	Source	Yield	Value
-Hunter's Sausage	Trim (70 lbs)	187 links	70 gp bulk / 93 gp links
-Bone Stock (Glace)	Premium bones (70 lbs)	8 quarts	40 gp
-Rendered Tallow	Fat trimmings (99 lbs)	99 lbs	20 gp bulk / 50 gp jarred
-TOTAL			130 gp (bulk sale)
+Product	Source	Yield	Gross Value	Material Cost	Net Value
+Hunter's Sausage	Trim (70 lbs) + Pork fat (30 lbs)	267 links (100 lbs)	100 gp bulk / 133 gp links	6 gp (pork fat)	94 gp bulk / 127 gp links
+Bone Stock (Glace)	Premium bones (70 lbs)	8 quarts	40 gp	<1 gp (aromatics)	~40 gp
+Rendered Tallow	Fat trimmings (99 lbs)	89 lbs	18 gp bulk / 44 gp jarred	-	18 gp bulk / 44 gp jarred
+TOTAL				158-211 gp (gross)	~7 gp	151-204 gp (net, bulk sale)
 
 Export to Sheets
 
-These are the extras. Add this to your 200 gold from external materials and 483 gold from retail cuts, and you're sitting at 813 gold before costs.
+These are the extras. Add this to your 200 gold from external materials and 483 gold from retail cuts, and you're sitting at 834-837 gold (gross) before operating costs.
 
 Not bad for two days of work.
 
@@ -1148,35 +1174,40 @@ Product Category	Gold Pieces
 Hide, feathers, trophies, organs	200 gp
 All retail cuts (traditional - no tenderloin)	483 gp
 Tenderloin (if you sell it, which you shouldn't)	+48 gp
-Sausage (bulk, 70 lbs @ 1 gp/lb)	70 gp
+Sausage (bulk, 100 lbs @ 1 gp/lb)	100 gp
+  Less: Pork fat cost (30 lbs @ 2 sp/lb)	-6 gp
+Sausage net revenue	94 gp
 Bone stock (8 quarts @ 5 gp each)	40 gp
-Rendered tallow (bulk, 99 lbs @ 2 sp/lb)	20 gp
-TOTAL (traditional, keep tenderloin)	813 gp
-TOTAL (full sale, sell tenderloin)	861 gp
+Rendered tallow (bulk, 89 lbs @ 2 sp/lb)	18 gp
+TOTAL (traditional, keep tenderloin)	835 gp
+TOTAL (full sale, sell tenderloin)	883 gp
 
 Export to Sheets
 
-That's gross revenue. You still have costs.
+That's net revenue (after material costs for sausage). You still have labor and operating costs.
 
 Operating Costs
 Guild Member Costs (What I Pay)
 Expense	Cost	Notes
 Master butcher (14 hours @ 2.5 gp/hr)	35 gp	Guild rate for journeyman or master
 3 Apprentices (14 hours each @ 5 sp/hr)	21 gp	Standard apprentice wage
-Sausage Ingredients		
+Sausage Ingredients
+Pork belly fat (30 lbs @ 2 sp/lb)	6 gp	Required for proper sausage consistency
 Fresh herbs (sage, garlic, fennel)	9 sp	Guild bulk rate (retail: ~1 gp, 3 sp)
 Imported spices (pepper, juniper)	9 sp	Guild bulk rate (retail: ~1 gp, 2 sp)
-Sea salt (7 lbs for all uses)	7 cp	Bulk sack rate
-Sausage casings (natural hog)	3 gp	For 187 links
-Stock Aromatics		
+Sea salt (7 lbs for sausage/misc)	7 cp	Bulk sack rate
+Sausage casings (natural hog)	3 gp	For 267 links
+Bacon Curing
+Sea salt (60 lbs for bacon cure)	6 sp	Critical for proper bacon curing
+Stock Aromatics
 Onions, carrots, celery, bay	9 cp	Common vegetables
-Smoking & Curing		
+Smoking & Curing
 Smoking wood (hickory/applewood, 25 lbs)	2 gp	For sausage and bacon
-Preservation		
+Preservation
 Ice or magical cooling	5 gp	Create Water scroll + ice, or hire wizard
-Miscellaneous		
+Miscellaneous
 Twine, jars, cloth, packaging	5 gp	Wrapping materials, storage containers
-TOTAL COSTS	72 gp, 9 sp, 6 cp	
+TOTAL COSTS	79 gp, 4 sp, 6 cp
 
 Export to Sheets
 
@@ -1184,28 +1215,34 @@ Independent/Retail Costs (No Guild Membership)
 Expense	Cost	Notes
 Hired master butcher	50 gp	35 gp wage + 15 gp premium for non-guild work
 3 Laborers (substitute for apprentices)	28 gp	2 sp/hour more than apprentices
+Sausage Ingredients
+Pork belly fat (30 lbs @ 2 sp/lb)	6 gp	Required for proper sausage consistency
 Sausage spices (retail prices)	1 gp, 6 sp, 5 cp	No bulk discount
+Bacon Curing
+Sea salt (60 lbs for bacon cure)	6 sp	Critical for bacon curing
 Stock aromatics	9 cp	Same (vegetables are cheap)
 Smoking wood	3 gp	Retail pricing
 Sausage casings	4 gp	Retail pricing
 Ice/cooling	8 gp	Higher rate, no guild wizard
 Miscellaneous	7 gp	Retail packaging costs
-TOTAL COSTS	101 gp, 6 sp, 5 cp	
+TOTAL COSTS	108 gp, 1 sp, 5 cp
 
 Export to Sheets
 
-That's 30 gold more than guild pricing. The guild pays for itself after 2-3 owlbears.
+That's about 29 gold more than guild pricing. The guild pays for itself after 2-3 owlbears.
 
 Net Profit
 Scenario	Gross Revenue	Operating Cost	Net Profit	Margin
-Guild member (keep tenderloin)	813 gp	72 gp, 9 sp, 6 cp	740 gp, 4 cp	91%
-Guild member (sell tenderloin)	861 gp	72 gp, 9 sp, 6 cp	788 gp, 4 cp	91%
-Independent (keep tenderloin)	813 gp	101 gp, 6 sp, 5 cp	711 gp, 3 sp, 5 cp	87%
-Independent (sell tenderloin)	861 gp	101 gp, 6 sp, 5 cp	759 gp, 3 sp, 5 cp	88%
+Guild member (keep tenderloin)	835 gp	79 gp, 4 sp, 6 cp	755 gp, 5 sp, 4 cp	90%
+Guild member (sell tenderloin)	883 gp	79 gp, 4 sp, 6 cp	803 gp, 5 sp, 4 cp	91%
+Independent (keep tenderloin)	835 gp	108 gp, 1 sp, 5 cp	726 gp, 8 sp, 5 cp	87%
+Independent (sell tenderloin)	883 gp	108 gp, 1 sp, 5 cp	774 gp, 8 sp, 5 cp	88%
 
 Export to Sheets
 
 That's an 87-91% profit margin. You won't find that on beef.
+
+Note: Gross revenue increased from previous calculations due to corrected sausage yield (100 lbs vs. 70 lbs = +30 gp), but operating costs also increased due to pork fat (+6 gp) and proper bacon curing salt (+6 sp). Net result: slightly higher overall profit.
 
 Additional Costs to Consider
 If You Use Guild Facilities

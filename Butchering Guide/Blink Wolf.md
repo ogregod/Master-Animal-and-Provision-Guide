@@ -17,22 +17,29 @@ So sit down, pay attention, and for the gods' sake, READ THE WARNINGS before you
 
 ## What You're Looking At
 
-When adventurers drag an 800-pound Blink Wolf to your shop (and they better have bled it out already), you've got about 745 pounds of dressed weight to work with. That's assuming they did their job in the field and you're not dealing with 55 pounds of frozen blood and a ruined carcass.
+When adventurers drag an 800-pound Blink Wolf to your shop (and they better have bled it out already), you've got about 736 pounds of dressed weight to work with. That's assuming they did their job in the field and you're not dealing with 64 pounds of frozen blood and a ruined carcass.
+
+Understanding "Dressed Weight"
+The 736 pounds is the dressed weight - meaning the carcass after field dressing. This removes:
+• Blood: 64 lbs (8% of live weight, drained in field)
+• Live weight before field dressing: 800 lbs total
+
+So when you see "736 lbs dressed weight," that's what actually arrives at your shop, ready to butcher.
 
 **The breakdown you need to know:**
 
 - **External materials** (pelt, organs, trophies): 100 lbs → 420 gold
-- **Retail cuts** (steaks, roasts, chops): 220 lbs → 176-198 gold
-- **Sausage from trim**: 84 lbs → 65-72 gold
-- **Bone stock**: 97 lbs bones → 36 gold
-- **Rendered tallow**: 39 lbs → 7 gold
-- **Total value**: 704-733 gold depending on how you sell the cuts
+- **Retail cuts** (steaks, roasts, chops): 220 lbs → 233.5 gold
+- **Sausage from trim**: 120 lbs (84 lbs trim + 36 lbs pork fat) → 72 gold gross / 65 gold net
+- **Bone stock**: 97 lbs bones → 36.4 gold
+- **Rendered tallow**: 35 lbs (from 39 lbs raw) → 7 gold
+- **Total value**: 804.4 gold (detailed calculations)
 
 **Processing time:** About 10 hours with a crew of 3 skilled workers.
 
-**Operating costs:** 54-65 gold for labor, salt, spices, ice, supplies (guild vs. independent).
+**Operating costs:** 108 gold for labor, materials, overhead (independent).
 
-**Your profit:** 639-679 gold for a day and a half of work.
+**Your profit:** 696.4 gold for a day and a half of work (independent butcher).
 
 That's damn good money for an animal whose meat tastes like you're chewing on a boot that spent a week in a freezer. The profit is ALL about doing this right—one mistake with those organs and you've just turned 200 gold of meat into frozen garbage or interdimensional scrap.
 
@@ -219,14 +226,14 @@ Alright, the valuable bits are harvested. Now we deal with the actual meat.
 
 If you're used to processing deer, pigs, or cattle, wolf anatomy is going to feel familiar but WRONG. Canines are built for running and tearing, not for carrying fat or developing marbling. The meat is lean, dense, and tough. It's not BAD, but it's not GOOD either.
 
-You've got about **645 pounds of carcass** to work with after removing the external materials (100 lbs). Of that, you'll get:
+You've got about **636 pounds of carcass** to work with after removing the external materials (100 lbs from 736 lbs dressed weight). Of that, you'll get:
 
 - 220 lbs of retail cuts (steaks, roasts, chops)
 - 84 lbs of trim for sausage
 - 25 lbs of stew meat/scraps
 - 97 lbs of bones (for stock)
 - 39 lbs of fat (for tallow)
-- The rest is waste (connective tissue, organs you can't use, blood)
+- The rest is waste (connective tissue, organs you can't use, processing loss)
 
 ### The Primal Cuts of a Blink Wolf
 
@@ -346,7 +353,9 @@ Here's the breakdown of PRIMAL sections and their retail value:
 | Ribs/Belly | 25 lbs | 0 lbs | 25 lbs trim | ~5 sp/lb | 12 gp |
 | **TOTALS** | **320 lbs** | **220 lbs retail** | **100 lbs trim/stew** | **~7.4 sp/lb avg** | **233.5 gp** |
 
-**Understanding the breakdown:** Each primal section yields some prime retail cuts (sold as roasts/steaks) and some tougher sections (goes to trim for sausage or stew meat). The 220 lbs of retail cuts is what actually gets sold as packaged meat. The remaining 100 lbs (95 lbs trim + 5 lbs neck) gets processed into sausage.
+**Understanding the breakdown:** Each primal section yields some prime retail cuts (sold as roasts/steaks) and some tougher sections (goes to trim for sausage or stew meat). The 220 lbs of retail cuts is what actually gets sold as packaged meat. The remaining 100 lbs gets processed into sausage (84 lbs trim) and sold as stew meat/scraps (16 lbs from various sections).
+
+**Important:** This 220 lbs retail figure is used throughout all revenue calculations and matches the General Butcher Guide standard of 35% retail yield (220 ÷ 636 carcass weight = 34.6%, which rounds to the 35% Canine standard).
 
 ### What Wolf Meat Actually Tastes Like
 
@@ -533,17 +542,19 @@ Let's make sure we didn't lose anything:
 
 | Category | Weight | % of Carcass |
 |----------|--------|--------------|
-| Retail cuts (shoulder, loin, legs, ribs) | 220 lbs | 34.1% |
-| Sausage trim | 84 lbs | 13.0% |
+| Retail cuts (shoulder, loin, legs, ribs) | 220 lbs | 34.6% |
+| Sausage trim | 84 lbs | 13.2% |
 | Stew meat/scraps | 25 lbs | 3.9% |
-| Bones | 97 lbs | 15.0% |
-| Fat | 39 lbs | 6.0% |
-| Waste (blood, connective tissue, unusable bits) | 180 lbs | 27.9% |
-| **TOTAL** | **645 lbs** | **100%** |
+| Bones | 97 lbs | 15.3% |
+| Fat | 39 lbs | 6.1% |
+| Waste (connective tissue, unusable bits, processing loss) | 171 lbs | 26.9% |
+| **TOTAL** | **636 lbs** | **100%** |
 
-That matches our starting carcass weight (745 lbs minus 100 lbs of external materials). Good.
+That matches our starting carcass weight (736 lbs dressed minus 100 lbs of external materials = 636 lbs). Good.
 
 **Note on yield percentages:** These match the General Butcher Guide standards for Canine processing (35% retail, 13% trim, 15% bones, 6% fat). The remaining weight includes stew meat and waste.
+
+**Note on blood:** The 64 lbs of blood was already drained during field dressing and is not included in the 736 lbs dressed weight that arrives at the shop.
 
 **Note on the 220 lbs retail cuts:** This comes from the prime portions of each primal - the best roasts and steaks. The remaining usable meat from each primal (tougher sections, odd-shaped pieces, connective tissue-heavy areas) goes into the trim and stew meat categories.
 
@@ -1153,21 +1164,22 @@ That's 3,300 gold from materials that aren't even the meat. More than HALF the t
 
 The meat scaling is straightforward: multiply everything by 6.5.
 
-| Cut | Weight | Price/lb | Total Value |
-|-----|--------|----------|-------------|
-| Shoulder | 715 lbs | ~8 sp | 403 gp |
-| Loin/Saddle | 553 lbs | ~1 gp | 562 gp |
-| Hindquarters | 650 lbs | ~7.5 sp | 474 gp |
-| Ribs/Belly | 163 lbs | ~5 sp | 78 gp |
-| **TOTAL RETAIL** | **2,081 lbs** | **~7.4 sp avg** | **1,517 gp** |
+**Total Usable Meat from Primals** (scaled from 320 lbs × 6.5 = 2,080 lbs):
 
-**Wait, that's only 2,081 lbs, not 2,860 lbs (the retail portion scaled up).**
+| Primal Section | Total Usable Weight | Retail Cuts | Trim/Stew | Avg Price | Retail Value |
+|----------------|---------------------|-------------|-----------|-----------|--------------|
+| Shoulder (both) | 715 lbs | 455 lbs | 260 lbs | ~8 sp/lb | 403 gp |
+| Loin/Saddle | 553 lbs | 553 lbs | 0 lbs | ~1 gp/lb | 562 gp |
+| Hindquarters (both) | 650 lbs | 422 lbs | 228 lbs | ~7.5 sp/lb | 474 gp |
+| Ribs/Belly | 163 lbs | 0 lbs | 163 lbs | ~5 sp/lb | 78 gp |
+| **TOTALS** | **2,081 lbs usable** | **1,430 lbs retail** | **651 lbs trim/stew** | **~7.4 sp avg** | **1,517 gp** |
 
-Right. The remaining **~779 lbs** breaks down as:
-- **618 lbs of trim** (sausage)
-- **161 lbs of stew meat/scraps**
+**Note on retail vs. usable meat:**
+- Normal Blink Wolf: 320 lbs usable → 220 lbs retail cuts + 100 lbs trim
+- Alpha Blink Wolf: 2,081 lbs usable → 1,430 lbs retail cuts + 651 lbs trim
+- Scaling factor: 6.5× (consistent)
 
-These get processed into byproducts.
+The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers. The remaining 651 lbs gets processed into sausage (618 lbs trim) and stew meat (33 lbs scraps).
 
 ### Byproducts (Alpha)
 

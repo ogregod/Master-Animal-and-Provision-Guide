@@ -25,16 +25,25 @@ Facility Rental (Independent): 10–25 gp flat fee per carcass depending on size
 II. Yield Standards by Animal Type
 These percentages are applied to the Dressed Weight (the weight of the carcass once it arrives at the shop, already bled out).
 
-Animal Type	Retail Meat	Sausage Trim	Bones	Fat (Tallow)	Waste
-Canine (Wolf/Blink Wolf)	35%	13%	15%	6%	7%
-Bear (Ursine/Owlbear Half)	40%	10%	12%	12%	5%
-Bird (Avian/Owlbear Half)	32%	8%	15%	2%	8%
-Bovine (Cattle)	42%	10%	10%	10%	5%
-Hog (Swine/Pig)	38%	12%	8%	15%	4%
+Animal Type	Retail Meat	Sausage Trim	Stew/Secondary	Bones	Fat (Tallow)	Processing Loss	Waste	Total
+Canine (Wolf/Blink Wolf)	35%	13%	4%	15%	6%	5%	7%	85%
+Bear (Ursine/Owlbear Half)	40%	10%	7%	12%	12%	6%	5%	92%
+Bird (Avian/Owlbear Half)	32%	8%	10%	15%	2%	8%	8%	83%
+Bovine (Cattle)	42%	10%	6%	10%	10%	5%	5%	88%
+Hog (Swine/Pig)	38%	12%	8%	8%	15%	6%	4%	91%
 
 Export to Sheets
 
-Note on Waste: This includes "silver skin," damaged tissue, and non-magical organs like lungs or spleen that are typically composted.
+Note on Categories:
+• Retail Meat: Premium cuts sold as steaks, roasts, and chops
+• Sausage Trim: Lean scraps ground for sausage and forcemeats
+• Stew/Secondary: Tougher cuts sold as stew meat, soup bones with meat, or budget cuts
+• Bones: Skeletal structure used for stock, glace, and bone meal
+• Fat (Tallow): Rendered into cooking fat, soap, candles, and leather treatment
+• Processing Loss: Moisture evaporation, trimming waste, and unavoidable material loss during butchering
+• Waste: Silver skin, damaged tissue, non-magical organs (lungs, spleen), and inedible connective tissue
+
+Note on Total Percentages: These percentages sum to 85-92% of dressed weight. The remaining 8-15% represents blood (already drained during field dressing), digestive tract contents, and external materials (hide, feathers, trophies) that are processed separately and not included in yield calculations.
 
 III. The Art of the Scraps
 Hunter’s Sausage & Internal Fat
