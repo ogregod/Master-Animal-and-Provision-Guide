@@ -43,7 +43,15 @@ Note on Categories:
 • Processing Loss: Moisture evaporation, trimming waste, and unavoidable material loss during butchering
 • Waste: Silver skin, damaged tissue, non-magical organs (lungs, spleen), and inedible connective tissue
 
-Note on Total Percentages: These percentages sum to 85-92% of dressed weight. The remaining 8-15% represents blood (already drained during field dressing), digestive tract contents, and external materials (hide, feathers, trophies) that are processed separately and not included in yield calculations.
+Note on Total Percentages: These percentages sum to 83-92% of dressed weight. The remaining 8-17% represents:
+• External materials (hide, pelt, feathers, trophies): 8-13% of dressed weight (processed separately)
+• Blood (already drained during field dressing): NOT included in dressed weight
+• Digestive tract contents (removed during field dressing): NOT included in dressed weight
+
+Complete Carcass Accounting:
+100% Live Weight = Blood (8%) + Viscera (9%) + Dressed Weight (83%)
+100% Dressed Weight = External Materials (10%) + Usable Carcass (90%)
+100% Usable Carcass = Retail (35-42%) + Trim (10-13%) + Stew (4-10%) + Bones (10-15%) + Fat (6-15%) + Loss (5-8%) + Waste (4-8%)
 
 III. The Art of the Scraps
 Hunter’s Sausage & Internal Fat
@@ -69,6 +77,24 @@ Yield: Expect a 10% weight loss from evaporation and solids.
 Bulk Value: 2 silver per lb.
 
 Clarified/Jarred: 5 silver per lb.
+
+Salt Pricing & Usage
+Do not underestimate salt costs. It's cheap per pound but you need a lot of it.
+
+Standard Pricing (per 99_tables):
+• Sea salt (general use): 3 copper per pound
+• Curing salt (preservation): 4 copper per pound
+
+Typical Usage by Carcass Size:
+• Small game (200-400 lbs): 10-15 lbs total (pelt curing, minor preservation)
+• Medium game (800-1,200 lbs): 15-25 lbs total (pelt curing, organ preservation, sausage seasoning)
+• Large game (1,400-2,000 lbs): 25-40 lbs total (hide curing, organ preservation, bacon curing, sausage)
+• Alpha specimens (4,000-6,000 lbs): 80-120 lbs total (massive hide, organs, extensive preservation)
+
+Curing Ratios:
+• Dry cure bacon/meat: 2.5% salt by weight (10 lbs meat = 0.25 lbs salt)
+• Pelt/hide preservation: ~10% salt by weight of hide
+• Organ preservation: 100% salt coverage (1:1 ratio for packing)
 
 Bone Glace (Concentrated Restoration)
 Do not sell watery stock. We sell Glace.
@@ -97,3 +123,69 @@ Trim & Sort: Move lean scraps to the sausage grinder and bones to the roasting p
 Rendering & Reduction: Start the tallow and stock pots last; they work while you sleep.
 
 The Tenderloin Tradition: The Master Butcher always keeps the tenderloin for personal use. It is the silent tax for the skill required to keep the shop running.
+
+V. Dressed Weight Definition
+
+Dressed Weight is the weight of the carcass that arrives at the butcher's shop, measured immediately upon receipt.
+
+Field dressing (performed by hunter before transport):
+• Blood is drained (8% of live weight)
+• Major viscera removed (digestive tract, lungs, non-magical organs)
+• Hide/pelt typically REMAINS on the carcass during transport
+• Magical organs (heart, liver, eyes, sacs, nodes) are carefully preserved and transported separately
+
+Shop dressing (performed by butcher):
+• Hide/pelt is removed and processed
+• Carcass is quartered and broken down into primals
+• Remaining organs are processed or discarded
+• Magical organs are cleaned and prepared for sale
+
+Standard Calculation:
+Live Weight × 0.92 (8% blood loss) × 0.90 (10% viscera loss) = Dressed Weight ≈ 83% of live weight
+
+Example:
+1,000 lb live weight → 920 lbs (after blood) → 828 lbs (after viscera) ≈ 830 lbs dressed weight
+
+All yield percentages in this guide are calculated based on DRESSED WEIGHT unless otherwise specified.
+
+---
+
+VI. Quick Reference Card
+
+Dressed Weight: Live weight minus blood (8%) and viscera (9%) = ~83% of live weight
+
+Standard Yields (% of dressed weight):
+• Retail cuts: 35-42%
+• Sausage trim: 10-13%
+• Stew/secondary: 4-10%
+• Bones: 10-15%
+• Fat: 6-15%
+• Loss/waste: 10-15%
+
+Pricing Standards:
+• Salt: 3 cp/lb (sea salt), 4 cp/lb (curing salt)
+• Tallow: 2 sp/lb (bulk), 5 sp/lb (jarred)
+• Stock: 3.5 sp/pint (standard), 2.5 gp/pint (Master's Glace)
+
+Labor Rates:
+• Independent Master: 2.5 gp/hr
+• Guild Master: 3.5 gp/hr
+• Journeyman: 1.5-2.0 gp/hr
+• Apprentice: 0.5-0.8 gp/hr
+
+Guild Overhead:
+• Commission: 5% of gross revenue
+• Facility rental (independent): 10-25 gp flat fee
+
+Rendering & Reduction:
+• Tallow rendering loss: 10%
+• Stock reduction: 50% (standard stock) to 75% (Master's Glace)
+
+Sausage Ratios:
+• Standard: 70% lean / 30% fat
+• Gamey meat (wolf, venison): 60% lean / 40% fat
+
+Curing Ratios:
+• Bacon dry cure: 2.5% salt by weight
+• Pelt preservation: 10% salt by weight
+• Organ packing: 100% salt coverage (1:1)

@@ -37,9 +37,9 @@ So when you see "736 lbs dressed weight," that's what actually arrives at your s
 
 **Processing time:** About 10 hours with a crew of 3 skilled workers.
 
-**Operating costs:** 116.6 gold for labor, materials, overhead (independent).
+**Operating costs:** 126.2 gold for labor, materials, overhead (independent).
 
-**Your profit:** 698.5 gold for a day and a half of work (independent butcher).
+**Your profit:** 688.9 gold for a day and a half of work (independent butcher).
 
 That's damn good money for an animal whose meat tastes like you're chewing on a boot that spent a week in a freezer. The profit is ALL about doing this right—one mistake with those organs and you've just turned 200 gold of meat into frozen garbage or interdimensional scrap.
 
@@ -788,17 +788,24 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 #### Labor Costs
 
 **Processing crew (3 skilled butchers):**
-- Master butcher (you): 8 hours @ 2.5 gp/hour = 20 gp
-- Journeyman butcher: 8 hours @ 1.5 gp/hour = 12 gp
-- Apprentice/assistant: 8 hours @ 8 sp/hour = 6.4 gp
+- Master butcher (you): 10 hours @ 2.5 gp/hour = 25 gp
+- Journeyman butcher: 10 hours @ 1.5 gp/hour = 15 gp
+- Apprentice/assistant: 10 hours @ 8 sp/hour = 8 gp
 
 **Byproduct crew:**
 - Sausage making (2 people, 4 hours): 4 gp
 - Stock making (1 person, monitoring): 1 gp
 - Tallow rendering (1 person, 3 hours): 1 gp
 
-**Total labor (independent):** 44.4 gold
-**Total labor (guild rates):** 66.6 gold
+**Total labor (independent):** 54 gold
+
+**Guild rates (same crew, guild pricing):**
+- Master: 10 hrs × 3.5 gp/hr = 35 gp
+- Journeyman: 10 hrs × 2.0 gp/hr = 20 gp
+- Apprentice: 10 hrs × 0.8 gp/hr = 8 gp
+- Byproduct crew: 6 gp (same)
+
+**Total labor (guild rates):** 69 gold
 
 #### Materials and Supplies
 
@@ -826,28 +833,28 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 
 | Category | Independent | Guild |
 |----------|-------------|-------|
-| Labor | 44.4 gp | 66.6 gp |
+| Labor | 54 gp | 69 gp |
 | Materials | 59.2 gp | 59.2 gp |
 | Overhead | 13 gp | 13 gp |
 | Guild Commission (5% of gross) | — | 40.76 gp |
-| **TOTAL COSTS** | **116.6 gp** | **179.56 gp** |
+| **TOTAL COSTS** | **126.2 gp** | **181.96 gp** |
 
 ### Net Profit Calculation
 
 **Independent butcher:**
 - Gross revenue: 815.1 gp
-- Operating costs: 116.6 gp
-- **Net profit: 698.5 gold**
+- Operating costs: 126.2 gp
+- **Net profit: 688.9 gold**
 
 **Guild butcher:**
 - Gross revenue: 815.1 gp
-- Operating costs: 179.56 gp (includes 40.76 gp guild commission)
-- **Net profit: 635.54 gold**
+- Operating costs: 181.96 gp (includes 40.76 gp guild commission)
+- **Net profit: 633.14 gold**
 
 ### Profit Margins
 
-**Independent:** 698.5 ÷ 815.1 = **85.7% profit margin**
-**Guild:** 635.54 ÷ 815.1 = **78.0% profit margin**
+**Independent:** 688.9 ÷ 815.1 = **84.5% profit margin**
+**Guild:** 633.14 ÷ 815.1 = **77.7% profit margin**
 
 Those are EXCELLENT margins. The reason? Most of your revenue comes from high-value, low-cost items:
 - The pelt costs almost nothing to harvest
@@ -1260,10 +1267,10 @@ The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers
 
 ### Labor
 
-**Primary butchering crew (6 people, 16 hours):**
-- 1 Master butcher: 16 hrs @ 2.5 gp/hr = 40 gp
-- 2 Journeymen: 32 hrs @ 1.5 gp/hr = 48 gp
-- 3 Apprentices: 48 hrs @ 8 sp/hr = 38.4 gp
+**Primary butchering crew (6 people, 32 hours each):**
+- 1 Master butcher: 32 hrs @ 2.5 gp/hr = 80 gp
+- 2 Journeymen: 2 × 32 hrs @ 1.5 gp/hr = 96 gp
+- 3 Apprentices: 3 × 32 hrs @ 8 sp/hr = 76.8 gp
 
 **Byproduct crew:**
 - Sausage (3 people, 20 hours): 60 gp
@@ -1274,9 +1281,14 @@ The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers
 - 1 Master: 12.5 gp (5 hrs @ 2.5 gp/hr)
 - 3 skilled assistants: 15 gp
 
-**Total labor (independent):** 225.9 gold
+**Total labor (independent):** 352.3 gold
 
-**OR 338.85 gold (guild rates)**
+**Guild rates (same crew, guild pricing):**
+- Primary crew: 1 Master (32 hrs × 3.5 gp/hr) + 2 Journeymen (64 hrs × 2.0 gp/hr) + 3 Apprentices (96 hrs × 0.8 gp/hr) = 112 + 128 + 76.8 = 316.8 gp
+- Byproduct crew: 72 gp (same tasks, same rates)
+- Organ harvest: 27.5 gp (same)
+
+**Total labor (guild rates):** 416.3 gold
 
 ### Materials and Supplies
 
