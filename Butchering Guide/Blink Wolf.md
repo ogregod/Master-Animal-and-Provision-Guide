@@ -30,16 +30,16 @@ So when you see "736 lbs dressed weight," that's what actually arrives at your s
 
 - **External materials** (pelt, organs, trophies): 100 lbs → 420 gold
 - **Retail cuts** (steaks, roasts, chops): 220 lbs → 233.5 gold
-- **Sausage from trim**: 120 lbs (84 lbs trim + 36 lbs pork fat) → 72 gold gross / 65 gold net
+- **Sausage from trim**: 138 lbs (84 lbs trim + 56 lbs pork fat, 60/40 ratio for gamey meat) → 82.8 gold gross / 63 gold net
 - **Bone stock**: 97 lbs bones → 36.4 gold
 - **Rendered tallow**: 35 lbs (from 39 lbs raw) → 7 gold
-- **Total value**: 804.4 gold (detailed calculations)
+- **Total value**: 815.1 gold (detailed calculations)
 
 **Processing time:** About 10 hours with a crew of 3 skilled workers.
 
-**Operating costs:** 108 gold for labor, materials, overhead (independent).
+**Operating costs:** 116.6 gold for labor, materials, overhead (independent).
 
-**Your profit:** 696.4 gold for a day and a half of work (independent butcher).
+**Your profit:** 698.5 gold for a day and a half of work (independent butcher).
 
 That's damn good money for an animal whose meat tastes like you're chewing on a boot that spent a week in a freezer. The profit is ALL about doing this right—one mistake with those organs and you've just turned 200 gold of meat into frozen garbage or interdimensional scrap.
 
@@ -569,17 +569,19 @@ You've got your retail cuts packaged and ready. Now it's time to turn the leftov
 
 You've got **84 pounds of trim** sitting in buckets. It's not pretty—shoulder scraps, shank meat, neck pieces, belly odds and ends—but it's perfectly good meat.
 
-The problem: wolf meat is LEAN. Too lean for good sausage. You need to add fat.
+The problem: wolf meat is LEAN. Too lean for good sausage. And it's GAMEY—that metallic, carnivore flavor needs masking with extra fat.
 
-**The ratio:** 70% wolf, 30% pork fat (by weight)
+**The ratio:** 60% wolf, 40% pork fat (by weight)
+
+This is richer than standard sausage (70/30), but necessary for wolf. The extra fat mellows out the metallic taste and improves texture.
 
 **The math:**
-- 84 lbs wolf trim
-- 36 lbs pork fat (purchased)
-- Total: 120 lbs of sausage mixture
+- 84 lbs wolf trim (60% of final mixture)
+- 56 lbs pork fat (40% of final mixture)
+- Total: 140 lbs of sausage mixture
 
 **Cost of pork fat:** 2 silver per pound (you're buying in bulk from a pig butcher)
-- 36 lbs × 2 sp = **7.2 gold** for fat
+- 56 lbs × 2 sp = **11.2 gold** for fat
 
 #### Making the Sausage
 
@@ -605,15 +607,15 @@ Wolf meat is GAMEY. You need strong flavors to mask that metallic, wild taste.
 
 **Total spice cost:** 1 gold, 6 silver, 6 copper (for 100 lbs)
 
-For 120 lbs of sausage, scale up: **2 gold in spices** (1 gp, 9 sp, 9 cp rounded)
+For 140 lbs of sausage, scale up: **2.3 gold in spices** (2 gp, 3 sp, 2 cp)
 
 Mix the spices thoroughly into the ground meat. Let it rest for 30 minutes so the flavors marry.
 
 **Step 3: Stuff the casings**
 
-You'll need **natural hog casings** (purchased from a pig butcher or specialty supplier). For 120 lbs of sausage, you need about 70 feet of casing.
+You'll need **natural hog casings** (purchased from a pig butcher or specialty supplier). For 140 lbs of sausage, you need about 80 feet of casing.
 
-**Casings cost:** 2 gold
+**Casings cost:** 2.3 gold
 
 Use a sausage stuffer (or a funnel and a lot of patience). Stuff the casings firm but not tight—leave a little give or they'll burst when cooked.
 
@@ -625,7 +627,7 @@ Hang the sausages in a cool, dry place for 24 hours. This firms them up and lets
 
 #### Sausage Yield and Pricing
 
-**Yield:** 120 lbs of finished sausage (you lose ~2 lbs to moisture and trimming)
+**Yield:** 138 lbs of finished sausage (you lose ~2 lbs to moisture and trimming)
 
 **Pricing:**
 - **Fresh sausage:** 6 silver per pound
@@ -633,17 +635,17 @@ Hang the sausages in a cool, dry place for 24 hours. This firms them up and lets
 
 Most customers want fresh, so we'll assume **6 sp/lb**.
 
-**Gross revenue:** 120 lbs × 6 sp = **72 gold**
+**Gross revenue:** 138 lbs × 6 sp = **82.8 gold**
 
 **Costs:**
-- Pork fat: 7.2 gp
-- Spices: 2 gp
-- Casings: 2 gp
+- Pork fat: 11.2 gp
+- Spices: 2.3 gp
+- Casings: 2.3 gp
 - Labor (2 people, 4 hours each): 4 gp
 
-**Total cost:** 15.2 gold
+**Total cost:** 19.8 gold
 
-**Net profit from sausage:** 72 - 15.2 = **56.8 gold**
+**Net profit from sausage:** 82.8 - 19.8 = **63 gold**
 
 Not bad for meat that was headed for the scrap bin.
 
@@ -694,6 +696,8 @@ We'll assume **3.5 sp/pint average**.
 **Total cost:** 6.1 gold
 
 **Net profit from stock:** 36.4 - 6.1 = **30.3 gold**
+
+**Note on remainder bones:** Unlike owlbears (which have 100+ lbs of unusable wing bones and skull fragments), most wolf bones are suitable for stock. If you have small bone shards or fragments that aren't worth processing, you can sell them as bone meal to farmers for 2-3 gold, but it's rarely worth the effort. This guide assumes all 97 lbs of bones go into stock.
 
 ### Part 3: Rendered Tallow
 
@@ -773,18 +777,18 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 | Ribs/Belly | 25 lbs | 12 gp |
 | *Subtotal (Retail)* | *320 lbs* | *233.5 gp* |
 | **BYPRODUCTS** | | |
-| Sausage | 120 lbs | 72 gp |
+| Sausage | 138 lbs | 82.8 gp |
 | Bone Stock | 104 pints | 36.4 gp |
 | Rendered Tallow | 35 lbs | 7 gp |
-| *Subtotal (Byproducts)* | *varies* | *115.4 gp* |
-| **GRAND TOTAL REVENUE** | | **804.4 gp** |
+| *Subtotal (Byproducts)* | *varies* | *126.2 gp* |
+| **GRAND TOTAL REVENUE** | | **815.1 gp** |
 
 ### Operating Costs Breakdown
 
 #### Labor Costs
 
 **Processing crew (3 skilled butchers):**
-- Master butcher (you): 8 hours @ 2 gp/hour = 16 gp
+- Master butcher (you): 8 hours @ 2.5 gp/hour = 20 gp
 - Journeyman butcher: 8 hours @ 1.5 gp/hour = 12 gp
 - Apprentice/assistant: 8 hours @ 8 sp/hour = 6.4 gp
 
@@ -793,22 +797,22 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 - Stock making (1 person, monitoring): 1 gp
 - Tallow rendering (1 person, 3 hours): 1 gp
 
-**Total labor (independent):** 40.4 gold  
-**Total labor (guild rates, +50%):** 60.6 gold
+**Total labor (independent):** 44.4 gold
+**Total labor (guild rates):** 66.6 gold
 
 #### Materials and Supplies
 
 - **Preservation supplies** (jars, alcohol for organs, ice): 5 gp
 - **Salt** (massive quantities): 25 gp
-- **Pork fat** (for sausage): 7.2 gp
-- **Spices** (sausage blend): 2 gp
-- **Casings** (sausage): 2 gp
+- **Pork fat** (for sausage, 56 lbs): 11.2 gp
+- **Spices** (sausage blend): 2.3 gp
+- **Casings** (sausage): 2.3 gp
 - **Aromatics** (stock): 5 sp
 - **Firewood** (sausage, stock, tallow): 4.3 gp
 - **Containers** (stock jars, tallow containers): 5.6 gp
 - **Miscellaneous** (twine, wrapping, cleaning supplies): 3 gp
 
-**Total materials:** 54.6 gold
+**Total materials:** 59.2 gold
 
 #### Overhead
 
@@ -822,27 +826,28 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 
 | Category | Independent | Guild |
 |----------|-------------|-------|
-| Labor | 40.4 gp | 60.6 gp |
-| Materials | 54.6 gp | 54.6 gp |
+| Labor | 44.4 gp | 66.6 gp |
+| Materials | 59.2 gp | 59.2 gp |
 | Overhead | 13 gp | 13 gp |
-| **TOTAL COSTS** | **108 gp** | **128.2 gp** |
+| Guild Commission (5% of gross) | — | 40.76 gp |
+| **TOTAL COSTS** | **116.6 gp** | **179.56 gp** |
 
 ### Net Profit Calculation
 
 **Independent butcher:**
-- Gross revenue: 804.4 gp
-- Operating costs: 108 gp
-- **Net profit: 696.4 gold**
+- Gross revenue: 815.1 gp
+- Operating costs: 116.6 gp
+- **Net profit: 698.5 gold**
 
 **Guild butcher:**
-- Gross revenue: 804.4 gp
-- Operating costs: 128.2 gp
-- **Net profit: 676.2 gold**
+- Gross revenue: 815.1 gp
+- Operating costs: 179.56 gp (includes 40.76 gp guild commission)
+- **Net profit: 635.54 gold**
 
 ### Profit Margins
 
-**Independent:** 696.4 ÷ 804.4 = **86.6% profit margin**
-**Guild:** 676.2 ÷ 804.4 = **84.1% profit margin**
+**Independent:** 698.5 ÷ 815.1 = **85.7% profit margin**
+**Guild:** 635.54 ÷ 815.1 = **78.0% profit margin**
 
 Those are EXCELLENT margins. The reason? Most of your revenue comes from high-value, low-cost items:
 - The pelt costs almost nothing to harvest
@@ -1045,13 +1050,14 @@ If you get the chance to process one, DO IT. You'll make enough money to retire.
 
 ### The Alpha at a Glance
 
-**Live weight:** 5,200 lbs  
-**Dressed weight:** 4,836 lbs (after field dressing)  
-**Usable carcass:** 4,186 lbs (after external materials)
+**Live weight:** 5,200 lbs
+**Blood loss:** 416 lbs (8% of live weight, drained during field dressing)
+**Dressed weight:** 4,784 lbs (after field dressing)
+**Usable carcass:** 4,134 lbs (after external materials)
 
-**Gross revenue:** 5,633 gp  
-**Operating costs:** 315 gp (independent) / 375 gp (guild)  
-**Net profit:** 5,318 gp (independent) / 5,258 gp (guild)
+**Gross revenue:** 5,572 gp (net after 100 gp preservation costs)
+**Operating costs:** 603.9 gp (independent) / 1,001.1 gp (guild, includes 283.6 gp commission on 5,672 gp gross)
+**Net profit:** 4,968.1 gp (independent) / 4,570.9 gp (guild)
 
 **Processing time:** 32 hours (4 days with a crew of 6-8)
 
@@ -1156,7 +1162,7 @@ The fangs on an Alpha are 8-10 inches long. They're not "trophies" anymore—the
 | Tail | 19.5 lbs | 35 gp |
 | **TOTAL EXTERNAL** | **650 lbs** | **3,300 gp** |
 
-*(Note: This is GROSS value. Subtract ~35 gp for preservation supplies. Net is around 3,265 gp.)*
+*(Note: This is GROSS value. Subtract 100 gp for preservation supplies - specialized containers for watermelon-sized organs (50 gp) and massive amounts of ice (50 gp). Net is around 3,200 gp.)*
 
 That's 3,300 gold from materials that aren't even the meat. More than HALF the total value of the Alpha comes from these external components.
 
@@ -1246,7 +1252,7 @@ The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers
 | Tallow | 52 gp |
 | **GROSS TOTAL REVENUE** | **5,672 gp** |
 
-*(Subtract ~40 gp for preservation supplies = **5,633 gp net revenue**)*
+*(Subtract 100 gp for preservation supplies = **5,572 gp net revenue**)*
 
 ---
 
@@ -1255,22 +1261,22 @@ The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers
 ### Labor
 
 **Primary butchering crew (6 people, 16 hours):**
-- 1 Master butcher: 16 hrs @ 2 gp/hr = 32 gp
+- 1 Master butcher: 16 hrs @ 2.5 gp/hr = 40 gp
 - 2 Journeymen: 32 hrs @ 1.5 gp/hr = 48 gp
 - 3 Apprentices: 48 hrs @ 8 sp/hr = 38.4 gp
 
 **Byproduct crew:**
-- Sausage (3 people, 5 hours): 15 gp
+- Sausage (3 people, 20 hours): 60 gp
 - Stock (2 people, monitoring): 8 gp
 - Tallow (1 person, 4 hours): 4 gp
 
 **Organ harvest (critical task, 4 people, 5 hours):**
-- 1 Master: 10 gp
+- 1 Master: 12.5 gp (5 hrs @ 2.5 gp/hr)
 - 3 skilled assistants: 15 gp
 
-**Total labor (independent):** 170.4 gold
+**Total labor (independent):** 225.9 gold
 
-**OR 255 gold (guild rates)**
+**OR 338.85 gold (guild rates)**
 
 ### Materials and Supplies
 
@@ -1279,12 +1285,12 @@ The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers
 - Spices (sausage): 22 gp
 - Casings (sausage): 15 gp
 - Aromatics (stock): 3 gp
-- Jars, containers for organs: 20 gp (you need HUGE containers)
+- Jars, containers for organs: 50 gp (specialized containers for watermelon-sized organs)
 - Ice (LOTS of ice): 50 gp
 - Firewood (multiple days): 30 gp
 - Misc supplies: 20 gp
 
-**Total materials:** 278 gold
+**Total materials:** 308 gold
 
 ### Facility and Equipment
 
@@ -1297,22 +1303,25 @@ The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers
 
 ## Alpha Total Operating Costs
 
-| Category | Amount |
-|----------|--------|
-| Labor | 170.4 gp |
-| Materials | 278 gp |
-| Overhead | 70 gp |
-| **TOTAL COSTS** | **518.4 gp** |
-
-(If guild: 603.4 gp)
+| Category | Independent | Guild |
+|----------|-------------|-------|
+| Labor | 225.9 gp | 338.85 gp |
+| Materials | 308 gp | 308 gp |
+| Overhead | 70 gp | 70 gp |
+| Guild Commission (5% of 5,672 gp gross) | — | 283.6 gp |
+| **TOTAL COSTS** | **603.9 gp** | **1,001.1 gp** |
 
 ## Alpha Net Profit
 
-**Revenue:** 5,633 gold  
-**Costs:** 518.4 gold  
-**Net Profit:** **5,114.6 gold**
+**Independent butcher:**
+- Gross revenue: 5,572 gp (net after preservation)
+- Operating costs: 603.9 gp
+- **Net profit: 4,968.1 gold**
 
-(If guild: 5,633 - 603.4 = **5,029.6 gold**)
+**Guild butcher:**
+- Gross revenue: 5,572 gp (net after preservation)
+- Operating costs: 1,001.1 gp (includes 283.6 gp commission on 5,672 gp gross)
+- **Net profit: 4,570.9 gold**
 
 ## Alpha Time Investment
 
@@ -1394,22 +1403,22 @@ Fair price range: **1,200-1,500 gold** for a well-preserved carcass.
 
 ## Alpha Economics Summary
 
-**Best case scenario:**
-- Gross revenue: 5,633 gp
-- Operating costs: 518 gp
-- Net profit: 5,115 gp
+**Best case scenario (independent butcher):**
+- Gross revenue: 5,572 gp (net after preservation)
+- Operating costs: 603.9 gp
+- Net profit: 4,968.1 gp
 - Time: 32 hours
-- Hourly rate: 159.8 gp/hour
+- Hourly rate: 155.3 gp/hour
 
-**Realistic scenario (guild rates, winter pelt bonus):**
-- Gross revenue: 6,133 gp (pelt sells for 2,000 gp in winter)
-- Operating costs: 603 gp
-- Net profit: 5,530 gp
+**Realistic scenario (guild member, winter pelt bonus):**
+- Gross revenue: 6,072 gp (pelt sells for 2,000 gp in winter, net after preservation)
+- Operating costs: 1,027.35 gp (includes 308.6 gp commission on 6,172 gp gross)
+- Net profit: 5,044.65 gp
 
-**Worst case scenario (one organ ruined):**
-- Gross revenue: 4,833 gp (lost 800 gp on Blink Node rupture)
-- Operating costs: 518 gp
-- Net profit: 4,315 gp
+**Worst case scenario (independent, one organ ruined):**
+- Gross revenue: 4,772 gp (lost 800 gp on Blink Node rupture, net after preservation)
+- Operating costs: 603.9 gp
+- Net profit: 4,168.1 gp
 - Still huge, but painful
 
 **The bottom line:** An Alpha Blink Wolf is a career-defining job. You'll make enough money to set yourself up for years. Just don't screw up the organs.

@@ -37,9 +37,9 @@ Total value: 835-883 gold depending on whether you sell the tenderloin or keep i
 
 Processing time: About 14 hours with a crew of 4 people who know what they're doing.
 
-Operating costs: 79-108 gold for labor, pork fat, salt, spices, ice, supplies (guild vs. independent).
+Operating costs: 79-108 gold for labor, pork fat, salt, spices, ice, supplies (guild vs. independent). Guild facilities add a 5% commission on gross revenue (~42 gp).
 
-Your profit: 727-803 gold for two days of work.
+Your profit: 714-775 gold for two days of work (after all costs including guild commission if applicable).
 
 That's better than a month's worth of cows, and about 40 times more profitable than deer. The only catch is that owlbears try to kill you before you kill them. But that's the adventurers' problem, not yours.
 
@@ -283,11 +283,11 @@ Layers of fat and meat, just like pork belly, plus the lower abdominal muscles.
 This is what everyone asks for. Cure it in salt for a week, smoke it for 8 hours. Best bacon you'll ever have. 5 slabs, 10 pounds each, 50 pounds.
 
 Curing requirements:
-• Salt needed: 60 lbs (at 2.5% salt cure for 50 lbs bacon, plus extra for rubbing and packing)
+• Salt needed: 10 lbs (traditional dry cure packing method - you pack the bacon in salt for 7 days)
 • Curing time: 7 days minimum in cold storage
-• Salt cost: 60 lbs × 1 cp = 60 copper (6 silver)
+• Salt cost: 10 lbs × 1 cp = 10 copper (1 silver)
 
-Without proper salt curing, the bacon will spoil. This is the single largest salt expense in the entire process.
+The salt creates a curing layer that draws out moisture and preserves the meat. After 7 days, you rinse off the excess salt before smoking.
 
 Yield: 5 slabs × 10 lbs = 50 lbs
 
@@ -558,7 +558,7 @@ Smoked: 10 days refrigerated
 Frozen: 6 months if wrapped tightly (prevents freezer burn)
 
 Bone Stock (from 70 lbs of premium bones)
-The skeleton on an owlbear is about 213 pounds total. Most of it's junk, but you want to save the good bones:
+The skeleton on an owlbear is about 170 pounds total (12% of dressed weight per Bear standards). Most of it's junk, but you want to save the good bones:
 
 Premium bones to save:
 
@@ -570,7 +570,7 @@ Neck vertebrae: 35 lbs total - lots of marrow pockets
 
 Total: 70 pounds of premium soup bones
 
-The remaining 143 pounds of skeleton (ribs, skull, wing bones, small stuff) you can use for secondary stock or just sell to farmers for bone meal. 5 gold if you're lucky.
+The remaining 100 pounds of skeleton (ribs, skull, wing bones, small stuff) you can use for secondary stock or just sell to farmers for bone meal. 5 gold if you're lucky.
 
 How to Make Proper Stock
 Roast the bones at 425°F for 45 minutes. You want them BROWN, not burnt. This develops deep flavor through caramelization.
@@ -735,11 +735,11 @@ External Materials	183 lbs	13%	Sold to artisans
 Retail Cuts	575 lbs	40%	Sold as steaks/roasts
 Sausage (from trim)	70 lbs	5%	Ground into links
 Premium Soup Bones	70 lbs	5%	Made into stock
-Remainder Skeleton	143 lbs	10%	Secondary stock or waste
+Remainder Skeleton	100 lbs	7%	Secondary stock or waste
 Rendered Tallow	99 lbs	7%	Cooking fat
 Guts and Organs	95 lbs	7%	Compost or animal feed
 Blood (drained)	115 lbs	8%	Already gone
-Connective Tissue/Waste	70 lbs	5%	Waste bin
+Connective Tissue/Waste	113 lbs	8%	Waste bin (includes cartilage, silver skin, processing loss)
 GRAND TOTAL	1,420 lbs	100%	✓
 
 Export to Sheets
@@ -773,7 +773,7 @@ Total: 25 lbs
 
 These go to alchemists for 25 gold, but only if they're fresh.
 
-Breaking Down the Skeleton (213 lbs total)
+Breaking Down the Skeleton (170 lbs total)
 Premium bones (for stock): 70 lbs
 
 Femurs: 20 lbs
@@ -782,15 +782,15 @@ Knuckles: 15 lbs
 
 Neck vertebrae: 35 lbs
 
-Remainder bones (secondary use): 143 lbs
+Remainder bones (secondary use): 100 lbs
 
-Rib cage: 85 lbs
+Rib cage: 60 lbs
 
-Skull: 30 lbs
+Skull: 21 lbs
 
-Wing bones: 18 lbs
+Wing bones: 13 lbs
 
-Small bones: 10 lbs
+Small bones: 6 lbs
 
 The remainder gets used for weaker stock or sold as bone meal (5 gold bulk).
 
@@ -1198,7 +1198,7 @@ Imported spices (pepper, juniper)	9 sp	Guild bulk rate (retail: ~1 gp, 2 sp)
 Sea salt (7 lbs for sausage/misc)	7 cp	Bulk sack rate
 Sausage casings (natural hog)	3 gp	For 267 links
 Bacon Curing
-Sea salt (60 lbs for bacon cure)	6 sp	Critical for proper bacon curing
+Sea salt (10 lbs for bacon cure)	1 sp	Traditional dry cure packing method
 Stock Aromatics
 Onions, carrots, celery, bay	9 cp	Common vegetables
 Smoking & Curing
@@ -1207,7 +1207,7 @@ Preservation
 Ice or magical cooling	5 gp	Create Water scroll + ice, or hire wizard
 Miscellaneous
 Twine, jars, cloth, packaging	5 gp	Wrapping materials, storage containers
-TOTAL COSTS	79 gp, 4 sp, 6 cp
+TOTAL COSTS	78 gp, 9 sp, 6 cp
 
 Export to Sheets
 
@@ -1219,43 +1219,37 @@ Sausage Ingredients
 Pork belly fat (30 lbs @ 2 sp/lb)	6 gp	Required for proper sausage consistency
 Sausage spices (retail prices)	1 gp, 6 sp, 5 cp	No bulk discount
 Bacon Curing
-Sea salt (60 lbs for bacon cure)	6 sp	Critical for bacon curing
+Sea salt (10 lbs for bacon cure)	1 sp	Traditional dry cure packing method
 Stock aromatics	9 cp	Same (vegetables are cheap)
 Smoking wood	3 gp	Retail pricing
 Sausage casings	4 gp	Retail pricing
 Ice/cooling	8 gp	Higher rate, no guild wizard
 Miscellaneous	7 gp	Retail packaging costs
-TOTAL COSTS	108 gp, 1 sp, 5 cp
+TOTAL COSTS	107 gp, 6 sp, 5 cp
 
 Export to Sheets
 
 That's about 29 gold more than guild pricing. The guild pays for itself after 2-3 owlbears.
 
-Net Profit
+Net Profit (Before Guild Commission)
 Scenario	Gross Revenue	Operating Cost	Net Profit	Margin
-Guild member (keep tenderloin)	835 gp	79 gp, 4 sp, 6 cp	755 gp, 5 sp, 4 cp	90%
-Guild member (sell tenderloin)	883 gp	79 gp, 4 sp, 6 cp	803 gp, 5 sp, 4 cp	91%
-Independent (keep tenderloin)	835 gp	108 gp, 1 sp, 5 cp	726 gp, 8 sp, 5 cp	87%
-Independent (sell tenderloin)	883 gp	108 gp, 1 sp, 5 cp	774 gp, 8 sp, 5 cp	88%
+Guild member (keep tenderloin)	835 gp	78 gp, 9 sp, 6 cp	756 gp, 0 sp, 4 cp	90%
+Guild member (sell tenderloin)	883 gp	78 gp, 9 sp, 6 cp	804 gp, 0 sp, 4 cp	91%
+Independent (keep tenderloin)	835 gp	107 gp, 6 sp, 5 cp	727 gp, 3 sp, 5 cp	87%
+Independent (sell tenderloin)	883 gp	107 gp, 6 sp, 5 cp	775 gp, 3 sp, 5 cp	88%
+
+Guild Commission (If Using Guild Facilities)
+Guild members who use guild facilities pay a 5% commission on gross revenue. This provides access to cold storage, smoking sheds, and professional equipment.
+
+Scenario	Gross Revenue	Guild Commission (5%)	Net After Commission
+Guild member (keep tenderloin)	835 gp	41.75 gp	714 gp, 2 sp, 4 cp
+Guild member (sell tenderloin)	883 gp	44.15 gp	759 gp, 8 sp, 4 cp
 
 Export to Sheets
 
 That's an 87-91% profit margin. You won't find that on beef.
 
-Note: Gross revenue increased from previous calculations due to corrected sausage yield (100 lbs vs. 70 lbs = +30 gp), but operating costs also increased due to pork fat (+6 gp) and proper bacon curing salt (+6 sp). Net result: slightly higher overall profit.
-
-Additional Costs to Consider
-If You Use Guild Facilities
-The guild takes a 5% commission
-
-Knock off about 42 gold from your profit
-
-You end up with 698-746 gold net
-
-But you get access to cold storage, smoking sheds, and equipment
-
-If You're Independent
-You keep all the profit
+Note: Gross revenue increased from previous calculations due to corrected sausage yield (100 lbs vs. 70 lbs = +30 gp), but operating costs also increased due to pork fat (+6 gp). Bacon curing salt was corrected to realistic amounts (10 lbs vs. initial 60 lbs). Net result: improved overall profit with realistic costs.
 
 But you had to invest in your own shop (knives, tables, cold storage, smoking shed)
 
