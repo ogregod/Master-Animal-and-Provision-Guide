@@ -349,13 +349,13 @@ Here's the breakdown of PRIMAL sections and their retail value:
 |----------------|-------------|---------------------|-----------|---------------|--------------|
 | Shoulder (both) | 110 lbs | 70 lbs roasts | 40 lbs stew | ~8 sp/lb | 62 gp |
 | Loin/Saddle | 85 lbs | 85 lbs steaks/chops | 0 lbs | ~1 gp/lb | 86.5 gp |
-| Hindquarters (both) | 100 lbs | 65 lbs roasts/steaks | 35 lbs trim | ~7.5 sp/lb | 73 gp |
+| Hindquarters (both) | 100 lbs | 100 lbs roasts/steaks | 0 lbs | ~7.3 sp/lb | 73 gp |
 | Ribs/Belly | 25 lbs | 0 lbs | 25 lbs trim | ~5 sp/lb | 12 gp |
-| **TOTALS** | **320 lbs** | **220 lbs retail** | **100 lbs trim/stew** | **~10.6 sp/lb avg** | **233.5 gp** |
+| **TOTALS** | **320 lbs** | **255 lbs retail** | **65 lbs trim/stew** | **~10.6 sp/lb avg** | **233.5 gp** |
 
-**Understanding the breakdown:** Each primal section yields some prime retail cuts (sold as roasts/steaks) and some tougher sections (goes to trim for sausage or stew meat). The 220 lbs of retail cuts is what actually gets sold as packaged meat. The remaining 100 lbs gets processed into sausage (84 lbs trim) and sold as stew meat/scraps (16 lbs from various sections).
+**Understanding the breakdown:** Each primal section yields some prime retail cuts (sold as roasts/steaks) and some tougher sections (goes to trim for sausage or stew meat). The 255 lbs of retail cuts from primals (steaks, roasts, and shoulder stew meat) generates 233.5 gp in revenue. The remaining 65 lbs of trim/stew gets processed into sausage (25 lbs from ribs) and sold as additional stew meat (40 lbs from shoulder).
 
-**Important:** This 220 lbs retail figure is used throughout all revenue calculations and matches the General Butcher Guide standard of 35% retail yield (220 ÷ 636 carcass weight = 34.6%, which rounds to the 35% Canine standard).
+**Note on accounting categories:** For yield percentage tracking, "retail cuts" specifically refers to premium steaks and roasts (220 lbs), which matches the General Butcher Guide standard of 35% retail yield (220 ÷ 636 carcass weight = 34.6%). The 40 lbs of shoulder stew meat, while sold directly, is categorized separately as "stew meat/scraps" along with other budget cuts.
 
 ### What Wolf Meat Actually Tastes Like
 
@@ -743,12 +743,12 @@ Tallow is used for candles, soap, leather treatment, and waterproofing. It's not
 
 | Product | Gross Revenue | Costs | Net Profit |
 |---------|---------------|-------|------------|
-| Sausage (120 lbs) | 72 gp | 15.2 gp | 56.8 gp |
+| Sausage (138 lbs) | 82.8 gp | 19.8 gp | 63 gp |
 | Bone Stock (104 pints) | 36.4 gp | 6.1 gp | 30.3 gp |
 | Rendered Tallow (35 lbs) | 7 gp | 1.4 gp | 5.6 gp |
-| **TOTAL BYPRODUCTS** | **115.4 gp** | **22.7 gp** | **92.7 gp** |
+| **TOTAL BYPRODUCTS** | **126.2 gp** | **27.3 gp** | **98.9 gp** |
 
-That's an extra 92.7 gold of PROFIT from stuff that would otherwise be waste. THIS is why you process the whole animal.
+That's an extra 98.9 gold of PROFIT from stuff that would otherwise be waste. THIS is why you process the whole animal.
 
 ---
 
@@ -1202,18 +1202,23 @@ The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers
 
 #### Sausage
 
-**Trim weight:** 618 lbs  
-**Add pork fat (30%):** 265 lbs  
-**Total sausage mixture:** 883 lbs
+**Trim weight:** 618 lbs (60% of mixture for gamey wolf meat)
+**Add pork fat (40% for gamey meat ratio):** 412 lbs
+**Total sausage mixture:** 1,030 lbs
+**Processing loss (2%):** 21 lbs
+**Final yield:** 1,009 lbs
 
 **Costs:**
-- Pork fat: 53 gp
-- Spices: 22 gp
-- Casings: 15 gp
+- Pork fat: 82.4 gp (412 lbs × 2 sp/lb)
+- Spices: 16.9 gp (scaled for 1,030 lb mixture)
+- Casings: 22.1 gp (scaled for 1,009 lbs finished)
+- Labor: 60 gp
 
-**Gross revenue:** 883 lbs × 6 sp = 529.8 gp
+**Gross revenue:** 1,009 lbs × 6 sp = 605.4 gp
 
-**Net profit:** 530 - 90 = **440 gp**
+**Total costs:** 181.4 gp
+
+**Net profit:** 605.4 - 181.4 = **424 gp**
 
 #### Bone Stock
 
@@ -1236,23 +1241,24 @@ Additionally, larger stock pots have better heat retention and less surface evap
 
 #### Rendered Tallow
 
-**Fat weight:** 293 lbs  
-**Rendered yield:** 260 lbs
+**Fat weight:** 254 lbs (39 lbs × 6.5 scaling factor)
+**Rendering loss (10%):** 25 lbs
+**Rendered yield:** 229 lbs
 
-**Gross revenue:** 260 lbs × 2 sp = 52 gp
+**Gross revenue:** 229 lbs × 2 sp = 45.8 gp
 
-**Net costs:** 10 gp
+**Net costs:** 8.7 gp (scaled proportionally)
 
-**Net profit:** 52 - 10 = **42 gp**
+**Net profit:** 45.8 - 8.7 = **37.1 gp**
 
 ### Byproducts Summary (Alpha)
 
 | Product | Gross Revenue | Net Profit |
 |---------|---------------|------------|
-| Sausage | 530 gp | 440 gp |
-| Bone Stock | 273 gp | 233 gp |
-| Rendered Tallow | 52 gp | 42 gp |
-| **TOTAL BYPRODUCTS** | **855 gp** | **715 gp** |
+| Sausage (1,009 lbs) | 605.4 gp | 424 gp |
+| Bone Stock (780 pints) | 273 gp | 233 gp |
+| Rendered Tallow (229 lbs) | 45.8 gp | 37.1 gp |
+| **TOTAL BYPRODUCTS** | **924.2 gp** | **694.1 gp** |
 
 ---
 
@@ -1265,13 +1271,13 @@ Additionally, larger stock pots have better heat retention and less surface evap
 | Organs (Node + Sac) | 1,600 gp |
 | Trophies | 200 gp |
 | **Retail Cuts** | 1,517 gp |
-| **Byproducts (Gross)** | 855 gp |
-| Sausage | 530 gp |
+| **Byproducts (Gross)** | 924.2 gp |
+| Sausage | 605.4 gp |
 | Stock | 273 gp |
-| Tallow | 52 gp |
-| **GROSS TOTAL REVENUE** | **5,672 gp** |
+| Tallow | 45.8 gp |
+| **GROSS TOTAL REVENUE** | **5,741.2 gp** |
 
-*(Subtract 100 gp for preservation supplies = **5,572 gp net revenue**)*
+*(Subtract 100 gp for preservation supplies = **5,641.2 gp net revenue**)*
 
 ---
 
@@ -1308,16 +1314,16 @@ Additionally, larger stock pots have better heat retention and less surface evap
   - Organ preservation: 45 lbs organs × 100% packing = 45 lbs salt × 4 cp/lb = 1.8 gp
   - Pelt curing: 550 lbs pelt × 10% = 55 lbs salt × 3 cp/lb = 1.65 gp
   - Total: 100 lbs salt at 3.45 gp (rounded to 3.5 gp)
-- Pork fat (sausage): 53 gp
-- Spices (sausage): 22 gp
-- Casings (sausage): 15 gp
+- Pork fat (sausage): 82.4 gp (412 lbs × 2 sp/lb for 60/40 gamey meat ratio)
+- Spices (sausage): 16.9 gp (scaled for 1,030 lb mixture)
+- Casings (sausage): 22.1 gp (scaled for 1,009 lbs finished)
 - Aromatics (stock): 3 gp
 - Specialized containers for organs: 80 gp (watermelon-sized organs require custom-built reinforced containers)
 - Ice (multi-day preservation): 81.5 gp (massive amounts needed to keep organs fresh for 3-4 days until sold)
 - Firewood (multiple days): 30 gp
 - Misc supplies: 20 gp
 
-**Total materials:** 308 gold
+**Total materials:** 339.4 gold
 
 ### Facility and Equipment
 
@@ -1333,22 +1339,22 @@ Additionally, larger stock pots have better heat retention and less surface evap
 | Category | Independent | Guild |
 |----------|-------------|-------|
 | Labor | 352.3 gp | 416.3 gp |
-| Materials | 308 gp | 308 gp |
+| Materials | 339.4 gp | 339.4 gp |
 | Overhead | 70 gp | 70 gp |
-| Guild Commission (5% of 5,672 gp gross) | — | 283.6 gp |
-| **TOTAL COSTS** | **730.3 gp** | **1,078.9 gp** |
+| Guild Commission (5% of 5,741.2 gp gross) | — | 287.1 gp |
+| **TOTAL COSTS** | **761.7 gp** | **1,112.8 gp** |
 
 ## Alpha Net Profit
 
 **Independent butcher:**
-- Gross revenue: 5,572 gp (net after preservation)
-- Operating costs: 730.3 gp
-- **Net profit: 4,841.7 gold**
+- Gross revenue: 5,641.2 gp (net after preservation)
+- Operating costs: 761.7 gp
+- **Net profit: 4,879.5 gold**
 
 **Guild butcher:**
-- Gross revenue: 5,572 gp (net after preservation)
-- Operating costs: 1,078.9 gp (includes 283.6 gp commission on 5,672 gp gross)
-- **Net profit: 4,493.1 gold**
+- Gross revenue: 5,641.2 gp (net after preservation)
+- Operating costs: 1,112.8 gp (includes 287.1 gp commission on 5,741.2 gp gross)
+- **Net profit: 4,528.4 gold**
 
 ## Alpha Time Investment
 
@@ -1360,7 +1366,8 @@ Additionally, larger stock pots have better heat retention and less surface evap
 
 **Total active work:** 32 hours (4 days with breaks)
 
-**Hourly rate:** 5,115 gold ÷ 32 hours = **159.8 gold per hour**
+**Hourly rate (independent):** 4,879.5 gold ÷ 32 hours = **152.5 gold per hour**
+**Hourly rate (guild):** 4,528.4 gold ÷ 32 hours = **141.5 gold per hour**
 
 That's INSANE money for a butcher. This is "retire early" money. This is "buy a shop" money.
 
@@ -1431,21 +1438,21 @@ Fair price range: **1,200-1,500 gold** for a well-preserved carcass.
 ## Alpha Economics Summary
 
 **Best case scenario (independent butcher):**
-- Gross revenue: 5,572 gp (net after preservation)
-- Operating costs: 730.3 gp
-- Net profit: 4,841.7 gp
+- Gross revenue: 5,641.2 gp (net after preservation)
+- Operating costs: 761.7 gp
+- Net profit: 4,879.5 gp
 - Time: 32 hours
-- Hourly rate: 151.3 gp/hour
+- Hourly rate: 152.5 gp/hour
 
 **Realistic scenario (guild member, winter pelt bonus):**
-- Gross revenue: 6,072 gp (pelt sells for 2,000 gp in winter, net after preservation)
-- Operating costs: 1,102.9 gp (includes 308.6 gp commission on 6,172 gp gross)
-- Net profit: 4,969.1 gp
+- Gross revenue: 6,141.2 gp (pelt sells for 2,000 gp in winter, net after preservation)
+- Operating costs: 1,137.8 gp (includes 312.1 gp commission on 6,241.2 gp gross)
+- Net profit: 5,003.4 gp
 
 **Worst case scenario (independent, one organ ruined):**
-- Gross revenue: 4,772 gp (lost 800 gp on Blink Node rupture, net after preservation)
-- Operating costs: 730.3 gp
-- Net profit: 4,041.7 gp
+- Gross revenue: 4,841.2 gp (lost 800 gp on Blink Node rupture, net after preservation)
+- Operating costs: 761.7 gp
+- Net profit: 4,079.5 gp
 - Still huge, but painful
 
 **The bottom line:** An Alpha Blink Wolf is a career-defining job. You'll make enough money to set yourself up for years. Just don't screw up the organs.
