@@ -38,9 +38,9 @@ Total value: 835-883 gold depending on whether you sell the tenderloin or keep i
 
 Processing time: About 14 hours with a crew of 4 people who know what they're doing.
 
-Operating costs: 79-108 gold for labor, pork fat, salt, spices, ice, supplies (guild vs. independent). Guild facilities add a 5% commission on gross revenue (~42 gp).
+Operating costs: 87-102 gold for labor, salt, spices, ice, supplies (guild vs. independent). Guild facilities add a 5% commission on gross revenue (~42 gp).
 
-Your profit: 714-775 gold for two days of work (after all costs including guild commission if applicable).
+Your profit: 704-779 gold for two days of work (after all costs including guild commission if applicable).
 
 That's better than a month's worth of cows, and about 40 times more profitable than deer. The only catch is that owlbears try to kill you before you kill them. But that's the adventurers' problem, not yours.
 
@@ -1274,7 +1274,7 @@ That's net revenue (after material costs for sausage). You still have labor and 
 Operating Costs
 Guild Member Costs (What I Pay)
 Expense	Cost	Notes
-Master butcher (14 hours @ 2.5 gp/hr)	35 gp	Guild rate for journeyman or master
+Master butcher (14 hours @ 3.5 gp/hr)	49 gp	Guild master rate
 3 Apprentices (14 hours each @ 5 sp/hr)	21 gp	Standard apprentice wage
 Sausage Ingredients
 Fresh herbs (sage, garlic, fennel)	9 sp	Guild bulk rate (retail: ~1 gp, 3 sp)
@@ -1289,7 +1289,7 @@ Preservation
 Ice or magical cooling	5 gp	Create Water scroll + ice, or hire wizard
 Miscellaneous
 Twine, jars, cloth, packaging	5 gp	Wrapping materials, storage containers
-TOTAL COSTS	73 gp, 4 sp, 3 cp
+TOTAL COSTS	87 gp, 4 sp, 3 cp
 
 Export to Sheets
 
@@ -1312,8 +1312,8 @@ That's about 29 gold more than guild pricing. The guild pays for itself after 2-
 
 Net Profit (Before Guild Commission)
 Scenario	Gross Revenue	Operating Cost	Net Profit	Margin
-Guild member (keep tenderloin)	832.8 gp	73 gp, 4 sp, 3 cp	759 gp, 4 sp	91%
-Guild member (sell tenderloin)	880.8 gp	73 gp, 4 sp, 3 cp	807 gp, 4 sp	92%
+Guild member (keep tenderloin)	832.8 gp	87 gp, 4 sp, 3 cp	745 gp, 4 sp	89.5%
+Guild member (sell tenderloin)	880.8 gp	87 gp, 4 sp, 3 cp	793 gp, 4 sp	90%
 Independent (keep tenderloin)	832.8 gp	102 gp, 2 sp, 7 cp	730 gp, 5 sp	88%
 Independent (sell tenderloin)	880.8 gp	102 gp, 2 sp, 7 cp	778 gp, 5 sp	88%
 
@@ -1321,8 +1321,8 @@ Guild Commission (If Using Guild Facilities)
 Guild members who use guild facilities pay a 5% commission on gross revenue. This provides access to cold storage, smoking sheds, and professional equipment.
 
 Scenario	Gross Revenue	Guild Commission (5%)	Net After Commission
-Guild member (keep tenderloin)	832.8 gp	41.6 gp	717.8 gp
-Guild member (sell tenderloin)	880.8 gp	44 gp	763.4 gp
+Guild member (keep tenderloin)	832.8 gp	41.6 gp	703.8 gp
+Guild member (sell tenderloin)	880.8 gp	44 gp	749.4 gp
 
 Export to Sheets
 
@@ -1571,6 +1571,19 @@ May your blades stay sharp and your cellars stay cold.
 ---
 
 ## Changelog
+
+**Version 2.2 - December 29, 2025**
+
+Labor Rate Standards Compliance
+
+- **Guild Master Labor Rate**: Corrected guild master butcher rate from 2.5 gp/hr (independent rate) to 3.5 gp/hr (guild rate) per General Butcher Guide standard. Updated all dependent calculations:
+  - Guild operating costs: 73.4 → 87.4 gp (+14 gp)
+  - Guild profit (keep tenderloin): 759.4 → 745.4 gp (-14 gp)
+  - Guild profit (sell tenderloin): 807.4 → 793.4 gp (-14 gp)
+  - Guild profit after commission (keep tenderloin): 717.8 → 703.8 gp
+  - Guild profit after commission (sell tenderloin): 763.4 → 749.4 gp
+  - Updated summary operating costs range: 79-108 → 87-102 gp
+  - Updated summary profit range: 714-775 → 704-779 gp
 
 **Version 2.1 - December 29, 2025**
 
