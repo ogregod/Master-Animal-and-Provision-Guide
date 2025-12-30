@@ -33,13 +33,13 @@ So when you see "736 lbs dressed weight," that's what actually arrives at your s
 - **Sausage from trim**: 138 lbs (84 lbs trim + 56 lbs pork fat, 60/40 ratio for gamey meat) → 82.8 gold gross / 63 gold net
 - **Bone stock**: 97 lbs bones → 36.4 gold
 - **Rendered tallow**: 35 lbs (from 39 lbs raw) → 7 gold
-- **Total value**: 815.1 gold (detailed calculations)
+- **Total value**: 814.7 gold (detailed calculations)
 
 **Processing time:** About 10 hours with a crew of 3 skilled workers.
 
-**Operating costs:** 126.2 gold for labor, materials, overhead (independent).
+**Operating costs:** 101.8 gold for labor, materials, overhead (independent).
 
-**Your profit:** 688.9 gold for a day and a half of work (independent butcher).
+**Your profit:** 712.9 gold for a day and a half of work (independent butcher).
 
 That's damn good money for an animal whose meat tastes like you're chewing on a boot that spent a week in a freezer. The profit is ALL about doing this right—one mistake with those organs and you've just turned 200 gold of meat into frozen garbage or interdimensional scrap.
 
@@ -781,7 +781,7 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 | Bone Stock | 104 pints | 36.4 gp |
 | Rendered Tallow | 35 lbs | 7 gp |
 | *Subtotal (Byproducts)* | *varies* | *126.2 gp* |
-| **GRAND TOTAL REVENUE** | | **815.1 gp** |
+| **GRAND TOTAL REVENUE** | | **814.7 gp** |
 
 ### Operating Costs Breakdown
 
@@ -810,7 +810,11 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 #### Materials and Supplies
 
 - **Preservation supplies** (jars, alcohol for organs, ice): 5 gp
-- **Salt** (massive quantities): 25 gp
+- **Salt** (pelt, organs, sausage): 0.63 gp
+  - Pelt preservation: 85 lbs × 10% = 8.5 lbs × 3 cp/lb = 25.5 cp
+  - Organ preservation: 7 lbs organs × 100% = 7 lbs × 4 cp/lb = 28 cp
+  - Sausage seasoning: 3 lbs × 3 cp/lb = 9 cp
+  - Total: 62.5 cp ≈ 0.63 gp
 - **Pork fat** (for sausage, 56 lbs): 11.2 gp
 - **Spices** (sausage blend): 2.3 gp
 - **Casings** (sausage): 2.3 gp
@@ -819,7 +823,7 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 - **Containers** (stock jars, tallow containers): 5.6 gp
 - **Miscellaneous** (twine, wrapping, cleaning supplies): 3 gp
 
-**Total materials:** 59.2 gold
+**Total materials:** 34.83 gold
 
 #### Overhead
 
@@ -834,27 +838,27 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 | Category | Independent | Guild |
 |----------|-------------|-------|
 | Labor | 54 gp | 69 gp |
-| Materials | 59.2 gp | 59.2 gp |
+| Materials | 34.83 gp | 34.83 gp |
 | Overhead | 13 gp | 13 gp |
-| Guild Commission (5% of gross) | — | 40.76 gp |
-| **TOTAL COSTS** | **126.2 gp** | **181.96 gp** |
+| Guild Commission (5% of gross) | — | 40.74 gp |
+| **TOTAL COSTS** | **101.83 gp** | **157.57 gp** |
 
 ### Net Profit Calculation
 
 **Independent butcher:**
-- Gross revenue: 815.1 gp
-- Operating costs: 126.2 gp
-- **Net profit: 688.9 gold**
+- Gross revenue: 814.7 gp
+- Operating costs: 101.83 gp
+- **Net profit: 712.87 gold**
 
 **Guild butcher:**
-- Gross revenue: 815.1 gp
-- Operating costs: 181.96 gp (includes 40.76 gp guild commission)
-- **Net profit: 633.14 gold**
+- Gross revenue: 814.7 gp
+- Operating costs: 157.57 gp (includes 40.74 gp guild commission)
+- **Net profit: 657.13 gold**
 
 ### Profit Margins
 
-**Independent:** 688.9 ÷ 815.1 = **84.5% profit margin**
-**Guild:** 633.14 ÷ 815.1 = **77.7% profit margin**
+**Independent:** 712.87 ÷ 814.7 = **87.5% profit margin**
+**Guild:** 657.13 ÷ 814.7 = **80.7% profit margin**
 
 Those are EXCELLENT margins. The reason? Most of your revenue comes from high-value, low-cost items:
 - The pelt costs almost nothing to harvest

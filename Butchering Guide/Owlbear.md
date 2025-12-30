@@ -11,12 +11,12 @@ Listen. I've been butchering owlbears since before you were born, and I'm writin
 So sit down, shut up, and pay attention. I'm only writing this once.
 
 What You're Looking At
-When you kill an owlbear (or more likely, when some adventurers drag one to your shop and demand you "do something with it"), you've got about 1,420 pounds of dead weight on your hands. That's assuming they already bled it out in the field, which, if they're smart, they did. If they didn't, add another 115 pounds of blood and a huge mess.
+When you kill an owlbear (or more likely, when some adventurers drag one to your shop and demand you "do something with it"), you've got about 1,420 pounds of dead weight on your hands. That's assuming they already bled it out in the field, which, if they're smart, they did. If they didn't, add another 128 pounds of blood and a huge mess.
 
 Field Dressing & Transport (Hunter's Responsibility):
 • Live weight: ~1,600 lbs (estimated from final carcass size)
-• Blood drained: 115 lbs (8% of live weight - lost in field)
-• Digestive tract removed: ~65 lbs (4% of live weight - lost in field)
+• Blood drained: 128 lbs (8% of live weight - lost in field)
+• Digestive tract + non-magical organs removed: ~52 lbs (3.25% of live weight - lost in field)
 • Dressed weight arriving at shop: 1,420 lbs (carcass with hide still attached)
 
 What arrives at your shop:
@@ -824,10 +824,9 @@ If you have an apprentice with free time, selling the small bones can add ~7 gp 
 
 Already removed in field (NOT part of 1,420 lbs):
 Component	Weight	Notes
-Blood (drained)	115 lbs	Lost during field dressing
-Digestive tract + contents	65 lbs	Removed by hunter
-Lungs, spleen, kidneys (non-magical organs)	30 lbs	Discarded in field
-Total field loss	210 lbs	Live weight: 1,600 lbs → Dressed: 1,420 lbs
+Blood (drained)	128 lbs	8% of live weight, lost during field dressing
+Digestive tract + non-magical organs	52 lbs	Includes lungs, spleen, stomach contents, removed by hunter
+Total field loss	180 lbs	Live weight: 1,600 lbs → Dressed: 1,420 lbs
 
 Export to Sheets
 
@@ -903,13 +902,14 @@ Component	Percentage	Owlbear Weight
 External Materials	13%	183 lbs
 Retail Meat	40%	575 lbs
 Sausage/Trim	5%	70 lbs
-Premium Bones	5%	70 lbs
-Remainder Skeleton	10%	143 lbs
-Rendered Fat	7%	99 lbs
-Organs (non-magical)	7%	95 lbs
-Blood	8%	115 lbs
-Waste/Connective	5%	70 lbs
-TOTAL	100%	1,420 lbs
+Premium Bones	12%	170 lbs
+Rendered Fat	6%	89 lbs
+Processing Loss	6%	85 lbs
+Waste/Connective	17%	248 lbs
+TOTAL (dressed weight)	100%	1,420 lbs
+Blood (removed in field)	8%	128 lbs
+Viscera (removed in field)	3.25%	52 lbs
+Live Weight Total	111.25%	1,600 lbs
 
 Export to Sheets
 
@@ -930,7 +930,7 @@ Fat that's too dirty or blood-soaked to render
 It's about 5% of the carcass, which is actually really good. Most large animals are 10-15% waste.
 
 "What about the blood?"
-The 115 pounds of blood was drained in the field before transport. It's gone. Some cultures use blood for blood sausage, but most adventurers just let it drain out on the ground.
+The 128 pounds of blood was drained in the field before transport. It's gone. Some cultures use blood for blood sausage, but most adventurers just let it drain out on the ground.
 
 If you REALLY want to save it, you need to catch it in buckets immediately after the kill and whisk it constantly to prevent clotting. Then you can make blood sausage (black pudding). But that's another 2-3 hours of work and most people don't like the taste.
 
@@ -1572,11 +1572,19 @@ May your blades stay sharp and your cellars stay cold.
 
 ## Changelog
 
+**Version 2.1 - December 29, 2025**
+
+External Review Corrections
+
+- **Blood Weight Standardization**: Corrected blood weight from 115 lbs (7.2%) to 128 lbs (8% of 1,600 lb live weight) to match General Butcher Guide standard. Updated all references throughout guide.
+
+- **Field Loss Summation**: Fixed field loss accounting from 210 lbs to 180 lbs. Consolidated "digestive tract" (65 lbs) and "non-magical organs" (30 lbs) into single "digestive tract + non-magical organs" category (52 lbs) to eliminate double-counting. Total field loss now correctly sums to 180 lbs (128 lbs blood + 52 lbs viscera = 1,600 - 1,420).
+
 **Version 2.0 - December 28, 2025**
 
 Mathematical & Logical Consistency Update
 
-- **Dressed Weight Definition**: Clarified that dressed weight (1,420 lbs) excludes blood and viscera, which are removed in the field. Added separate table showing 210 lbs of field losses.
+- **Dressed Weight Definition**: Clarified that dressed weight (1,420 lbs) excludes blood and viscera, which are removed in the field. Added separate table showing field losses.
 
 - **Salt Pricing & Usage**: Corrected salt pricing from 1 cp/lb to 3 cp/lb (per 99_tables standard). Updated total salt requirements to 18 lbs (sausage seasoning, bacon curing, hide preservation, organ packing) at cost of 54 cp total.
 
