@@ -1226,7 +1226,7 @@ The meat scaling is straightforward: multiply everything by 6.5.
 **Accounting note:** The complete carcass accounting consolidates budget cuts and stew meat into two simplified categories:
 - **"Retail cuts" (1,430 lbs)**: Premium retail only (matches 35% General Butcher Guide standard: 1,430 ÷ 4,134 = 34.6%)
 - **"Stew meat/scraps" (162 lbs)**: The best 162 lbs of budget cuts, sold as stew meat (scaled from 25 lbs × 6.5)
-- **"Sausage trim" (546 lbs)**: The remaining 196 lbs of budget cuts + 351 lbs trim = 547 lbs total
+- **"Sausage trim" (546 lbs)**: The remaining 195 lbs of budget cuts + 351 lbs trim = 546 lbs total
 
 **Scaling verification:**
 - Normal Blink Wolf: 329 lbs total → 220 retail + 25 stew + 84 trim

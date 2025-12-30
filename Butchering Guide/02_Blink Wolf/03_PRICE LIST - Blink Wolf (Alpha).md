@@ -51,9 +51,9 @@
 | Cut | Qty | Unit Weight | Total Weight | Price/Piece | Price/lb | Total Value |
 |-----|-----|-------------|--------------|-------------|----------|-------------|
 | Loin Chops (bone-in) | 163 | 1 lb | 163 lbs | 1 gp | 1 gp/lb | 163 gp |
-| Backstrap Steaks (boneless) | 152 | 1.5 lbs | 228 lbs | 1.5 gp | 1 gp/lb | 228 gp |
+| Backstrap Steaks (boneless) | 152 | 1.5 lbs | 228 lbs | 1.55 gp | 1.035 gp/lb | 236 gp |
 | Sirloin Steaks | 163 | 1 lb | 163 lbs | 1 gp | 1 gp/lb | 163 gp |
-| **LOIN TOTAL** | | | **553 lbs** | | | **554 gp** |
+| **LOIN TOTAL** | | | **553 lbs** | | | **562 gp** |
 
 *Cooking: Grill or pan-sear medium-rare to medium ONLY (5-8 minutes). DO NOT OVERCOOK.*
 
@@ -85,10 +85,10 @@
 | Section | Total Weight | Total Value |
 |---------|--------------|-------------|
 | Shoulder | 715 lbs | 403 gp |
-| Loin/Saddle | 553 lbs | 554 gp |
+| Loin/Saddle | 553 lbs | 562 gp |
 | Hindquarters | 650 lbs | 474 gp |
 | Ribs/Belly | 163 lbs | 78 gp |
-| **TOTAL RETAIL** | **2,081 lbs** | **1,509 gp** |
+| **TOTAL RETAIL** | **2,081 lbs** | **1,517 gp** |
 
 ---
 
@@ -189,15 +189,15 @@
 | Category | Value |
 |----------|-------|
 | External Materials (all sold) | 3,300 gp |
-| Retail Cuts | 1,509 gp |
+| Retail Cuts | 1,517 gp |
 | Sausage (bulk) | 535.2 gp |
 | Bone Stock | 273 gp |
 | Tallow | 45.8 gp |
-| **GROSS TOTAL** | **5,663 gp** |
+| **GROSS TOTAL** | **5,671 gp** |
 | Less: Guild processing fees | (787 gp) |
-| **NET TO CUSTOMER (GUILD)** | **~4,876 gp** |
+| **NET TO CUSTOMER (GUILD)** | **~4,884 gp** |
 | Less: Independent processing fees | (450 gp) |
-| **NET TO CUSTOMER (INDEPENDENT)** | **~5,213 gp** |
+| **NET TO CUSTOMER (INDEPENDENT)** | **~5,221 gp** |
 
 ---
 
