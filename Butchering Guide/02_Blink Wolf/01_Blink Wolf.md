@@ -37,18 +37,18 @@ So when you see "736 lbs dressed weight," that's what actually arrives at your s
 
 **The breakdown you need to know:**
 
-- **External materials** (pelt, organs, trophies): 100 lbs → 420 gold
-- **Retail cuts** (steaks, roasts, chops): 220 lbs → 233.5 gold
+- **External materials** (pelt, organs, trophies): 100 lbs → 455 gold
+- **Retail cuts** (steaks, roasts, chops): 320 lbs → 233 gold
 - **Sausage from trim**: 138 lbs (84 lbs trim + 56 lbs pork fat, 60/40 ratio for gamey meat) → 82.8 gold gross / 61.8 gold net
 - **Bone stock**: 97 lbs bones → 36.4 gold
 - **Rendered tallow**: 35 lbs (from 39 lbs raw) → 7 gold
-- **Total value**: 814.7 gold (detailed calculations)
+- **Total gross value**: 814.2 gold
 
 **Processing time:** About 10 hours with a crew of 3 skilled workers.
 
-**Operating costs:** 101.8 gold for labor, materials, overhead (independent).
+**Operating costs:** 104.57 gold for labor, materials, overhead (independent).
 
-**Your profit:** 712.9 gold for a day and a half of work (independent butcher).
+**Your profit:** 709.63 gold for a day and a half of work (independent butcher).
 
 That's damn good money for an animal whose meat tastes like you're chewing on a boot that spent a week in a freezer. The profit is ALL about doing this right—one mistake with those organs and you've just turned 200 gold of meat into frozen garbage or interdimensional scrap.
 
@@ -804,16 +804,16 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 | *Subtotal (External)* | *100 lbs* | *455 gp* |
 | **RETAIL CUTS** | | |
 | Shoulder | 110 lbs | 62 gp |
-| Loin/Saddle | 85 lbs | 86.5 gp |
+| Loin/Saddle | 85 lbs | 86 gp |
 | Hindquarters | 100 lbs | 73 gp |
 | Ribs/Belly | 25 lbs | 12 gp |
-| *Subtotal (Retail)* | *320 lbs* | *233.5 gp* |
+| *Subtotal (Retail)* | *320 lbs* | *233 gp* |
 | **BYPRODUCTS** | | |
 | Sausage | 138 lbs | 82.8 gp |
 | Bone Stock | 104 pints | 36.4 gp |
 | Rendered Tallow | 35 lbs | 7 gp |
 | *Subtotal (Byproducts)* | *varies* | *126.2 gp* |
-| **GRAND TOTAL REVENUE** | | **814.7 gp** |
+| **GRAND TOTAL REVENUE** | | **814.2 gp** |
 
 ### Operating Costs Breakdown
 
@@ -882,19 +882,19 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 ### Net Profit Calculation
 
 **Independent butcher:**
-- Gross revenue: 814.7 gp
+- Gross revenue: 814.2 gp
 - Operating costs: 104.57 gp
-- **Net profit: 710.13 gold**
+- **Net profit: 709.63 gold**
 
 **Guild butcher:**
-- Gross revenue: 814.7 gp
+- Gross revenue: 814.2 gp
 - Operating costs: 158.81 gp (includes 40.74 gp guild commission)
-- **Net profit: 655.89 gold**
+- **Net profit: 655.39 gold**
 
 ### Profit Margins
 
-**Independent:** 710.13 ÷ 814.7 = **87.2% profit margin**
-**Guild:** 655.89 ÷ 814.7 = **80.5% profit margin**
+**Independent:** 709.63 ÷ 814.2 = **87.2% profit margin**
+**Guild:** 655.39 ÷ 814.2 = **80.5% profit margin**
 
 Those are EXCELLENT margins. The reason? Most of your revenue comes from high-value, low-cost items:
 - The pelt costs almost nothing to harvest
