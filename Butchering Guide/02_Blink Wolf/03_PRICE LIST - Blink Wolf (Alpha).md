@@ -97,11 +97,11 @@
 ### Hunter's Sausage (60% trim / 40% pork fat - for gamey meat)
 | Item | Amount | Price/Unit | Total Value |
 |------|--------|------------|-------------|
-| Sausage (bulk) | 1,009 lbs | 6 sp/lb | 605.4 gp |
-| Sausage (individual links) | 2,690 links (6 oz) | 5 sp/link | 1,345 gp |
-| **Trim (if not making sausage)** | 618 lbs | 5 sp/lb | 309 gp |
+| Sausage (bulk) | 892 lbs | 6 sp/lb | 535.2 gp |
+| Sausage (individual links) | 2,379 links (6 oz) | 5 sp/link | 1,189.5 gp |
+| **Trim (if not making sausage)** | 546 lbs | 5 sp/lb | 273 gp |
 
-*Trim from: 260 lbs shoulder stew, 163 lbs ribs, 195 lbs scraps*
+*Trim from: 260 lbs shoulder stew, 163 lbs ribs, 123 lbs scraps (scaled from 84 lbs × 6.5)*
 
 ### Bone Stock
 | Item | Amount | Price/Unit | Total Value |
@@ -120,10 +120,10 @@
 ### Byproducts Summary
 | Product | Amount | Value |
 |---------|--------|-------|
-| Sausage (bulk) | 1,009 lbs | 605.4 gp |
+| Sausage (bulk) | 892 lbs | 535.2 gp |
 | Bone Stock | 780 pints | 273 gp |
 | Tallow | 229 lbs | 45.8 gp |
-| **TOTAL BYPRODUCTS** | | **924.2 gp** |
+| **TOTAL BYPRODUCTS** | | **854 gp** |
 
 ---
 
@@ -190,14 +190,14 @@
 |----------|-------|
 | External Materials (all sold) | 3,300 gp |
 | Retail Cuts | 1,509 gp |
-| Sausage (bulk) | 605.4 gp |
+| Sausage (bulk) | 535.2 gp |
 | Bone Stock | 273 gp |
 | Tallow | 45.8 gp |
-| **GROSS TOTAL** | **5,733.2 gp** |
+| **GROSS TOTAL** | **5,663 gp** |
 | Less: Guild processing fees | (787 gp) |
-| **NET TO CUSTOMER (GUILD)** | **~4,946 gp** |
+| **NET TO CUSTOMER (GUILD)** | **~4,876 gp** |
 | Less: Independent processing fees | (450 gp) |
-| **NET TO CUSTOMER (INDEPENDENT)** | **~5,283 gp** |
+| **NET TO CUSTOMER (INDEPENDENT)** | **~5,213 gp** |
 
 ---
 

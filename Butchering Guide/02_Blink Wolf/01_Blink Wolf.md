@@ -19,12 +19,21 @@ So sit down, pay attention, and for the gods' sake, READ THE WARNINGS before you
 
 When adventurers drag an 800-pound Blink Wolf to your shop (and they better have bled it out already), you've got about 736 pounds of dressed weight to work with. That's assuming they did their job in the field and you're not dealing with 64 pounds of frozen blood and a ruined carcass.
 
-Understanding "Dressed Weight"
-The 736 pounds is the dressed weight - meaning the carcass after field dressing. This removes:
+Understanding "Dressed Weight" for Blink Wolves
+The 736 pounds is the dressed weight - meaning the carcass after PARTIAL field dressing. This is different from Owlbears.
+
+**Why the difference?** The Blink Node and Frost Sac are so valuable and dangerous that the entire gutting process should happen at your shop under controlled conditions. Field gutting risks puncturing these organs in suboptimal conditions.
+
+**What's removed in the field:**
 • Blood: 64 lbs (8% of live weight, drained in field)
 • Live weight before field dressing: 800 lbs total
 
-So when you see "736 lbs dressed weight," that's what actually arrives at your shop, ready to butcher.
+**What stays until you process it:**
+• All viscera (stomach, intestines, non-magical organs): ~47 lbs
+• These are removed at your shop and counted in the waste category
+• The magical organs (Blink Node, Frost Sac) are harvested FIRST, then regular gutting proceeds
+
+So when you see "736 lbs dressed weight," that's what actually arrives at your shop - bled but not gutted, ready for careful processing.
 
 **The breakdown you need to know:**
 
@@ -345,17 +354,24 @@ Wolves have the same general layout as dogs, just scaled WAY up. Here's what you
 
 Here's the breakdown of PRIMAL sections and their retail value:
 
-| Primal Section | Usable Meat | Sold as Retail Cuts | Trim/Stew | Average Price | Retail Value |
-|----------------|-------------|---------------------|-----------|---------------|--------------|
-| Shoulder (both) | 110 lbs | 70 lbs roasts | 40 lbs stew | ~8 sp/lb | 62 gp |
-| Loin/Saddle | 85 lbs | 85 lbs steaks/chops | 0 lbs | ~1 gp/lb | 86.5 gp |
-| Hindquarters (both) | 100 lbs | 100 lbs roasts/steaks | 0 lbs | ~7.3 sp/lb | 73 gp |
-| Ribs/Belly | 25 lbs | 0 lbs | 25 lbs trim | ~5 sp/lb | 12 gp |
-| **TOTALS** | **320 lbs** | **255 lbs retail** | **65 lbs trim/stew** | **~10.6 sp/lb avg** | **233.5 gp** |
+| Primal Section | Usable Meat | Premium Retail | Budget Cuts | Trim | Average Price | Retail Value |
+|----------------|-------------|----------------|-------------|------|---------------|--------------|
+| Shoulder (both) | 110 lbs | 60 lbs roasts | 40 lbs stew | 10 lbs | ~8 sp/lb | 62 gp |
+| Loin/Saddle | 85 lbs | 85 lbs steaks/chops | 0 lbs | 0 lbs | ~1 gp/lb | 86.5 gp |
+| Hindquarters (both) | 100 lbs | 70 lbs leg roasts | 15 lbs thin steaks | 15 lbs | ~7.3 sp/lb | 73 gp |
+| Ribs/Belly | 25 lbs | 0 lbs | 0 lbs | 25 lbs | ~5 sp/lb | 12 gp |
+| **PRIMALS TOTAL** | **320 lbs** | **215 lbs** | **55 lbs** | **50 lbs** | **~10.6 sp/lb avg** | **233.5 gp** |
+| **Additional sources** | **9 lbs** | **5 lbs neck** | **0 lbs** | **4 lbs scraps** | | |
+| **GRAND TOTAL** | **329 lbs** | **220 lbs** | **55 lbs** | **54 lbs** | | **233.5 gp** |
 
-**Understanding the breakdown:** Each primal section yields some prime retail cuts (sold as roasts/steaks) and some tougher sections (goes to trim for sausage or stew meat). The 255 lbs of retail cuts from primals (steaks, roasts, and shoulder stew meat) generates 233.5 gp in revenue. The remaining 65 lbs of trim/stew gets processed into sausage (25 lbs from ribs) and sold as additional stew meat (40 lbs from shoulder).
+**Understanding the breakdown:** Each primal section yields premium retail cuts (the best steaks and roasts), budget cuts (stew meat, thin steaks), and trim (for sausage). The table above shows the distribution across these categories.
 
-**Note on accounting categories:** For yield percentage tracking, "retail cuts" specifically refers to premium steaks and roasts (220 lbs), which matches the General Butcher Guide standard of 35% retail yield (220 ÷ 636 carcass weight = 34.6%). The 40 lbs of shoulder stew meat, while sold directly, is categorized separately as "stew meat/scraps" along with other budget cuts.
+**Accounting note:** The complete carcass accounting (in the processing chapter) consolidates budget cuts and stew meat into two simplified categories:
+- **"Retail cuts" (220 lbs)**: Premium retail only (matches 35% General Butcher Guide standard)
+- **"Stew meat/scraps" (25 lbs)**: The best 25 lbs of budget cuts, sold as stew meat
+- **"Sausage trim" (84 lbs)**: The remaining 30 lbs of budget cuts + 54 lbs trim = 84 lbs total
+
+This categorization ensures yield percentages match the General Butcher Guide standards for Canine processing while accurately tracking all usable meat.
 
 ### What Wolf Meat Actually Tastes Like
 
@@ -547,7 +563,7 @@ Let's make sure we didn't lose anything:
 | Stew meat/scraps | 25 lbs | 3.9% |
 | Bones | 97 lbs | 15.3% |
 | Fat | 39 lbs | 6.1% |
-| Waste (connective tissue, unusable bits, processing loss) | 171 lbs | 26.9% |
+| Waste (viscera ~47 lbs, connective tissue, processing loss) | 171 lbs | 26.9% |
 | **TOTAL** | **636 lbs** | **100%** |
 
 That matches our starting carcass weight (736 lbs dressed minus 100 lbs of external materials = 636 lbs). Good.
@@ -555,6 +571,16 @@ That matches our starting carcass weight (736 lbs dressed minus 100 lbs of exter
 **Note on yield percentages:** These match the General Butcher Guide standards for Canine processing (35% retail, 13% trim, 15% bones, 6% fat). The remaining weight includes stew meat and waste.
 
 **Note on blood:** The 64 lbs of blood was already drained during field dressing and is not included in the 736 lbs dressed weight that arrives at the shop.
+
+**Note on viscera:** The 171 lbs waste category includes ~47 lbs of non-magical viscera (stomach, intestines, lungs, spleen - the organs you remove during gutting). Unlike Owlbears, Blink Wolves arrive at the shop still containing their viscera because field gutting risks damaging the valuable Blink Node and Frost Sac. You remove all viscera at the shop under controlled conditions after harvesting the magical organs.
+
+**Waste category breakdown (171 lbs total):**
+- Non-magical viscera (stomach, intestines, lungs, spleen): 47 lbs
+- Connective tissue and silverskin: 35 lbs
+- Processing loss (moisture evaporation, trimming waste): 32 lbs
+- Small bone fragments and damaged meat: 28 lbs
+- Blood remaining in tissue after field dressing: 15 lbs
+- Miscellaneous unusable material: 14 lbs
 
 **Note on the 220 lbs retail cuts:** This comes from the prime portions of each primal - the best roasts and steaks. The remaining usable meat from each primal (tougher sections, odd-shaped pieces, connective tissue-heavy areas) goes into the trim and stew meat categories.
 
@@ -1066,9 +1092,9 @@ If you get the chance to process one, DO IT. You'll make enough money to retire.
 **Dressed weight:** 4,784 lbs (after field dressing)
 **Usable carcass:** 4,134 lbs (after external materials)
 
-**Gross revenue:** 5,572 gp (net after 100 gp preservation costs)
-**Operating costs:** 603.9 gp (independent) / 1,001.1 gp (guild, includes 283.6 gp commission on 5,672 gp gross)
-**Net profit:** 4,968.1 gp (independent) / 4,570.9 gp (guild)
+**Gross revenue:** 5,571 gp (net after 100 gp preservation costs)
+**Operating costs:** 747.6 gp (independent) / 1,095.2 gp (guild, includes 283.6 gp commission on 5,671 gp gross)
+**Net profit:** 4,823.4 gp (independent) / 4,475.8 gp (guild)
 
 **Processing time:** 32 hours (4 days with a crew of 6-8)
 
@@ -1086,6 +1112,8 @@ Everything on an Alpha is roughly **6.5 times bigger** than a normal Blink Wolf:
 | Processing time | 10 hours | 32 hours | 3.2× |
 
 The processing time doesn't scale linearly because you need a bigger crew and better equipment, which speeds things up.
+
+**Note on dressed weight:** Like normal Blink Wolves, Alphas arrive at your shop with blood removed (416 lbs) but viscera intact (~305 lbs, scaled from 47 lbs × 6.5). The massive Blink Node and Frost Sac are so valuable and dangerous that ALL gutting must happen under controlled conditions at your shop. The ~305 lbs of viscera are removed during processing and counted in the waste category.
 
 ### External Materials (Alpha)
 
@@ -1181,44 +1209,51 @@ That's 3,300 gold from materials that aren't even the meat. More than HALF the t
 
 The meat scaling is straightforward: multiply everything by 6.5.
 
-**Total Usable Meat from Primals** (scaled from 320 lbs × 6.5 = 2,080 lbs):
+**Total Usable Meat from Primals** (scaled from normal wolf):
 
-| Primal Section | Total Usable Weight | Retail Cuts | Trim/Stew | Avg Price | Retail Value |
-|----------------|---------------------|-------------|-----------|-----------|--------------|
-| Shoulder (both) | 715 lbs | 455 lbs | 260 lbs | ~8 sp/lb | 403 gp |
-| Loin/Saddle | 553 lbs | 553 lbs | 0 lbs | ~1 gp/lb | 562 gp |
-| Hindquarters (both) | 650 lbs | 422 lbs | 228 lbs | ~7.5 sp/lb | 474 gp |
-| Ribs/Belly | 163 lbs | 0 lbs | 163 lbs | ~5 sp/lb | 78 gp |
-| **TOTALS** | **2,081 lbs usable** | **1,430 lbs retail** | **651 lbs trim/stew** | **~7.4 sp avg** | **1,517 gp** |
+| Primal Section | Usable Meat | Premium Retail | Budget Cuts | Trim | Avg Price | Retail Value |
+|----------------|-------------|----------------|-------------|------|-----------|--------------|
+| Shoulder (both) | 715 lbs | 390 lbs roasts | 260 lbs stew | 65 lbs | ~8 sp/lb | 403 gp |
+| Loin/Saddle | 553 lbs | 553 lbs steaks/chops | 0 lbs | 0 lbs | ~1 gp/lb | 562 gp |
+| Hindquarters (both) | 650 lbs | 455 lbs leg roasts | 98 lbs thin steaks | 97 lbs | ~7.3 sp/lb | 474 gp |
+| Ribs/Belly | 163 lbs | 0 lbs | 0 lbs | 163 lbs | ~5 sp/lb | 78 gp |
+| **PRIMALS TOTAL** | **2,081 lbs** | **1,398 lbs** | **358 lbs** | **325 lbs** | **~7.3 sp avg** | **1,517 gp** |
+| **Additional sources** | **58 lbs** | **32 lbs neck** | **0 lbs** | **26 lbs scraps** | | |
+| **GRAND TOTAL** | **2,139 lbs** | **1,430 lbs** | **358 lbs** | **351 lbs** | | **1,517 gp** |
 
-**Note on retail vs. usable meat:**
-- Normal Blink Wolf: 320 lbs usable → 220 lbs retail cuts + 100 lbs trim
-- Alpha Blink Wolf: 2,081 lbs usable → 1,430 lbs retail cuts + 651 lbs trim
-- Scaling factor: 6.5× (consistent)
+**Understanding the breakdown:** Each primal section yields premium retail cuts (the best steaks and roasts), budget cuts (stew meat, thin steaks), and trim (for sausage). The table above shows the distribution across these categories.
 
-The 1,430 lbs of retail cuts are the premium steaks and roasts sold to customers. The remaining 651 lbs gets processed into sausage (618 lbs trim) and stew meat (33 lbs scraps).
+**Accounting note:** The complete carcass accounting consolidates budget cuts and stew meat into two simplified categories:
+- **"Retail cuts" (1,430 lbs)**: Premium retail only (matches 35% General Butcher Guide standard: 1,430 ÷ 4,134 = 34.6%)
+- **"Stew meat/scraps" (162 lbs)**: The best 162 lbs of budget cuts, sold as stew meat (scaled from 25 lbs × 6.5)
+- **"Sausage trim" (546 lbs)**: The remaining 196 lbs of budget cuts + 351 lbs trim = 547 lbs total
+
+**Scaling verification:**
+- Normal Blink Wolf: 329 lbs total → 220 retail + 25 stew + 84 trim
+- Alpha Blink Wolf: 2,139 lbs total → 1,430 retail + 162 stew + 546 trim
+- Scaling factor: 6.5× (consistent across all categories)
 
 ### Byproducts (Alpha)
 
 #### Sausage
 
-**Trim weight:** 618 lbs (60% of mixture for gamey wolf meat)
-**Add pork fat (40% for gamey meat ratio):** 412 lbs
-**Total sausage mixture:** 1,030 lbs
-**Processing loss (2%):** 21 lbs
-**Final yield:** 1,009 lbs
+**Trim weight:** 546 lbs (scaled from 84 lbs × 6.5, used as 60% of mixture for gamey wolf meat)
+**Add pork fat (40% for gamey meat ratio):** 364 lbs
+**Total sausage mixture:** 910 lbs
+**Processing loss (2%):** 18 lbs
+**Final yield:** 892 lbs
 
 **Costs:**
-- Pork fat: 82.4 gp (412 lbs × 2 sp/lb)
-- Spices: 16.9 gp (scaled for 1,030 lb mixture)
-- Casings: 22.1 gp (scaled for 1,009 lbs finished)
-- Labor: 60 gp
+- Pork fat: 72.8 gp (364 lbs × 2 sp/lb)
+- Spices: 14.9 gp (scaled for 910 lb mixture)
+- Casings: 19.6 gp (scaled for 892 lbs finished)
+- Labor: 53 gp (reduced proportionally)
 
-**Gross revenue:** 1,009 lbs × 6 sp = 605.4 gp
+**Gross revenue:** 892 lbs × 6 sp = 535.2 gp
 
-**Total costs:** 181.4 gp
+**Total costs:** 160.3 gp
 
-**Net profit:** 605.4 - 181.4 = **424 gp**
+**Net profit:** 535.2 - 160.3 = **374.9 gp**
 
 #### Bone Stock
 
@@ -1255,10 +1290,10 @@ Additionally, larger stock pots have better heat retention and less surface evap
 
 | Product | Gross Revenue | Net Profit |
 |---------|---------------|------------|
-| Sausage (1,009 lbs) | 605.4 gp | 424 gp |
+| Sausage (892 lbs) | 535.2 gp | 374.9 gp |
 | Bone Stock (780 pints) | 273 gp | 233 gp |
 | Rendered Tallow (229 lbs) | 45.8 gp | 37.1 gp |
-| **TOTAL BYPRODUCTS** | **924.2 gp** | **694.1 gp** |
+| **TOTAL BYPRODUCTS** | **854 gp** | **645 gp** |
 
 ---
 
@@ -1271,13 +1306,13 @@ Additionally, larger stock pots have better heat retention and less surface evap
 | Organs (Node + Sac) | 1,600 gp |
 | Trophies | 200 gp |
 | **Retail Cuts** | 1,517 gp |
-| **Byproducts (Gross)** | 924.2 gp |
-| Sausage | 605.4 gp |
+| **Byproducts (Gross)** | 854 gp |
+| Sausage | 535.2 gp |
 | Stock | 273 gp |
 | Tallow | 45.8 gp |
-| **GROSS TOTAL REVENUE** | **5,741.2 gp** |
+| **GROSS TOTAL REVENUE** | **5,671 gp** |
 
-*(Subtract 100 gp for preservation supplies = **5,641.2 gp net revenue**)*
+*(Subtract 100 gp for preservation supplies = **5,571 gp net revenue**)*
 
 ---
 
@@ -1314,16 +1349,16 @@ Additionally, larger stock pots have better heat retention and less surface evap
   - Organ preservation: 45 lbs organs × 100% packing = 45 lbs salt × 4 cp/lb = 1.8 gp
   - Pelt curing: 550 lbs pelt × 10% = 55 lbs salt × 3 cp/lb = 1.65 gp
   - Total: 100 lbs salt at 3.45 gp (rounded to 3.5 gp)
-- Pork fat (sausage): 82.4 gp (412 lbs × 2 sp/lb for 60/40 gamey meat ratio)
-- Spices (sausage): 16.9 gp (scaled for 1,030 lb mixture)
-- Casings (sausage): 22.1 gp (scaled for 1,009 lbs finished)
+- Pork fat (sausage): 72.8 gp (364 lbs × 2 sp/lb for 60/40 gamey meat ratio)
+- Spices (sausage): 14.9 gp (scaled for 910 lb mixture)
+- Casings (sausage): 19.6 gp (scaled for 892 lbs finished)
 - Aromatics (stock): 3 gp
 - Specialized containers for organs: 80 gp (watermelon-sized organs require custom-built reinforced containers)
 - Ice (multi-day preservation): 81.5 gp (massive amounts needed to keep organs fresh for 3-4 days until sold)
 - Firewood (multiple days): 30 gp
 - Misc supplies: 20 gp
 
-**Total materials:** 339.4 gold
+**Total materials:** 325.3 gold
 
 ### Facility and Equipment
 
@@ -1339,22 +1374,22 @@ Additionally, larger stock pots have better heat retention and less surface evap
 | Category | Independent | Guild |
 |----------|-------------|-------|
 | Labor | 352.3 gp | 416.3 gp |
-| Materials | 339.4 gp | 339.4 gp |
+| Materials | 325.3 gp | 325.3 gp |
 | Overhead | 70 gp | 70 gp |
-| Guild Commission (5% of 5,741.2 gp gross) | — | 287.1 gp |
-| **TOTAL COSTS** | **761.7 gp** | **1,112.8 gp** |
+| Guild Commission (5% of 5,671 gp gross) | — | 283.6 gp |
+| **TOTAL COSTS** | **747.6 gp** | **1,095.2 gp** |
 
 ## Alpha Net Profit
 
 **Independent butcher:**
-- Gross revenue: 5,641.2 gp (net after preservation)
-- Operating costs: 761.7 gp
-- **Net profit: 4,879.5 gold**
+- Gross revenue: 5,571 gp (net after preservation)
+- Operating costs: 747.6 gp
+- **Net profit: 4,823.4 gold**
 
 **Guild butcher:**
-- Gross revenue: 5,641.2 gp (net after preservation)
-- Operating costs: 1,112.8 gp (includes 287.1 gp commission on 5,741.2 gp gross)
-- **Net profit: 4,528.4 gold**
+- Gross revenue: 5,571 gp (net after preservation)
+- Operating costs: 1,095.2 gp (includes 283.6 gp commission on 5,671 gp gross)
+- **Net profit: 4,475.8 gold**
 
 ## Alpha Time Investment
 
@@ -1366,8 +1401,8 @@ Additionally, larger stock pots have better heat retention and less surface evap
 
 **Total active work:** 32 hours (4 days with breaks)
 
-**Hourly rate (independent):** 4,879.5 gold ÷ 32 hours = **152.5 gold per hour**
-**Hourly rate (guild):** 4,528.4 gold ÷ 32 hours = **141.5 gold per hour**
+**Hourly rate (independent):** 4,823.4 gold ÷ 32 hours = **150.7 gold per hour**
+**Hourly rate (guild):** 4,475.8 gold ÷ 32 hours = **139.9 gold per hour**
 
 That's INSANE money for a butcher. This is "retire early" money. This is "buy a shop" money.
 
@@ -1438,21 +1473,21 @@ Fair price range: **1,200-1,500 gold** for a well-preserved carcass.
 ## Alpha Economics Summary
 
 **Best case scenario (independent butcher):**
-- Gross revenue: 5,641.2 gp (net after preservation)
-- Operating costs: 761.7 gp
-- Net profit: 4,879.5 gp
+- Gross revenue: 5,571 gp (net after preservation)
+- Operating costs: 747.6 gp
+- Net profit: 4,823.4 gp
 - Time: 32 hours
-- Hourly rate: 152.5 gp/hour
+- Hourly rate: 150.7 gp/hour
 
 **Realistic scenario (guild member, winter pelt bonus):**
-- Gross revenue: 6,141.2 gp (pelt sells for 2,000 gp in winter, net after preservation)
-- Operating costs: 1,137.8 gp (includes 312.1 gp commission on 6,241.2 gp gross)
-- Net profit: 5,003.4 gp
+- Gross revenue: 6,071 gp (pelt sells for 2,000 gp in winter, net after preservation)
+- Operating costs: 1,120.2 gp (includes 308.6 gp commission on 6,171 gp gross)
+- Net profit: 4,950.8 gp
 
 **Worst case scenario (independent, one organ ruined):**
-- Gross revenue: 4,841.2 gp (lost 800 gp on Blink Node rupture, net after preservation)
-- Operating costs: 761.7 gp
-- Net profit: 4,079.5 gp
+- Gross revenue: 4,771 gp (lost 800 gp on Blink Node rupture, net after preservation)
+- Operating costs: 747.6 gp
+- Net profit: 4,023.4 gp
 - Still huge, but painful
 
 **The bottom line:** An Alpha Blink Wolf is a career-defining job. You'll make enough money to set yourself up for years. Just don't screw up the organs.
