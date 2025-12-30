@@ -1261,13 +1261,11 @@ Product Category	Gold Pieces
 Hide, feathers, trophies, organs	200 gp
 All retail cuts (traditional - no tenderloin)	483 gp
 Tenderloin (if you sell it, which you shouldn't)	+48 gp
-Sausage (bulk, 100 lbs @ 1 gp/lb)	100 gp
-  Less: Pork fat cost (30 lbs @ 2 sp/lb)	-6 gp
-Sausage net revenue	94 gp
+Sausage (bulk, 98 lbs @ 1 gp/lb, using owlbear tallow)	98 gp
 Bone stock (8 quarts @ 5 gp each)	40 gp
-Rendered tallow (bulk, 89 lbs @ 2 sp/lb)	18 gp
-TOTAL (traditional, keep tenderloin)	835 gp
-TOTAL (full sale, sell tenderloin)	883 gp
+Rendered tallow (59 lbs sold @ 2 sp/lb)	11.8 gp
+TOTAL (traditional, keep tenderloin)	832.8 gp
+TOTAL (full sale, sell tenderloin)	880.8 gp
 
 Export to Sheets
 
