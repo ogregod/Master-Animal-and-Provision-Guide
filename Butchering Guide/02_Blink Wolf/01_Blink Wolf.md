@@ -39,7 +39,7 @@ So when you see "736 lbs dressed weight," that's what actually arrives at your s
 
 - **External materials** (pelt, organs, trophies): 100 lbs → 420 gold
 - **Retail cuts** (steaks, roasts, chops): 220 lbs → 233.5 gold
-- **Sausage from trim**: 138 lbs (84 lbs trim + 56 lbs pork fat, 60/40 ratio for gamey meat) → 82.8 gold gross / 63 gold net
+- **Sausage from trim**: 138 lbs (84 lbs trim + 56 lbs pork fat, 60/40 ratio for gamey meat) → 82.8 gold gross / 61.8 gold net
 - **Bone stock**: 97 lbs bones → 36.4 gold
 - **Rendered tallow**: 35 lbs (from 39 lbs raw) → 7 gold
 - **Total value**: 814.7 gold (detailed calculations)
@@ -624,16 +624,20 @@ Mix in the pork fat during the second pass so it distributes evenly.
 Wolf meat is GAMEY. You need strong flavors to mask that metallic, wild taste.
 
 **Mira's Wolf Sausage Spice Blend** (per 100 lbs of meat):
-- Sage: 4 oz (6 sp)
-- Juniper berries: 3 oz (5 sp)
+- Dried sage (ground): 4 oz (1 gp)
+- Juniper berries: 3 oz (1 gp, 6 sp)
 - Black pepper: 2 oz (5 cp)
-- Garlic (dried/powdered): 4 oz (8 cp)
-- Salt: 3 lbs (3 cp)
-- Fennel seed: 2 oz (4 sp)
+- Garlic (dried/powdered): 4 oz (1 sp, 6 cp)
+- Rock salt: 3 lbs (3 cp)
+- Fennel seed: 2 oz (8 sp)
 
-**Total spice cost:** 1 gold, 6 silver, 6 copper (for 100 lbs)
+**Total spice cost (retail):** 3 gold, 6 silver, 4 copper (for 100 lbs)
+**Guild bulk rate (30% discount):** 2 gold, 5 silver, 5 copper (for 100 lbs)
 
-For 140 lbs of sausage, scale up: **2.3 gold in spices** (2 gp, 3 sp, 2 cp)
+For 138 lbs of sausage (retail prices): **5 gp**
+For 138 lbs of sausage (guild bulk): **3.5 gp**
+
+*Note: Prices based on Master Provisional Guide (99_Tables). Guild members save ~30% through bulk purchasing agreements.*
 
 Mix the spices thoroughly into the ground meat. Let it rest for 30 minutes so the flavors marry.
 
@@ -664,14 +668,16 @@ Most customers want fresh, so we'll assume **6 sp/lb**.
 **Gross revenue:** 138 lbs × 6 sp = **82.8 gold**
 
 **Costs:**
-- Pork fat: 11.2 gp
-- Spices: 2.3 gp
+- Pork fat: 11.2 gp (56 lbs × 2 sp/lb)
+- Spices: 3.5 gp (guild bulk rate)
 - Casings: 2.3 gp
 - Labor (2 people, 4 hours each): 4 gp
 
-**Total cost:** 19.8 gold
+**Total cost:** 21 gold
 
-**Net profit from sausage:** 82.8 - 19.8 = **63 gold**
+**Net profit from sausage:** 82.8 - 21 = **61.8 gold**
+
+*Note: Independent butchers using retail spice prices would add 1.5 gp more in costs (5 gp spices instead of 3.5 gp), reducing profit to 60.3 gp.*
 
 Not bad for meat that was headed for the scrap bin.
 
@@ -839,17 +845,19 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 - **Salt** (pelt, organs, sausage): 0.63 gp
   - Pelt preservation: 85 lbs × 10% = 8.5 lbs × 3 cp/lb = 25.5 cp
   - Organ preservation: 7 lbs organs × 100% = 7 lbs × 4 cp/lb = 28 cp
-  - Sausage seasoning: 3 lbs × 3 cp/lb = 9 cp
-  - Total: 62.5 cp ≈ 0.63 gp
+  - Sausage seasoning: 3 lbs × 1 cp/lb (rock salt) = 3 cp
+  - Total: 56.5 cp ≈ 0.57 gp
 - **Pork fat** (for sausage, 56 lbs): 11.2 gp
-- **Spices** (sausage blend): 2.3 gp
+- **Spices** (sausage blend, guild bulk rate): 3.5 gp
 - **Casings** (sausage): 2.3 gp
 - **Aromatics** (stock): 5 sp
 - **Firewood** (sausage, stock, tallow): 4.3 gp
 - **Containers** (stock jars, tallow containers): 5.6 gp
 - **Miscellaneous** (twine, wrapping, cleaning supplies): 3 gp
 
-**Total materials:** 34.83 gold
+**Total materials:** 36.07 gold
+
+*Note: Independent butchers using retail spice prices would pay 5 gp for spices (1.5 gp more), increasing materials to 37.57 gp.*
 
 #### Overhead
 
@@ -864,27 +872,29 @@ Let's put it all together. You've got an 800-pound Blink Wolf, and you're runnin
 | Category | Independent | Guild |
 |----------|-------------|-------|
 | Labor | 54 gp | 69 gp |
-| Materials | 34.83 gp | 34.83 gp |
+| Materials | 37.57 gp | 36.07 gp |
 | Overhead | 13 gp | 13 gp |
 | Guild Commission (5% of gross) | — | 40.74 gp |
-| **TOTAL COSTS** | **101.83 gp** | **157.57 gp** |
+| **TOTAL COSTS** | **104.57 gp** | **158.81 gp** |
+
+*Note: Independent butchers pay 37.57 gp for materials (retail spice prices), while guild members pay 36.07 gp (bulk spice discount).*
 
 ### Net Profit Calculation
 
 **Independent butcher:**
 - Gross revenue: 814.7 gp
-- Operating costs: 101.83 gp
-- **Net profit: 712.87 gold**
+- Operating costs: 104.57 gp
+- **Net profit: 710.13 gold**
 
 **Guild butcher:**
 - Gross revenue: 814.7 gp
-- Operating costs: 157.57 gp (includes 40.74 gp guild commission)
-- **Net profit: 657.13 gold**
+- Operating costs: 158.81 gp (includes 40.74 gp guild commission)
+- **Net profit: 655.89 gold**
 
 ### Profit Margins
 
-**Independent:** 712.87 ÷ 814.7 = **87.5% profit margin**
-**Guild:** 657.13 ÷ 814.7 = **80.7% profit margin**
+**Independent:** 710.13 ÷ 814.7 = **87.2% profit margin**
+**Guild:** 655.89 ÷ 814.7 = **80.5% profit margin**
 
 Those are EXCELLENT margins. The reason? Most of your revenue comes from high-value, low-cost items:
 - The pelt costs almost nothing to harvest
@@ -1093,8 +1103,8 @@ If you get the chance to process one, DO IT. You'll make enough money to retire.
 **Usable carcass:** 4,134 lbs (after external materials)
 
 **Gross revenue:** 5,571 gp (net after 100 gp preservation costs)
-**Operating costs:** 747.6 gp (independent) / 1,095.2 gp (guild, includes 283.6 gp commission on 5,671 gp gross)
-**Net profit:** 4,823.4 gp (independent) / 4,475.8 gp (guild)
+**Operating costs:** 765.8 gp (independent) / 1,103.5 gp (guild, includes 283.6 gp commission on 5,671 gp gross)
+**Net profit:** 4,805.2 gp (independent) / 4,467.5 gp (guild)
 
 **Processing time:** 32 hours (4 days with a crew of 6-8)
 
@@ -1245,15 +1255,17 @@ The meat scaling is straightforward: multiply everything by 6.5.
 
 **Costs:**
 - Pork fat: 72.8 gp (364 lbs × 2 sp/lb)
-- Spices: 14.9 gp (scaled for 910 lb mixture)
+- Spices: 23.2 gp (guild bulk rate for 910 lb mixture)
 - Casings: 19.6 gp (scaled for 892 lbs finished)
 - Labor: 53 gp (reduced proportionally)
 
 **Gross revenue:** 892 lbs × 6 sp = 535.2 gp
 
-**Total costs:** 160.3 gp
+**Total costs:** 168.6 gp
 
-**Net profit:** 535.2 - 160.3 = **374.9 gp**
+**Net profit:** 535.2 - 168.6 = **366.6 gp**
+
+*Note: Independent butchers using retail spice prices would pay 33.1 gp for spices (9.9 gp more), reducing net profit to 356.7 gp.*
 
 #### Bone Stock
 
@@ -1290,10 +1302,10 @@ Additionally, larger stock pots have better heat retention and less surface evap
 
 | Product | Gross Revenue | Net Profit |
 |---------|---------------|------------|
-| Sausage (892 lbs) | 535.2 gp | 374.9 gp |
+| Sausage (892 lbs) | 535.2 gp | 366.6 gp |
 | Bone Stock (780 pints) | 273 gp | 233 gp |
 | Rendered Tallow (229 lbs) | 45.8 gp | 37.1 gp |
-| **TOTAL BYPRODUCTS** | **854 gp** | **645 gp** |
+| **TOTAL BYPRODUCTS** | **854 gp** | **636.7 gp** |
 
 ---
 
@@ -1350,7 +1362,7 @@ Additionally, larger stock pots have better heat retention and less surface evap
   - Pelt curing: 550 lbs pelt × 10% = 55 lbs salt × 3 cp/lb = 1.65 gp
   - Total: 100 lbs salt at 3.45 gp (rounded to 3.5 gp)
 - Pork fat (sausage): 72.8 gp (364 lbs × 2 sp/lb for 60/40 gamey meat ratio)
-- Spices (sausage): 14.9 gp (scaled for 910 lb mixture)
+- Spices (sausage, guild bulk rate): 23.2 gp (for 910 lb mixture)
 - Casings (sausage): 19.6 gp (scaled for 892 lbs finished)
 - Aromatics (stock): 3 gp
 - Specialized containers for organs: 80 gp (watermelon-sized organs require custom-built reinforced containers)
@@ -1358,7 +1370,10 @@ Additionally, larger stock pots have better heat retention and less surface evap
 - Firewood (multiple days): 30 gp
 - Misc supplies: 20 gp
 
-**Total materials:** 325.3 gold
+**Total materials (guild bulk):** 333.6 gold
+**Total materials (retail prices):** 343.5 gold
+
+*Note: Independent butchers using retail spice prices would pay 33.1 gp for spices (9.9 gp more).*
 
 ### Facility and Equipment
 
@@ -1374,22 +1389,24 @@ Additionally, larger stock pots have better heat retention and less surface evap
 | Category | Independent | Guild |
 |----------|-------------|-------|
 | Labor | 352.3 gp | 416.3 gp |
-| Materials | 325.3 gp | 325.3 gp |
+| Materials | 343.5 gp | 333.6 gp |
 | Overhead | 70 gp | 70 gp |
 | Guild Commission (5% of 5,671 gp gross) | — | 283.6 gp |
-| **TOTAL COSTS** | **747.6 gp** | **1,095.2 gp** |
+| **TOTAL COSTS** | **765.8 gp** | **1,103.5 gp** |
+
+*Note: Independent butchers pay retail spice prices (343.5 gp materials), while guild members get bulk discount (333.6 gp materials).*
 
 ## Alpha Net Profit
 
 **Independent butcher:**
 - Gross revenue: 5,571 gp (net after preservation)
-- Operating costs: 747.6 gp
-- **Net profit: 4,823.4 gold**
+- Operating costs: 765.8 gp
+- **Net profit: 4,805.2 gold**
 
 **Guild butcher:**
 - Gross revenue: 5,571 gp (net after preservation)
-- Operating costs: 1,095.2 gp (includes 283.6 gp commission on 5,671 gp gross)
-- **Net profit: 4,475.8 gold**
+- Operating costs: 1,103.5 gp (includes 283.6 gp commission on 5,671 gp gross)
+- **Net profit: 4,467.5 gold**
 
 ## Alpha Time Investment
 
@@ -1401,8 +1418,8 @@ Additionally, larger stock pots have better heat retention and less surface evap
 
 **Total active work:** 32 hours (4 days with breaks)
 
-**Hourly rate (independent):** 4,823.4 gold ÷ 32 hours = **150.7 gold per hour**
-**Hourly rate (guild):** 4,475.8 gold ÷ 32 hours = **139.9 gold per hour**
+**Hourly rate (independent):** 4,805.2 gold ÷ 32 hours = **150.2 gold per hour**
+**Hourly rate (guild):** 4,467.5 gold ÷ 32 hours = **139.6 gold per hour**
 
 That's INSANE money for a butcher. This is "retire early" money. This is "buy a shop" money.
 
@@ -1474,20 +1491,20 @@ Fair price range: **1,200-1,500 gold** for a well-preserved carcass.
 
 **Best case scenario (independent butcher):**
 - Gross revenue: 5,571 gp (net after preservation)
-- Operating costs: 747.6 gp
-- Net profit: 4,823.4 gp
+- Operating costs: 765.8 gp
+- Net profit: 4,805.2 gp
 - Time: 32 hours
-- Hourly rate: 150.7 gp/hour
+- Hourly rate: 150.2 gp/hour
 
 **Realistic scenario (guild member, winter pelt bonus):**
 - Gross revenue: 6,071 gp (pelt sells for 2,000 gp in winter, net after preservation)
-- Operating costs: 1,120.2 gp (includes 308.6 gp commission on 6,171 gp gross)
-- Net profit: 4,950.8 gp
+- Operating costs: 1,128.5 gp (includes 308.6 gp commission on 6,171 gp gross)
+- Net profit: 4,942.5 gp
 
 **Worst case scenario (independent, one organ ruined):**
 - Gross revenue: 4,771 gp (lost 800 gp on Blink Node rupture, net after preservation)
-- Operating costs: 747.6 gp
-- Net profit: 4,023.4 gp
+- Operating costs: 765.8 gp
+- Net profit: 4,005.2 gp
 - Still huge, but painful
 
 **The bottom line:** An Alpha Blink Wolf is a career-defining job. You'll make enough money to set yourself up for years. Just don't screw up the organs.

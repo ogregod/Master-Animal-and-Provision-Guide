@@ -131,20 +131,24 @@
 ### Guild Butcher (Recommended)
 | Service | Cost |
 |---------|------|
-| Base processing (labor, materials, facility) | 35 gp |
+| Labor (Master + Apprentices, 14 hrs) | 69 gp |
+| Materials (salt, spices, casings, etc.) | 36 gp |
+| Facility & overhead | 13 gp |
 | Guild commission (5% of total value) | ~40.7 gp |
 | Rush processing (1 day instead of 2-3) | +20 gp |
 | Storage (after 1st week) | 5 gp/week |
-| **TYPICAL TOTAL FEES** | **~75.7 gp** |
+| **TYPICAL TOTAL FEES** | **~159 gp** |
 
 ### Independent Butcher
 | Service | Cost |
 |---------|------|
-| Base processing | 25-30 gp |
+| Labor (Independent rates, 14 hrs) | 54 gp |
+| Materials (salt, spices, casings, etc.) | 37.5 gp |
+| Facility & overhead | 13 gp |
 | No commission | - |
 | Rush processing | +15 gp |
 | Storage | 5 gp/week |
-| **TYPICAL TOTAL FEES** | **~30 gp** |
+| **TYPICAL TOTAL FEES** | **~105 gp** |
 
 ---
 
@@ -193,10 +197,10 @@
 | Bone Stock | 36.4 gp |
 | Tallow | 7 gp |
 | **GROSS TOTAL** | **814.2 gp** |
-| Less: Guild processing fees | (75.7 gp) |
-| **NET TO CUSTOMER (GUILD)** | **~738 gp** |
-| Less: Independent processing fees | (30 gp) |
-| **NET TO CUSTOMER (INDEPENDENT)** | **~784 gp** |
+| Less: Guild processing fees | (159 gp) |
+| **NET TO CUSTOMER (GUILD)** | **~655 gp** |
+| Less: Independent processing fees | (105 gp) |
+| **NET TO CUSTOMER (INDEPENDENT)** | **~709 gp** |
 
 ---
 
