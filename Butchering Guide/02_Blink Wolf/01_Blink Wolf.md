@@ -301,8 +301,8 @@ Wolves have the same general layout as dogs, just scaled WAY up. Here's what you
 |-----|--------|----------|-------------|
 | Backstrap Steaks | 20 lbs | 1.2 gp | 24 gp |
 | Loin Chops | 40 lbs | 1 gp | 40 gp |
-| Saddle Roasts | 25 lbs | 9 sp | 22.5 gp |
-| **TOTAL** | **85 lbs** | **~1 gp avg** | **86.5 gp** |
+| Saddle Roasts | 25 lbs | 9 sp | 22 gp |
+| **TOTAL** | **85 lbs** | **~1 gp avg** | **86 gp** |
 
 #### 3. The Hindquarters (Rear Legs)
 
@@ -357,12 +357,12 @@ Here's the breakdown of PRIMAL sections and their retail value:
 | Primal Section | Usable Meat | Premium Retail | Budget Cuts | Trim | Average Price | Retail Value |
 |----------------|-------------|----------------|-------------|------|---------------|--------------|
 | Shoulder (both) | 110 lbs | 60 lbs roasts | 40 lbs stew | 10 lbs | ~8 sp/lb | 62 gp |
-| Loin/Saddle | 85 lbs | 85 lbs steaks/chops | 0 lbs | 0 lbs | ~1 gp/lb | 86.5 gp |
+| Loin/Saddle | 85 lbs | 85 lbs steaks/chops | 0 lbs | 0 lbs | ~1 gp/lb | 86 gp |
 | Hindquarters (both) | 100 lbs | 70 lbs leg roasts | 15 lbs thin steaks | 15 lbs | ~7.3 sp/lb | 73 gp |
 | Ribs/Belly | 25 lbs | 0 lbs | 0 lbs | 25 lbs | ~5 sp/lb | 12 gp |
-| **PRIMALS TOTAL** | **320 lbs** | **215 lbs** | **55 lbs** | **50 lbs** | **~10.6 sp/lb avg** | **233.5 gp** |
+| **PRIMALS TOTAL** | **320 lbs** | **215 lbs** | **55 lbs** | **50 lbs** | **~7.3 sp/lb avg** | **233 gp** |
 | **Additional sources** | **9 lbs** | **5 lbs neck** | **0 lbs** | **4 lbs scraps** | | |
-| **GRAND TOTAL** | **329 lbs** | **220 lbs** | **55 lbs** | **54 lbs** | | **233.5 gp** |
+| **GRAND TOTAL** | **329 lbs** | **220 lbs** | **55 lbs** | **54 lbs** | | **233 gp** |
 
 **Understanding the breakdown:** Each primal section yields premium retail cuts (the best steaks and roasts), budget cuts (stew meat, thin steaks), and trim (for sausage). The table above shows the distribution across these categories.
 
@@ -926,12 +926,12 @@ Let's look at where the money comes from:
 
 | Category | Revenue | % of Total |
 |----------|---------|------------|
-| External materials | 455 gp | 56.6% |
-| Retail cuts | 233.5 gp | 29.0% |
-| Byproducts | 115.4 gp | 14.4% |
-| **TOTAL** | **804.4 gp** | **100%** |
+| External materials | 455 gp | 55.9% |
+| Retail cuts | 233 gp | 28.6% |
+| Byproducts | 126.2 gp | 15.5% |
+| **TOTAL** | **814.2 gp** | **100%** |
 
-**The takeaway:** More than HALF your revenue comes from things that aren't the meat. The pelt, organs, and trophies are worth 455 gold. The meat? 233 gold. The scraps? 115 gold.
+**The takeaway:** More than HALF your revenue comes from things that aren't the meat. The pelt, organs, and trophies are worth 455 gold. The meat? 233 gold. The scraps? 126 gold.
 
 THIS is why you harvest the organs first. THIS is why you don't damage the pelt.
 
@@ -1555,7 +1555,7 @@ Mathematical & Logical Consistency Update
 
 - **Alpha Labor Calculations**: Corrected Alpha wolf labor to match stated 32-hour processing time (was incorrectly calculated for 16 hours). Updated labor costs: Independent 352.3 gp, Guild 416.3 gp. Recalculated total operating costs and net profits accordingly.
 
-- **Retail Price Average**: Fixed retail cut average price from 7.4 sp/lb to 10.6 sp/lb (correct calculation: 233.5 gp ÷ 220 lbs = 10.6 sp/lb).
+- **Retail Price Average**: Fixed retail cut average price from 7.4 sp/lb to 10.6 sp/lb (correct calculation: 233 gp ÷ 220 lbs = 10.6 sp/lb). Primals average: 7.3 sp/lb (233 gp ÷ 320 lbs).
 
 - **Alpha Bone Weight**: Corrected Alpha bone weight from 715 lbs (incorrectly using shoulder weight) to 630.5 lbs (proper 6.5× scaling from 97 lbs normal wolf bones).
 
@@ -1563,9 +1563,9 @@ Mathematical & Logical Consistency Update
 
 - **Alpha Salt Costs**: Corrected salt requirements from unrealistic 65 gp (1,625 lbs) to realistic 3.5 gp (100 lbs total: 45 lbs for organ preservation at 4 cp/lb, 55 lbs for pelt curing at 3 cp/lb). Reallocated budget difference to specialized containers (80 gp) and ice (81.5 gp) to maintain total materials cost accuracy.
 
-- **Net Profit Recalculations**: Updated all profit calculations with corrected labor and material costs. Normal wolf: Independent 688.9 gp, Guild 633.14 gp. Alpha wolf: Independent 4,841.7 gp, Guild 4,493.1 gp.
+- **Net Profit Recalculations**: Updated all profit calculations with corrected labor and material costs. Normal wolf: Independent 709.63 gp, Guild 655.39 gp. Alpha wolf: Independent 4,905 gp, Guild 4,567 gp.
 
-- **Hourly Rate Updates**: Recalculated hourly profit rates based on correct processing times and costs. Alpha independent: 151.3 gp/hour (32 hours).
+- **Hourly Rate Updates**: Recalculated hourly profit rates based on correct processing times and costs. Alpha independent: 153.3 gp/hour (32 hours).
 
 - **Standards Compliance**: Verified all yield percentages match General Butcher Guide standards for Canine processing (35% retail, 13% trim, 4% stew, 15% bones, 6% fat).
 
