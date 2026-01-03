@@ -3,7 +3,9 @@
     "allow": [
       "Bash(ls:*)",
       "Bash(git mv:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(done)",
+      "Bash(wc:*)"
     ]
   }
 }
