@@ -5,7 +5,8 @@
       "Bash(git mv:*)",
       "Bash(cat:*)",
       "Bash(done)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "Bash(dir:*)"
     ]
   }
 }

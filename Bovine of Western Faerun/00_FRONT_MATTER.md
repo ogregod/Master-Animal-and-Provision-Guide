@@ -14,7 +14,7 @@ Master Provisioner, Waterdeep Guild Certified
 ---
 
 **PUBLISHED: 1492 DR, Waterdeep**
-Sixth Edition, Revised and Expanded
+**EDITION:** Sixth Edition
 
 ---
 

@@ -3,7 +3,7 @@
 
 ---
 
-### FIRST EDITION - COMPLETE FOUNDATION
+### First Edition
 **Year 1492 DR (Dale Reckoning)**
 
 **Written by Thadius Del Irontet**

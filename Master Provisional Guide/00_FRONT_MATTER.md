@@ -3,7 +3,7 @@
 
 ---
 
-### SIXTH EDITION - FULLY INTEGRATED
+### Sixth Edition
 **Year 1492 DR (Dale Reckoning)**
 
 **Written by Helena Fairstock**

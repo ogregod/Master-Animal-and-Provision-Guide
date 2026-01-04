@@ -8,6 +8,9 @@ Master Butcher, International Guild Certified
 **IN COLLABORATION WITH HELENA FAIRSTOCK**
 Master Provisioner, Waterdeep Guild Certified
 
+**PUBLISHED: 1492 DR, Waterdeep**
+**EDITION:** Fourth Edition
+
 ---
 
 ## ABOUT THIS GUIDE
