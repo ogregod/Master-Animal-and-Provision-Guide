@@ -45,6 +45,53 @@
 
 ---
 
+## DAIRY VS. BEEF ECONOMICS
+
+### **Productive Dairy Cow (Lifetime Value):**
+
+```
+Purchase: 700-1,000 sp (premium for cold-hardy genetics)
++ Dairy revenue: 45-60 sp/year × 9 years (long-lived, hardy) = 405-540 sp
+  (Lower volume but MUCH higher butterfat = premium cream/butter/cheese value)
++ Cull beef value: 550-600 sp (BEST dairy beef!)
+= Total lifetime value: 1,255-1,540 sp revenue
+
+Net return: 255-540 sp profit after feed costs (winter feeding expensive but offset by quality)
+```
+
+**Note:** Northern dairy cattle are the BEST economic investment of any dairy breed due to:
+1. Longest productive life (9+ years vs 5-7 for other dairy)
+2. Highest value products (6-7% butterfat commands premium pricing)
+3. Best cull beef yields (22.9% - nearly matches dedicated beef cattle)
+
+### **Straight Beef Purchase (Comparison):**
+
+```
+Purchase beef steer: 350-400 sp (similar size)
++ Processing (minimal - no daily milking labor)
+= Immediate beef value: 450-500 sp retail
+
+Net return: 100-150 sp profit (quicker turnover, less labor)
+```
+
+**Northern dairy beats straight beef by 2-3x over lifetime** - but requires 9 years and daily care.
+
+### **When to Cull Dairy Cows:**
+
+**Cull when:**
+- Production drops below 2 gallons/day (not economical with northern winter feeding)
+- Age exceeds 12 years (declining fertility)
+- Health issues (critical in cold climate - cannot risk loss)
+- Market conditions favor beef over dairy
+
+**Optimal culling:** Year 10-12 of productive life, when milk production declining but cold-adapted body condition ensures EXCELLENT beef quality (superior to urban/heartlands dairy)
+
+**Critical advantage:** Northern dairy cull beef commands highest prices of any dairy breed (22.9% yield + "northern grass-fed" premium marketing).
+
+**See Master Provisioner's Guide § Dairy Products** for complete milk, butter, and cheese production economics and pricing, including high-butterfat premium pricing calculations.
+
+---
+
 ## BEEF PROCESSING (Cull Cows)
 
 ### **Yields (1,200 lb cull cow - BEST dairy beef)**
@@ -60,6 +107,20 @@ Retail Cuts: 275 lbs
 
 Total Yield: 22.9% (nearly matches beef cattle!)
 ```
+
+### **Processing Time**
+
+**Total Active Labor:** 15 hours average
+
+**Timeline:**
+- Initial processing: 2-3 hours (slaughter to hung)
+- Aging: 21 days (longer for optimal tenderness - cold climate cattle)
+- Primal breakdown: 2-3 hours
+- Retail fabrication: 8-9 hours (more time due to best dairy yields)
+
+**Labor Cost:** ~60 sp (15 hours × 4 sp/hour journeyman rate)
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
 
 **Why better?** Cold-adapted cattle maintain better body condition, more intramuscular fat for insulation.
 

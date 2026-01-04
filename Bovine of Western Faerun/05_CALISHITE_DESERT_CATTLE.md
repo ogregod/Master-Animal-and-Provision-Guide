@@ -50,6 +50,22 @@ Retail Cuts: 207 lbs
 Total Yield: 20.7% (lower due to lean condition)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 11-12 hours average (FASTER than standard)
+
+**Timeline:**
+- Initial processing: 2 hours (slaughter to hung - RAPID, heat spoilage risk)
+- Aging: 10 days (SHORTER - desert heat limits aging time)
+- Primal breakdown: 2 hours (rapid processing)
+- Retail fabrication: 5-7 hours (smaller animal, lean meat)
+
+**Labor Cost:** ~48 sp (12 hours × 4 sp/hour journeyman rate)
+
+**CRITICAL:** Desert processing requires speed over perfection. Morning slaughter, immediate cooling, rapid breakdown. Extended processing = spoilage losses.
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Heat Processing:** RAPID processing essential. Desert heat = extreme spoilage risk.
 
 ---

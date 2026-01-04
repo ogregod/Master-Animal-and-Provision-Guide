@@ -49,6 +49,22 @@ Retail Cuts: 337 lbs
 Total Yield: 17.7% (LOWEST of domestic cattle)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 19-20 hours average (LONGEST of any domestic cattle)
+
+**Timeline:**
+- Initial processing: 4-5 hours (slaughter to hung - MASSIVE animal, 1,900 lbs)
+- Aging: 14 days (minimal - very tough meat)
+- Primal breakdown: 4-5 hours (extremely heavy carcass, requires multiple butchers)
+- Retail fabrication: 9-11 hours (large volume, extensive connective tissue trimming)
+
+**Labor Cost:** ~100 sp (20 hours × 5 sp/hour experienced journeyman/low master rate)
+
+**Note:** Mirabar Mountain Oxen are DIFFICULT to process - some butchers refuse them. Standard journeyman rate (4 sp/hour) insufficient for this work. Expect 5-6 sp/hour for experienced butchers willing to handle these massive animals.
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Why so low?** Oldest animals, most heavily worked muscles, extreme connective tissue development.
 
 ---

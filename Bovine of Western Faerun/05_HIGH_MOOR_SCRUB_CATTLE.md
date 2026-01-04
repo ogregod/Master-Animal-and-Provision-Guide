@@ -50,6 +50,23 @@ Retail Cuts: 196 lbs
 Total Yield: 20.6% (low due to lean, wild condition)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 10-12 hours average (shorter - wild game method)
+
+**Timeline:**
+- **Field dressing:** 1-2 hours (on-site, wilderness conditions)
+- Transport to processing location
+- Aging: 10 days (shorter for wild game)
+- Primal breakdown: 2 hours
+- Retail fabrication: 5-7 hours (smaller animal, lean meat)
+
+**Labor Cost:** ~48 sp (12 hours × 4 sp/hour journeyman rate)
+
+**Note:** Field dressing is HUNTER labor (not butcher labor). Butcher processing begins after transport. If hunter cannot field dress, add +20 sp for butcher to travel to kill site.
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Field Processing:** Often field-dressed immediately (wilderness hunting conditions)
 
 ---

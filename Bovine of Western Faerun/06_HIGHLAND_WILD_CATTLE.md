@@ -66,6 +66,30 @@ Retail Cuts: 298 lbs
 Total Yield: 19.8% (typical for wild cattle)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 14-15 hours average
+
+**Timeline (Option A - Transport Whole):**
+- Bleed & gut on-site: 1 hour
+- Transport to butcher (wagon)
+- Initial processing: 2-3 hours (skin to hung)
+- Aging: 10 days (wild game aging)
+- Primal breakdown: 2-3 hours
+- Retail fabrication: 7-8 hours (wild game character, careful trimming)
+
+**Timeline (Option B - Field Dress & Quarter):**
+- Field dressing: 2-3 hours (complete breakdown on-site)
+- Transport quarters
+- Aging: 7 days (shorter - field dressed)
+- Retail fabrication: 7-8 hours
+
+**Labor Cost:** ~60 sp (15 hours × 4 sp/hour journeyman rate)
+
+**Note:** Option A provides better quality (controlled environment). Option B necessary for remote kills (8+ miles from processing).
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Processing:** Can be transported whole (smaller than aurochs) or field-dressed
 
 ---

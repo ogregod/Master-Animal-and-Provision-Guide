@@ -80,6 +80,43 @@
 
 ---
 
+## DAIRY VS. BEEF ECONOMICS
+
+### **Productive Dairy Cow (Lifetime Value):**
+
+```
+Purchase: 600-900 sp (productive cow)
++ Milk revenue: 36-50 sp/year × 5 years (average) = 180-250 sp
++ Cull beef value: 350-400 sp (when retired)
+= Total lifetime value: 530-650 sp revenue
+
+Net return: Break-even to moderate profit (feed costs 200-300 sp over 5 years)
+```
+
+### **Straight Beef Purchase (Comparison):**
+
+```
+Purchase beef steer: 350-400 sp
++ Processing (minimal - no daily feeding/milking labor)
+= Immediate beef value: 450-500 sp retail
+
+Net return: 100-150 sp profit (quicker turnover, less labor)
+```
+
+### **When to Cull Dairy Cows:**
+
+**Cull when:**
+- Production drops below 3 gallons/day (not economical to feed)
+- Age exceeds 8 years (declining fertility/milk quality)
+- Health issues affect milk production
+- Market conditions favor beef over dairy
+
+**Optimal culling:** Year 6-8 of productive life, when milk production declining but body condition still good (better beef quality)
+
+**See Master Provisioner's Guide § Dairy Products** for complete milk, butter, and cheese production economics and pricing.
+
+---
+
 ## BEEF PROCESSING (Cull Cows Only)
 
 ### **Processing Yields (1,000 lb cull cow)**
@@ -98,6 +135,20 @@ Retail Cuts: 215 lbs
 
 Total Yield: 21.5% live to retail (vs. 23% for beef cattle)
 ```
+
+### **Processing Time**
+
+**Total Active Labor:** 13 hours average
+
+**Timeline:**
+- Initial processing: 2-3 hours (slaughter to hung)
+- Aging: 14 days (shorter than beef cattle - leaner)
+- Primal breakdown: 2-3 hours
+- Retail fabrication: 6-7 hours
+
+**Labor Cost:** ~52 sp (13 hours × 4 sp/hour journeyman rate)
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
 
 **Complete Breakdown:**
 - **Retail Cuts:** 215 lbs (21.5%)

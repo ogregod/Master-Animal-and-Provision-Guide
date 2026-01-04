@@ -36,6 +36,20 @@ Retail: 247 lbs (37% - lower than Daggerford Common)
 Total Yield: 21.5% live to retail
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 13 hours average
+
+**Timeline:**
+- Initial processing: 2-3 hours (slaughter to hung)
+- Aging: 21 days (grass-fed, needs full aging)
+- Primal breakdown: 2-3 hours
+- Retail fabrication: 6-7 hours (less meat volume than premium breeds)
+
+**Labor Cost:** ~52 sp (13 hours × 4 sp/hour journeyman rate)
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Leaner, less marbling, lower yields - but cheaper purchase price.**
 
 ---

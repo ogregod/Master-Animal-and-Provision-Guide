@@ -35,6 +35,22 @@ Retail: 325 lbs (40% - HIGHER yield, more marbling)
 Total Yield: 25% live to retail (vs. 23% for grass-fed)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 16 hours average
+
+**Timeline:**
+- Initial processing: 3 hours (slaughter to hung - heavier animal)
+- Aging: 21-28 days (longer for optimal marbling development)
+- Primal breakdown: 3 hours (more careful handling of premium quality)
+- Retail fabrication: 8-10 hours (more meat volume, premium cuts)
+
+**Labor Cost:** ~64 sp (16 hours × 4 sp/hour journeyman rate)
+
+**Note:** Some butchers charge master rate (6 sp/hour = 96 sp) for premium grain-finished cattle due to careful handling requirements.
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Grain finishing increases marbling and overall yields.**
 
 ---

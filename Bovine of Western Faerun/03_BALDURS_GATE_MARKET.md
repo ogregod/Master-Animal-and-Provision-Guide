@@ -41,6 +41,20 @@ Retail: 286 lbs (38.5%)
 Matches Daggerford Common yields (baseline)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 14 hours average
+
+**Timeline:**
+- Initial processing: 2-3 hours (slaughter to hung)
+- Aging: 21 days (standard)
+- Primal breakdown: 2-3 hours
+- Retail fabrication: 6-8 hours
+
+**Labor Cost:** ~56 sp (14 hours × 4 sp/hour journeyman rate)
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 ---
 
 ## FOUNDRY ITEM BREAKDOWN

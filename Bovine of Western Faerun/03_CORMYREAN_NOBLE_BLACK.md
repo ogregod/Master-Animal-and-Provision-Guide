@@ -36,6 +36,22 @@ Retail: 355 lbs (40% - maximum quality)
 Total Yield: 25.4% live to retail
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 18 hours average
+
+**Timeline:**
+- Initial processing: 3-4 hours (slaughter to hung - premium careful handling)
+- Aging: 28-35 days (EXTENDED for maximum tenderness and flavor)
+- Primal breakdown: 3-4 hours (expert seam separation, minimal waste)
+- Retail fabrication: 9-11 hours (maximum meat volume, premium presentation)
+
+**Labor Cost:** ~108 sp (18 hours × 6 sp/hour MASTER butcher rate)
+
+**Note:** Cormyrean Noble Black REQUIRES master butcher processing - journeyman rates inappropriate for this premium breed. Customers paying 3,500 sp for the animal expect expert processing.
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 ---
 
 ## FOUNDRY ITEM BREAKDOWN

@@ -50,7 +50,47 @@
 
 **Milk Quality:** Very high butterfat (5-6%), excellent for cheese
 
-**Annual Revenue per Cow:** 150-200 gallons milk + cheese/butter production
+**Annual Revenue per Cow:** 150-200 gallons direct milk sales + cheese/butter production
+
+---
+
+## DAIRY VS. BEEF ECONOMICS
+
+### **Productive Dairy Cow (Lifetime Value):**
+
+```
+Purchase: 550-850 sp (productive cow)
++ Milk revenue: 30-40 sp/year × 7 years (average productive life) = 210-280 sp
++ Cheese/butter value: 20-30 sp/year × 7 years = 140-210 sp
++ Cull beef value: 420-480 sp (when retired)
+= Total lifetime value: 770-970 sp revenue
+
+Net return: 100-300 sp profit after feed costs (grass-based = lower feed costs)
+```
+
+### **Straight Beef Purchase (Comparison):**
+
+```
+Purchase beef steer: 350-400 sp (similar size)
++ Processing (minimal - no daily milking labor)
+= Immediate beef value: 450-500 sp retail
+
+Net return: 100-150 sp profit (quicker turnover, less labor)
+```
+
+### **When to Cull Dairy Cows:**
+
+**Cull when:**
+- Production drops below 2.5 gallons/day (not economical for grass-based system)
+- Age exceeds 10 years (declining fertility/milk quality)
+- Health issues affect milk production or mobility
+- Market conditions favor beef over dairy
+
+**Optimal culling:** Year 7-10 of productive life, when milk production declining but grass-fed body condition still excellent (superior beef quality to urban dairy)
+
+**Advantage over urban dairy:** Grass-fed cull cows yield better beef (22.5% vs 21.5%) and command premium "grass-fed dairy beef" pricing.
+
+**See Master Provisioner's Guide § Dairy Products** for complete milk, butter, and cheese production economics and pricing.
 
 ---
 
@@ -69,6 +109,20 @@ Retail Cuts: 247 lbs
 
 Total Yield: 22.5% live to retail
 ```
+
+### **Processing Time**
+
+**Total Active Labor:** 14 hours average
+
+**Timeline:**
+- Initial processing: 2-3 hours (slaughter to hung)
+- Aging: 14 days (moderate aging)
+- Primal breakdown: 2-3 hours
+- Retail fabrication: 7-8 hours (slightly more due to better yields)
+
+**Labor Cost:** ~56 sp (14 hours × 4 sp/hour journeyman rate)
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
 
 **Better than urban dairy due to grass-based feeding and better body condition.**
 

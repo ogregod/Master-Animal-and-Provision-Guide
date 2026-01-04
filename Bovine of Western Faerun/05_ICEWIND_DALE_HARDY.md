@@ -59,6 +59,22 @@ Retail Cuts: 234 lbs
 Total Yield: 21.3% (good for dairy cattle)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 14 hours average
+
+**Timeline:**
+- Initial processing: 2-3 hours (slaughter to hung)
+- Aging: 28 days (EXTENDED - natural freezing eliminates spoilage risk!)
+- Primal breakdown: 2-3 hours
+- Retail fabrication: 7-8 hours
+
+**Labor Cost:** ~56 sp (14 hours × 4 sp/hour journeyman rate)
+
+**Winter Advantage:** Icewind Dale's extreme cold provides FREE refrigeration. Carcasses can hang for 28+ days without spoilage, resulting in superior tenderness at no additional cost. Summer processing requires rapid turnaround (10 days max).
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Winter Advantage:** Natural freezing = extended aging without spoilage risk!
 
 ---

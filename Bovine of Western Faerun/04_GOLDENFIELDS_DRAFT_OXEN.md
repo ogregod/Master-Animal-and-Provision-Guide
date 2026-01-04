@@ -47,6 +47,22 @@ Retail Cuts: 331 lbs
 Total Yield: 19.5% (lower than beef cattle due to age)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 17 hours average
+
+**Timeline:**
+- Initial processing: 3-4 hours (slaughter to hung - LARGE animal)
+- Aging: 14 days (shorter - tougher meat doesn't benefit from extended aging)
+- Primal breakdown: 3-4 hours (heavy carcass, careful handling)
+- Retail fabrication: 8-10 hours (large volume, more waste trimming)
+
+**Labor Cost:** ~68 sp (17 hours × 4 sp/hour journeyman rate)
+
+**Note:** Some butchers charge extra for draft oxen due to size and difficulty (up to 5 sp/hour).
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Why lower?** Older animals, worked muscles create more connective tissue, lower fat cover.
 
 ---

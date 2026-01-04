@@ -66,6 +66,29 @@ Retail Cuts: 435 lbs
 Total Yield: 18.9% (lower for wild game, but HUGE volume)
 ```
 
+### **Processing Time**
+
+**Total Active Labor:** 20-25 hours (MASSIVE animal, community effort often required)
+
+**Timeline:**
+- **Field dressing:** 4-6 hours (MANDATORY - animal too large to transport whole)
+  - Requires 3-5 experienced hunters/butchers working together
+  - Bleed, gut, skin, quarter on-site
+- Transport quarters to village (wagon required)
+- Aging: 7 days (minimal - wild game, limited refrigeration)
+- Primal breakdown: 4-6 hours (massive quarters, heavy lifting)
+- Retail fabrication: 10-14 hours (HUGE meat volume, careful wild game processing)
+
+**Labor Cost:** ~120-150 sp total
+
+**Cost Breakdown:**
+- Field dressing: ~50-60 sp (4-5 hunters × 4-6 hours × share of kill value)
+- Butcher processing: ~70-90 sp (18 hours × 4-5 sp/hour journeyman/experienced rate)
+
+**Note:** Aurochs processing often handled as COMMUNITY EVENT - hunters share labor, meat distributed among participants. Commercial processing rare due to massive scale.
+
+**See Master Butcher's Guide § Economic Mathematics, Labor Cost Calculations**
+
 **Field Dressing:** REQUIRED immediately. Animal too large to transport whole.
 
 ---
