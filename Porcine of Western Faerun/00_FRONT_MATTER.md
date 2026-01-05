@@ -385,7 +385,7 @@ This isn't just flavor text - it's functional game content that rewards player e
 
 ## GUIDE VERSION
 
-**Version:** 1.0
+**Edition:** Fourth Edition
 **Date:** 1492 DR
 **Region:** Western Faerûn (Sword Coast, Heartlands, The North)
 
